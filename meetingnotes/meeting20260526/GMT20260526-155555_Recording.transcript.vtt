@@ -1,0 +1,1198 @@
+WEBVTT
+
+1
+00:04:45.990 --> 00:04:47.240
+Jordan Augé: Hi, everyone!
+
+2
+00:04:48.650 --> 00:04:49.520
+Matthew Khouzam | Ericsson | With Brownies: Hey, hey!
+
+3
+00:04:52.350 --> 00:04:53.750
+Daniel King: Hey, good morning, guys.
+
+4
+00:04:56.300 --> 00:04:58.240
+Sanjeev Suresh: Hey, good morning, folks.
+
+5
+00:04:59.270 --> 00:05:01.720
+Matthew Khouzam | Ericsson | With Brownies: I'm just saying, I have brownies here. I'm proud.
+
+6
+00:05:16.320 --> 00:05:20.649
+Matthew Khouzam | Ericsson | With Brownies: And now, in the theme of the meeting, I did not accurately or reliably cut it in half.
+
+7
+00:05:28.150 --> 00:05:30.250
+Jordan Augé: So let's wait a couple of minutes.
+
+8
+00:05:30.550 --> 00:05:32.480
+Jordan Augé: Do have more people join?
+
+9
+00:06:20.360 --> 00:06:21.409
+Jordan Augé: One…
+
+10
+00:06:41.490 --> 00:06:45.219
+Jordan Augé: Yeah, so we are waiting one more minute, and then we can start.
+
+11
+00:07:23.070 --> 00:07:38.020
+Jordan Augé: Okay, so I guess we can slowly start, and we'll see who joins. So, thanks everyone for connecting. So, what we can start is quickly reviewing the agenda, so…
+
+12
+00:07:38.340 --> 00:07:40.629
+Jordan Augé: Basically, I was,
+
+13
+00:07:41.010 --> 00:07:47.579
+Jordan Augé: proposing that we start with a quick, discussion about the charter that got approved by the TC,
+
+14
+00:07:48.130 --> 00:07:53.390
+Jordan Augé: on the 15th of May, and so that means for us we are entering the execution mode.
+
+15
+00:07:55.350 --> 00:08:07.380
+Jordan Augé: Then, we can discuss quickly about the different, deliverables. So, many working groups, they have adopted the focus group model, and basically it corresponds to the different,
+
+16
+00:08:07.510 --> 00:08:16.960
+Jordan Augé: work streams and deliverables, so… last time with Casper, you already discussed about a few people that were interested in contributing, so…
+
+17
+00:08:17.690 --> 00:08:26.280
+Jordan Augé: We can… Continue on that and try to agree on this model, decide who wants to contribute and organize.
+
+18
+00:08:27.220 --> 00:08:41.229
+Jordan Augé: And finally, we can make a quick overview of the status, and Sanjeev, I've seen that you shared some progress you've done, so if you want to take some time in the agenda to discuss that, I think it would be great.
+
+19
+00:08:42.340 --> 00:09:00.639
+Jordan Augé: And at the end, I wanted to highlight a bit the… one particular, which is the taxonomy and landscape discussion. So, there's been a working group, starting, last week, and so they started putting in place some tooling to contribute the…
+
+20
+00:09:00.850 --> 00:09:07.090
+Jordan Augé: terminology, so I wanted to make everyone aware of what they are doing and how we might want to contribute.
+
+21
+00:09:07.330 --> 00:09:10.119
+Jordan Augé: So, do you see something you want to add to the agenda?
+
+22
+00:09:21.160 --> 00:09:22.390
+Jordan Augé: If not, we can.
+
+23
+00:09:22.390 --> 00:09:26.230
+Matthew Khouzam | Ericsson | With Brownies: I have a concern, but I… and I would like this to be more at the end.
+
+24
+00:09:26.690 --> 00:09:31.139
+Matthew Khouzam | Ericsson | With Brownies: But it's really, with all the focus groups and everything, are we fragmenting too much?
+
+25
+00:09:32.210 --> 00:09:38.890
+Matthew Khouzam | Ericsson | With Brownies: It feels maybe a little over-engineered, and I want to just have us have an open discussion of that.
+
+26
+00:09:39.020 --> 00:09:42.029
+Matthew Khouzam | Ericsson | With Brownies: After we… near the end, if possible.
+
+27
+00:09:43.350 --> 00:09:54.329
+Jordan Augé: Sure, and I think that's why we need to discuss, because I guess every working group can proceed as they want, so it's up to us to see what's the best for what we want to achieve.
+
+28
+00:09:54.920 --> 00:10:00.709
+Jordan Augé: It depends if we need also a lot of synchronization offline and new meetings, or if we can use this one.
+
+29
+00:10:01.590 --> 00:10:07.989
+Jordan Augé: So, again, AF is trying to promote as much as they can offline work.
+
+30
+00:10:08.290 --> 00:10:19.909
+Jordan Augé: And ideally, we would try to use this meeting for having one responsible person to give some feedback and inform about progress, but that doesn't mean we need a meeting, I guess.
+
+31
+00:10:21.060 --> 00:10:22.000
+Jordan Augé: Let's see.
+
+32
+00:10:23.150 --> 00:10:24.409
+Jordan Augé: Thanks for the…
+
+33
+00:10:26.930 --> 00:10:34.019
+Sanjeev Suresh: I also have to drop off at 9.30, so, Yeah, if I can…
+
+34
+00:10:35.800 --> 00:10:39.620
+Sanjeev Suresh: Like, have maybe, like, 5 minutes to talk about…
+
+35
+00:10:42.350 --> 00:10:47.320
+Jordan Augé: Sure, I think we can come really quickly to this extreme, because there are…
+
+36
+00:10:47.760 --> 00:10:50.280
+Jordan Augé: I mean, not much to say, so…
+
+37
+00:10:50.530 --> 00:10:58.370
+Jordan Augé: most of the discussion is really about starting organizing ourselves to work on the different topics, and so I guess…
+
+38
+00:10:58.730 --> 00:11:02.990
+Jordan Augé: Half an hour should be plenty of time to come to it, and…
+
+39
+00:11:03.140 --> 00:11:05.479
+Jordan Augé: Remaining time can be discussion and…
+
+40
+00:11:05.990 --> 00:11:09.080
+Jordan Augé: We will have closed the main agenda topics.
+
+41
+00:11:14.000 --> 00:11:16.419
+Jordan Augé: Any other comments before we start?
+
+42
+00:11:20.890 --> 00:11:21.750
+Jordan Augé: Okay.
+
+43
+00:11:21.750 --> 00:11:24.979
+Matthew Khouzam | Ericsson | With Brownies: I believe Jesse would like to know where to find the working group list?
+
+44
+00:11:25.600 --> 00:11:31.540
+Jordan Augé: So, the working group list, that's a good question, So
+
+45
+00:11:31.760 --> 00:11:35.460
+Jordan Augé: You should have received, all the…
+
+46
+00:11:36.360 --> 00:11:53.830
+Jordan Augé: rights to go on GitHub, so from there, of course, you have access to the technical community GitHub repo, and there they should have the list. And otherwise, every repo is listed as a repository there, so that's one way to get it.
+
+47
+00:11:54.220 --> 00:11:57.700
+Sanjeev Suresh: And I guess there are also Discord channels corresponding to each.
+
+48
+00:12:03.200 --> 00:12:04.190
+Jessie Zhang: Right, yeah.
+
+49
+00:12:04.190 --> 00:12:05.549
+Jordan Augé: So that is a web page, though.
+
+50
+00:12:13.150 --> 00:12:17.229
+Jordan Augé: Okay, so… Do you have any other comment on that?
+
+51
+00:12:21.810 --> 00:12:28.950
+Jordan Augé: Okay, so now a quick word, then, about the charter. So, as I said, it was approved on the 15th of May.
+
+52
+00:12:29.150 --> 00:12:32.969
+Jordan Augé: So… The idea is that,
+
+53
+00:12:33.410 --> 00:12:41.110
+Jordan Augé: This allows the execution mode, basically, to start and to start assigning owners and seeing who is interested in different working streams.
+
+54
+00:12:41.750 --> 00:12:50.159
+Jordan Augé: So, really, our mission is really to define the standards, benchmarks, engineering practices for AI agents to operate accurately and reliably.
+
+55
+00:12:50.480 --> 00:12:52.760
+Jordan Augé: So, that starts with,
+
+56
+00:12:52.930 --> 00:13:00.799
+Jordan Augé: This terminology effort that is common to all working groups, and for there, we'll see that this new working group has been put in place to
+
+57
+00:13:01.080 --> 00:13:06.980
+Jordan Augé: orchestrate a bit the work done in the different working groups. So that doesn't mean they are, doing the work.
+
+58
+00:13:07.110 --> 00:13:21.890
+Jordan Augé: They bootstrapped it, it's up to each working group to contribute and submit pull requests. Eventually, the chairs can centralize that, or they're responsible of the stream, and they will maybe more arbitrate and review what we do.
+
+59
+00:13:23.220 --> 00:13:25.760
+Jordan Augé: So we have,
+
+60
+00:13:26.660 --> 00:13:37.430
+Jordan Augé: tried to cover the different interests that were raised in deliverables, so… I expect that everyone should be able to find, in each stream, things that were of interest.
+
+61
+00:13:38.620 --> 00:13:51.830
+Jordan Augé: So we had one first round of review that was doing the right concern, that the deliverable was a bit more complicated, so we tried to simplify it a lot, minimize a bit the number of deliverables, so we had some feedback on that, so…
+
+62
+00:13:51.960 --> 00:13:57.330
+Jordan Augé: We tried to account for it, and the second version was approved by the technical committee.
+
+63
+00:13:58.040 --> 00:14:06.260
+Jordan Augé: And the CTO, so… I don't know if you have any questions about this part?
+
+64
+00:14:10.850 --> 00:14:13.269
+Matthew Khouzam | Ericsson | With Brownies: You're not sharing any… thing, right?
+
+65
+00:14:14.020 --> 00:14:15.009
+Jordan Augé: No, I'm not sure…
+
+66
+00:14:15.010 --> 00:14:16.020
+Matthew Khouzam | Ericsson | With Brownies: document, okay, yep.
+
+67
+00:14:18.030 --> 00:14:24.690
+Jordan Augé: So you can find the charter with all the revisions, all the comments and the votes on GitHub.
+
+68
+00:14:24.980 --> 00:14:29.340
+Jordan Augé: So, we have, A per-working group repository.
+
+69
+00:14:29.590 --> 00:14:43.719
+Jordan Augé: So, every member should have access. We are discussing a bit the modalities, but so far it seems that people, they cannot create pull requests, they can just contribute to it, so it's up to the chairs for now to bootstrap the work streams like that.
+
+70
+00:14:43.800 --> 00:14:50.840
+Jordan Augé: You should find a summary of the working group and a link to the latest version of the charter that were approved, and…
+
+71
+00:14:50.860 --> 00:15:05.770
+Jordan Augé: I guess GitHub will become the best reference for up-to-date material, and we can use running notes as tracking day-to-day work streams, and as soon as we can, the idea is really to move to GitHub for the pull request collaborative environment.
+
+72
+00:15:08.200 --> 00:15:15.060
+Jordan Augé: So then again, it's up to us to decide, so we had some suggestions, but everything is really open to discussion.
+
+73
+00:15:18.400 --> 00:15:31.470
+Jordan Augé: So… so I was not there two weeks ago, but with Casper, you started discussing the different work streams, and thanks for everyone who proposed to contribute,
+
+74
+00:15:31.610 --> 00:15:37.899
+Jordan Augé: So, we have, A few efforts. So, the first one is the taxonomy.
+
+75
+00:15:38.060 --> 00:15:44.940
+Jordan Augé: and landscape. And, so far we have, Casper, who volunteered to… try to…
+
+76
+00:15:45.120 --> 00:15:48.600
+Jordan Augé: Make the liaison with the working group.
+
+77
+00:15:49.350 --> 00:15:59.630
+Jordan Augé: Still, we may discuss that after. It would be interesting to have a few volunteers to attend and make the bridge, really, about, this,
+
+78
+00:16:00.740 --> 00:16:08.160
+Jordan Augé: new working group that was created, where, they will have meetings every second week on Mondays, And,
+
+79
+00:16:08.400 --> 00:16:12.390
+Jordan Augé: That's the opportunity, really, to… Push.
+
+80
+00:16:13.020 --> 00:16:29.579
+Jordan Augé: our contribution to the taxonomy, see the feedback they give, and summarize the contribution we can make. So it would be nice if we can proceed in small batches, like, centralize some information in our working group. So they proposed an initial list, so they took a taxonomy, and if you go to their
+
+81
+00:16:30.010 --> 00:16:35.189
+Jordan Augé: GitHub. You can see they bootstrapped the webpage, and I can quickly show that,
+
+82
+00:16:36.910 --> 00:16:40.510
+Jordan Augé: So basically, everything is managed through,
+
+83
+00:16:40.630 --> 00:16:46.829
+Jordan Augé: files on GitHub, and from there, they have a periodic build that, is,
+
+84
+00:16:47.240 --> 00:16:53.909
+Jordan Augé: consolidating a tool to browse the terminology and browse the landscape, so I will… Just share my screen.
+
+85
+00:16:59.140 --> 00:17:06.310
+Jordan Augé: So, that's basically, a page that you can find a link from GitHub, and basically it's,
+
+86
+00:17:06.970 --> 00:17:12.450
+Jordan Augé: Taxonomy and landscape portal that makes it convenient to explore the taxonomy.
+
+87
+00:17:12.569 --> 00:17:18.860
+Jordan Augé: And you can see the different terms they started putting, and they made the first assignment to the…
+
+88
+00:17:19.220 --> 00:17:23.089
+Jordan Augé: corresponding working groups, we likely will come to a discussion.
+
+89
+00:17:23.260 --> 00:17:24.290
+Jordan Augé: And…
+
+90
+00:17:25.310 --> 00:17:35.760
+Jordan Augé: all this is generated from YAML files that adopt some standard formats, so you can have a look at the GitHub, it's really interesting. They explain the collaboration model, etc.
+
+91
+00:17:36.080 --> 00:17:39.340
+Jordan Augé: So you have different ways of visualizing pertopic, or…
+
+92
+00:17:39.500 --> 00:17:45.380
+Jordan Augé: Per, alphabetical order, the, the different, Terms that are defined.
+
+93
+00:17:46.570 --> 00:17:48.970
+Jordan Augé: And the second part is the landscape.
+
+94
+00:17:49.370 --> 00:17:54.099
+Jordan Augé: So that's a bit more than what we plan to do, but basically they defined a different,
+
+95
+00:17:54.380 --> 00:18:02.360
+Jordan Augé: Protocols, the different frameworks, etc, that are of interest and could be referenced or targeted by our working group.
+
+96
+00:18:03.000 --> 00:18:10.249
+Jordan Augé: So, if you go to their, working groups, so…
+
+97
+00:18:10.860 --> 00:18:13.850
+Jordan Augé: They have also a main repository.
+
+98
+00:18:14.440 --> 00:18:34.260
+Jordan Augé: So, Junjie and Gala, they are the two chairs that will take care of this mission, and I invite you, really, to have a look, and they have a very well-documented contribution engine, and all the taxonomy and landscape, it's centralized there, so it would be nice if we can adopt the same model when you want to contribute to this working group, so…
+
+99
+00:18:34.490 --> 00:18:40.200
+Jordan Augé: I'll try to come back at the end of the meeting to see who is interested in, contributing.
+
+100
+00:18:41.100 --> 00:18:43.170
+Jordan Augé: So we have the same,
+
+101
+00:18:46.380 --> 00:18:51.869
+Jordan Augé: GitHub repository, as I was mentioning, where you have the different information about,
+
+102
+00:18:52.350 --> 00:18:55.309
+Jordan Augé: the different documents, you have a version of the charter, and…
+
+103
+00:18:55.410 --> 00:18:59.670
+Jordan Augé: We try to keep it up to date with the approvals and the recent change.
+
+104
+00:18:59.830 --> 00:19:03.280
+Jordan Augé: And part of this section is about the…
+
+105
+00:19:04.080 --> 00:19:08.419
+Jordan Augé: different, work streams, so they correspond to deliverables.
+
+106
+00:19:08.800 --> 00:19:13.219
+Jordan Augé: So… I guess it's a good time to see,
+
+107
+00:19:14.530 --> 00:19:21.739
+Jordan Augé: what the working group prefers on operating model. If we create those work streams, do we want to create separate meetings?
+
+108
+00:19:22.020 --> 00:19:23.550
+Jordan Augé: Or not, so…
+
+109
+00:19:24.080 --> 00:19:30.429
+Jordan Augé: If we create official meetings, that means that we need to go, of course, through AAF to create the invites, etc.
+
+110
+00:19:31.090 --> 00:19:34.309
+Jordan Augé: Of course, then it can be offline informal collaboration.
+
+111
+00:19:34.530 --> 00:19:39.050
+Jordan Augé: through Discord, and we keep this metering as a central, so… I guess it depends on…
+
+112
+00:19:39.290 --> 00:19:44.270
+Jordan Augé: What we believe is the best, and of course, every…
+
+113
+00:19:44.650 --> 00:19:54.559
+Jordan Augé: person that wants to lead the effort, of course, will have the freedom to organize as they want. So, Kasper and myself, we should just try to facilitate, organization.
+
+114
+00:19:55.810 --> 00:19:56.910
+Jordan Augé: So…
+
+115
+00:19:57.890 --> 00:20:05.600
+Jordan Augé: I know Casper might not be joined, so maybe we can leave the discussion about the foundation and all.
+
+116
+00:20:05.800 --> 00:20:08.020
+Jordan Augé: Taxonomy a bit later.
+
+117
+00:20:08.970 --> 00:20:15.009
+Jordan Augé: The second part is about a liaison and dependency map, so this one, I guess, we don't need,
+
+118
+00:20:15.720 --> 00:20:23.870
+Jordan Augé: focus group at all. We just see, who is contributing to different working groups, and we've been interested in,
+
+119
+00:20:24.140 --> 00:20:28.259
+Jordan Augé: Making the junction to report interesting things, or,
+
+120
+00:20:28.530 --> 00:20:30.679
+Jordan Augé: Report what we are doing to this working group.
+
+121
+00:20:32.120 --> 00:20:40.229
+Jordan Augé: So, if you're interested, and you're attending already several working groups, I will really welcome, if you want to…
+
+122
+00:20:41.660 --> 00:20:42.950
+Jordan Augé: To help on this?
+
+123
+00:20:46.970 --> 00:20:50.339
+Jordan Augé: Otherwise, the… about, more,
+
+124
+00:20:51.050 --> 00:20:58.309
+Jordan Augé: bigger contribution as deliverable, so we have this first document, which is the Gap Analysis and Accuracy Benchmark Survey.
+
+125
+00:20:58.470 --> 00:21:03.230
+Jordan Augé: So there, Brian and Sanjeev, thank you for, contributing, so…
+
+126
+00:21:03.340 --> 00:21:12.610
+Jordan Augé: It would be interesting to see, who is interested in, contributing to this, and if one of you wants to lead,
+
+127
+00:21:13.530 --> 00:21:21.000
+Jordan Augé: Both of you, eventually, we can see how you want to… to lead that…
+
+128
+00:21:24.210 --> 00:21:30.800
+Sanjeev Suresh: Yeah, like, I think last week, just to get you up on speed towards Jordan, like, I think last week.
+
+129
+00:21:30.970 --> 00:21:46.660
+Sanjeev Suresh: we just probably collected some names of people who were interested in some of these deliverables. I don't think we have yet formalized or, like, we talked about how we want to actually collaborate on this.
+
+130
+00:21:47.260 --> 00:21:55.729
+Sanjeev Suresh: Some… something else also we talked about is we really want to get some deliverable out before it gets into the…
+
+131
+00:21:56.520 --> 00:22:02.249
+Sanjeev Suresh: I mean, summer break time, because people might start,
+
+132
+00:22:03.350 --> 00:22:08.030
+Sanjeev Suresh: Like, having other trips and stuff that they're going to.
+
+133
+00:22:08.240 --> 00:22:21.199
+Sanjeev Suresh: So I just put together… just to get this conversation on gap analysis started, like, I put together just a document, over this long weekend,
+
+134
+00:22:22.110 --> 00:22:40.439
+Sanjeev Suresh: I'm still not sure, like, how is the, like, what is the best way to collaborate around this, like, whether there'll be offline interaction, do we need, like, some separate small meeting? So I'll just share, like, I mean, in, like, maybe, like, 2 minutes, what, I mean, a rough high level of what I have.
+
+135
+00:22:41.090 --> 00:22:43.540
+Sanjeev Suresh: Let me see if I can share this…
+
+136
+00:22:46.930 --> 00:22:48.760
+Sanjeev Suresh: Can you see my screen?
+
+137
+00:22:51.040 --> 00:22:51.590
+Jordan Augé: Yes.
+
+138
+00:22:51.590 --> 00:23:01.630
+Sanjeev Suresh: Yeah, so, like, again, this is just, like, I mean, I put together… this is totally uncoordinated, I just did it on my own, so everything can be scrapped, too.
+
+139
+00:23:01.740 --> 00:23:12.149
+Sanjeev Suresh: I mean, so the idea, so the main, main thing, like, again, like, as a group, to get, like, I want to get feedback on, like, what is the…
+
+140
+00:23:12.250 --> 00:23:30.249
+Sanjeev Suresh: style we wanted, so, so right now, the way I'm presenting it is, like, so, so we want this gap analysis, and that is essentially what the current benchmarks can and cannot prove about, accuracy and reliability in general.
+
+141
+00:23:30.530 --> 00:23:38.450
+Sanjeev Suresh: And… so I also formulated based on the D1 document, the terminology doc that we have.
+
+142
+00:23:38.690 --> 00:23:50.709
+Sanjeev Suresh: So based on that, like, that could be, like, component-level, like, evidence, that could be, like, agent-level evidence, which involves, like, both single-agent and multi-agent workflows, and also the operational style of evidence.
+
+143
+00:23:51.070 --> 00:23:59.699
+Sanjeev Suresh: And so the main thing of this document would be this… some sort of, like, coverage matrix.
+
+144
+00:23:59.850 --> 00:24:12.289
+Sanjeev Suresh: Which evaluates different dimensions. So these are… some of these dimensions are the ones identified in D1 as well, like, a specific criterion accuracy.
+
+145
+00:24:12.710 --> 00:24:14.900
+Sanjeev Suresh: Like, contextual correctness.
+
+146
+00:24:15.060 --> 00:24:25.689
+Sanjeev Suresh: like, action correctness and side effects, and we can decide, like, what the, like, actual dimension should be. Across each dimension.
+
+147
+00:24:25.750 --> 00:24:36.790
+Sanjeev Suresh: Do we have, like, component-level evidence? So this is, like, primarily, like, model-level evidence. Say, for just criteria and relative accuracy, we have, like, substantial
+
+148
+00:24:36.790 --> 00:24:50.449
+Sanjeev Suresh: model-level evidence. We have multiple different benchmarks doing task-specific correctness criteria. Do we have, like, Asian-level evidence? Do we have operational evidence across different,
+
+149
+00:24:50.770 --> 00:25:02.429
+Sanjeev Suresh: dimensions, and what remains unproven for each dimension. So, like, a matrix like this would be the main highlight, that a reader would come to.
+
+150
+00:25:03.020 --> 00:25:07.709
+Sanjeev Suresh: And there's just, like, a description on, like, each of these dimensions.
+
+151
+00:25:12.780 --> 00:25:19.500
+Sanjeev Suresh: Like, what, stronger evidence would we need to add to different dimensions?
+
+152
+00:25:19.640 --> 00:25:34.379
+Sanjeev Suresh: And then just, like, more notes on, like, what classifa… what are the classifications we make on, like, single-age and multi-agent, and where… where… where is the evidence tire that we are talking about?
+
+153
+00:25:34.760 --> 00:25:46.500
+Sanjeev Suresh: Across, like, coverage, maturity, and what are the different benchmark families that we found and using in this. And, like, a small, compact.
+
+154
+00:25:47.030 --> 00:25:55.329
+Sanjeev Suresh: benchmark catalog, like, highlighting, I mean, really representative benchmarks of each, like, different benchmark family.
+
+155
+00:25:55.600 --> 00:25:58.530
+Sanjeev Suresh: yeah.
+
+156
+00:25:59.200 --> 00:26:02.289
+Sanjeev Suresh: So this is just at a, like, I mean, very high level, like, again,
+
+157
+00:26:02.480 --> 00:26:07.480
+Sanjeev Suresh: The idea is not to review it right now here, but just to get a conversation started.
+
+158
+00:26:08.950 --> 00:26:13.520
+Sanjeev Suresh: Is this the direction we want to see the report evolve in?
+
+159
+00:26:13.650 --> 00:26:20.399
+Sanjeev Suresh: Who would like to contribute? How should the contribution, structure look like?
+
+160
+00:26:22.850 --> 00:26:29.619
+Jordan Augé: So, I can't give you my opinion already, I think it's a very good starting point, and I encourage everyone to…
+
+161
+00:26:30.200 --> 00:26:35.440
+Jordan Augé: Contribute to such documents, so whether you want to put comments inside,
+
+162
+00:26:35.560 --> 00:26:42.769
+Jordan Augé: or contribute sections. What is important just is, that we put a little label with our name so that we can,
+
+163
+00:26:42.930 --> 00:26:45.060
+Jordan Augé: Discuss and interact.
+
+164
+00:26:45.870 --> 00:26:58.169
+Jordan Augé: If you want also to start another document with a different perspective, I think it's really great at beginning, because we are trying to collect all the information, and I guess that will help everyone to be able to read, even if you want,
+
+165
+00:26:58.680 --> 00:27:03.439
+Jordan Augé: A small document about what you think is important on the domain, and you can put that
+
+166
+00:27:03.630 --> 00:27:08.639
+Jordan Augé: in the running notes. So I discovered recently that you can create folders in the left panel.
+
+167
+00:27:08.950 --> 00:27:16.380
+Jordan Augé: So, like, you should for deliverance, so don't hesitate, really, to put, we can create a folder with personal notes and…
+
+168
+00:27:16.900 --> 00:27:21.470
+Jordan Augé: collect content eventually. I've seen interesting blog posts for some companies.
+
+169
+00:27:21.580 --> 00:27:30.270
+Jordan Augé: So, I guess anything we can read is interesting, and it's when we write the deliverable, then we need to be careful not to…
+
+170
+00:27:30.810 --> 00:27:33.529
+Jordan Augé: Pushing one company's vision, etc, but
+
+171
+00:27:34.890 --> 00:27:40.500
+Jordan Augé: the more you can read and the more you can share, interesting material, I guess, you should not hesitate.
+
+172
+00:27:41.790 --> 00:27:44.400
+Jordan Augé: So thanks a lot, Sanjeev, for contributing that.
+
+173
+00:27:47.690 --> 00:27:55.589
+Jordan Augé: So, I hope everyone has some time later to review and provide feedback, and I guess it's a good starting point, yes.
+
+174
+00:27:58.330 --> 00:28:05.460
+Sanjeev Suresh: Yeah, and I could copy and paste it into the main… like, as a separate tab in the main doc, too, if…
+
+175
+00:28:07.410 --> 00:28:08.469
+Sanjeev Suresh: That looks good.
+
+176
+00:28:14.220 --> 00:28:24.699
+Jordan Augé: So, do you have any questions on this part? So, I guess we can have a quick look at the second document. Sanjeev, you're also proposing to contribute.
+
+177
+00:28:26.030 --> 00:28:26.920
+Jordan Augé: And then we can…
+
+178
+00:28:26.920 --> 00:28:29.000
+Matthew Khouzam | Ericsson | With Brownies: Could you put a link to the, chat?
+
+179
+00:28:30.160 --> 00:28:30.850
+Matthew Khouzam | Ericsson | With Brownies: Oh.
+
+180
+00:28:30.850 --> 00:28:42.179
+Sanjeev Suresh: Yeah, yeah, I just did that, yeah. And I can copy and paste it in the running notes as a separate tab, too. I just created as a separate doc because we hadn't really talked about this in the last meeting.
+
+181
+00:28:43.500 --> 00:28:50.170
+Jordan Augé: Yeah, I think as soon as you put your name, it's perfectly fine to have an opinionated, or… Anything…
+
+182
+00:28:50.170 --> 00:28:54.679
+Sanjeev Suresh: Yeah, yeah, yeah, I wasn't sure about that, so, yeah, I will do that.
+
+183
+00:28:55.960 --> 00:29:07.730
+Jordan Augé: And we are lucky to have many different contributors, so I hope we have different perspectives, and that's how we'll identify what's common to every one of us, and really what we want to focus, and if there are subjects we disagree, that will remain.
+
+184
+00:29:07.930 --> 00:29:08.909
+Jordan Augé: Out of scope.
+
+185
+00:29:13.810 --> 00:29:23.619
+Jordan Augé: So, we want a quick word about the over part, which is, accuracy and reliability in agility systems, so what correspond to deliverable 4, so there.
+
+186
+00:29:23.760 --> 00:29:29.849
+Jordan Augé: Sanjeev, you propose to contribute. Casper and Prashy? I don't know who is connected.
+
+187
+00:29:32.380 --> 00:29:41.379
+Sanjeev Suresh: So, I think one thing we were talking about last time was, like, the gap analysis would be, like, sort of like a prereq for this, and I don't know if that still stands.
+
+188
+00:29:41.970 --> 00:29:53.550
+Sanjeev Suresh: or we want to spin off some… like, I haven't thought about that, that deliverable specifically. If anyone else has, like, I would love to hear,
+
+189
+00:29:53.800 --> 00:29:58.239
+Sanjeev Suresh: But yeah, something we talked about last time was maybe the gap analysis is, like, a prereq for it.
+
+190
+00:29:59.390 --> 00:30:20.700
+Jordan Augé: So clearly, gap is a prereq, so that doesn't prevent us to start contributing IDs and notes, because we might have some objectives. In terms of deadlines, the really urgent one is the taxonomy, because that's where we need to deliver something. Then, I agree that we need at least a first version of this deliverable before summer PTO.
+
+191
+00:30:20.700 --> 00:30:26.839
+Jordan Augé: Because, then, we lose, basically, one month over July and August, depending on
+
+192
+00:30:27.090 --> 00:30:36.000
+Jordan Augé: who is going away? But if we can have a first version, and then resume the work in September to have maybe, worked towards final version, that could be great, so…
+
+193
+00:30:36.540 --> 00:30:41.459
+Jordan Augé: We can try to focus maybe in the first, until next meeting on this one.
+
+194
+00:30:41.600 --> 00:30:45.230
+Jordan Augé: And, in next meeting, we start to collect IDs about,
+
+195
+00:30:47.200 --> 00:30:50.580
+Jordan Augé: what could be useful to put… I think that's a good planning.
+
+196
+00:30:54.830 --> 00:31:01.960
+Jordan Augé: So on my side, I will be very interested to help contribute on both, so mostly on the D4, but
+
+197
+00:31:02.480 --> 00:31:06.589
+Jordan Augé: I just don't want to lead it, because as a chair, I just try to facilitate, but
+
+198
+00:31:06.910 --> 00:31:08.779
+Jordan Augé: I'll try to provide some input also.
+
+199
+00:31:13.910 --> 00:31:23.120
+Jordan Augé: Okay, so just, maybe as a quick poll while everyone is there, if we can raise the hands about who thinks the focus group,
+
+200
+00:31:23.590 --> 00:31:31.229
+Jordan Augé: model is the more appropriate, so you can raise your hands, and I will do the same just after about who thinks it's a bit overhead.
+
+201
+00:31:31.550 --> 00:31:34.629
+Jordan Augé: And then we can discuss, just a quick poll,
+
+202
+00:31:35.470 --> 00:31:39.229
+Jordan Augé: You're able to raise your hand if you think it's a good model.
+
+203
+00:31:41.630 --> 00:31:48.750
+Jordan Augé: So you can use the zoom, because I don't see everyone, so you should have, a React icon?
+
+204
+00:31:53.050 --> 00:31:57.980
+Jordan Augé: Okay… Many hands up.
+
+205
+00:31:58.630 --> 00:32:01.780
+Jordan Augé: And, who thinks it's,
+
+206
+00:32:02.490 --> 00:32:07.010
+Jordan Augé: A bit of overhead, and would prefer to limit this number of focus groups.
+
+207
+00:32:07.190 --> 00:32:08.859
+Jordan Augé: Please, can you raise your hands?
+
+208
+00:32:12.910 --> 00:32:23.220
+Matthew Khouzam | Ericsson | With Brownies: I brought it up, I'm not even raising my hand. I want to make sure that we're just careful about this, because I just saw the amount of Discord channels explode in the last, in the last month.
+
+209
+00:32:25.290 --> 00:32:34.139
+Matthew Khouzam | Ericsson | With Brownies: And… I've seen this pattern before on Discord. I'm a regular on Discord, and… Normally, if there's more than…
+
+210
+00:32:34.620 --> 00:32:36.940
+Matthew Khouzam | Ericsson | With Brownies: 20 channels, people just stop paying attention.
+
+211
+00:32:37.850 --> 00:32:38.350
+Sanjeev Suresh: Hmm.
+
+212
+00:32:38.350 --> 00:32:39.530
+Matthew Khouzam | Ericsson | With Brownies: Focus on what they like.
+
+213
+00:32:41.640 --> 00:32:54.940
+Jordan Augé: So then we could have some hybrid, either doing ad hoc meetings when we need, or maybe one Discord channel so that we can easily track on Discord, but, focused meeting to discuss, really, about, tension points in deliverables, so…
+
+214
+00:32:56.300 --> 00:33:09.630
+Sanjeev Suresh: Yeah, I think that makes sense of, like, maybe, like, one Discord channel, like, I don't think it makes… we need to, like, split the Discord channel anyway, like, there might be, like, other folks, when seeing something in Discord, have useful input, too.
+
+215
+00:33:13.930 --> 00:33:18.960
+Sanjeev Suresh: like, I'll have to drop off in a bit, just one question I wanted to ask before,
+
+216
+00:33:19.200 --> 00:33:29.200
+Sanjeev Suresh: Like, just for the gap analysis in specific, is there, like, are there folks in this call right now who would love to contribute, like, just over the next two weeks? I can coordinate offline.
+
+217
+00:33:29.840 --> 00:33:34.060
+Jessie Zhang: Sanjeev, you can call me in, because I have done that for Autodesk as well.
+
+218
+00:33:34.700 --> 00:33:35.380
+Sanjeev Suresh: Okay.
+
+219
+00:33:37.030 --> 00:33:38.370
+Sanjeev Suresh: Thank you, Jesse.
+
+220
+00:33:38.790 --> 00:33:41.979
+Matthew Khouzam | Ericsson | With Brownies: Please count me as an interested party. Matthew Kuz I'm here.
+
+221
+00:33:42.830 --> 00:33:43.780
+Sanjeev Suresh: Okay.
+
+222
+00:33:44.380 --> 00:33:46.969
+Vellaichamy, Sivapriya: Yeah, I'd like to contribute to Sanjeeel.
+
+223
+00:33:48.640 --> 00:33:52.260
+Sanjeev Suresh: Awesome. Then maybe let me just, Yeah.
+
+224
+00:33:52.260 --> 00:33:54.560
+Jordan Augé: You can put your names in Discord so that it sees…
+
+225
+00:33:54.560 --> 00:34:02.729
+Sanjeev Suresh: Yeah, that's right. Yeah, maybe, like, start a thread or something in Discord, and we can coordinate, just so that we can make some progress over the next two weeks before we next meet.
+
+226
+00:34:05.540 --> 00:34:12.340
+Jordan Augé: And so, do you agree, Sanjeev, you could lead these work streams, and I would support you, the rest, yeah.
+
+227
+00:34:12.810 --> 00:34:13.420
+Sanjeev Suresh: Awesome.
+
+228
+00:34:14.100 --> 00:34:14.770
+Jordan Augé: Thank you.
+
+229
+00:34:15.170 --> 00:34:17.050
+Sanjeev Suresh: Thank you, folks. I'll have to drop off.
+
+230
+00:34:17.719 --> 00:34:18.359
+Jordan Augé: Thanks.
+
+231
+00:34:22.259 --> 00:34:28.509
+Jordan Augé: So, we don't have a… participants to our work streams, but I guess…
+
+232
+00:34:28.619 --> 00:34:38.829
+Jordan Augé: We can try, from this base to try to contribute, over the work Sanjeev started, and in next meeting, we can discuss the next one.
+
+233
+00:34:39.959 --> 00:34:40.719
+Jordan Augé: So…
+
+234
+00:34:41.069 --> 00:34:50.169
+Jordan Augé: Who would be interested to do the liaison for the taxonomy working group? So, you don't need to propose your name now, you can look quickly at the…
+
+235
+00:34:51.539 --> 00:34:58.449
+Jordan Augé: the repository, if you want. I think it's a very low effort, but very important, because that's where we'll try to…
+
+236
+00:34:58.779 --> 00:35:02.309
+Jordan Augé: Coordinate also with whatever working groups are proposing.
+
+237
+00:35:02.489 --> 00:35:04.989
+Jordan Augé: So, I think it's quite rewarding, very important.
+
+238
+00:35:05.190 --> 00:35:09.000
+Matthew Khouzam | Ericsson | With Brownies: Jordan, I'm… I am proposing myself, but here's the catch.
+
+239
+00:35:09.370 --> 00:35:13.559
+Matthew Khouzam | Ericsson | With Brownies: I propose myself for the taxonomy liaison for every working group.
+
+240
+00:35:14.210 --> 00:35:17.299
+Matthew Khouzam | Ericsson | With Brownies: Okay. Because I really don't want a Tower of Babel happening.
+
+241
+00:35:20.800 --> 00:35:24.069
+Matthew Khouzam | Ericsson | With Brownies: So, I would do this, but I would not do this with the accuracy.
+
+242
+00:35:24.230 --> 00:35:26.640
+Matthew Khouzam | Ericsson | With Brownies: mindset, I would do this in… with the
+
+243
+00:35:27.020 --> 00:35:31.540
+Matthew Khouzam | Ericsson | With Brownies: Let's make sure there's no duplicates and people arguing over what a DDoS is.
+
+244
+00:35:33.300 --> 00:35:35.439
+Jordan Augé: I think that's exactly what we need, so…
+
+245
+00:35:35.630 --> 00:35:41.779
+Jordan Augé: we have this internal stream, which is, like, deliverable one, that Casper wanted to…
+
+246
+00:35:41.990 --> 00:35:50.950
+Jordan Augé: To lead, which is really about, defining some concepts, etc, and maybe you can help us also arbitrate and do the liaison for,
+
+247
+00:35:51.230 --> 00:35:56.330
+Jordan Augé: Coordinating the push to… To the working group, so that,
+
+248
+00:35:57.080 --> 00:36:05.450
+Jordan Augé: We are sure we are not proposing something which is in conflict, or if there is something currently adopted by all the working groups, so that we just use it.
+
+249
+00:36:06.670 --> 00:36:11.530
+Jordan Augé: Yeah, I'm really fine with trying to put the overhead as less as we can.
+
+250
+00:36:12.520 --> 00:36:13.310
+Jordan Augé: True.
+
+251
+00:36:13.590 --> 00:36:14.799
+Jordan Augé: Thank you very much.
+
+252
+00:36:15.480 --> 00:36:18.580
+Jordan Augé: So, if you don't mind, I will just put your name in the…
+
+253
+00:36:18.920 --> 00:36:20.939
+Jordan Augé: Chatter, because we need to track that.
+
+254
+00:36:21.140 --> 00:36:21.970
+Jordan Augé: Perfect.
+
+255
+00:36:24.350 --> 00:36:28.750
+Jordan Augé: And again, anyone who wants to help support this work, so…
+
+256
+00:36:29.220 --> 00:36:37.970
+Jordan Augé: please feel free, so I know Casper will help who is leading the deliverable, but if someone else is interested, don't hesitate to put your name, and that will help Matthew also.
+
+257
+00:36:40.760 --> 00:36:50.230
+Jordan Augé: What we can try is to do, like, batches of contributions. We work together on a batch, we discuss it in the meeting, then we submit a PR to the working group.
+
+258
+00:36:52.530 --> 00:36:55.649
+Jordan Augé: Oh, you're trying to motivate everyone to…
+
+259
+00:36:57.780 --> 00:37:00.429
+Jessie Zhang: That sounds really great, Matthew.
+
+260
+00:37:05.500 --> 00:37:06.520
+Jordan Augé: Okay, so…
+
+261
+00:37:06.520 --> 00:37:11.169
+Matthew Khouzam | Ericsson | With Brownies: We're all kind of volunteering here. If we're not having fun, we're doing it wrong.
+
+262
+00:37:12.520 --> 00:37:13.040
+Jessie Zhang: Yup.
+
+263
+00:37:18.220 --> 00:37:24.829
+Jordan Augé: So I guess we discussed all topics I had planned, so… do you see anything else you want to discuss, or…
+
+264
+00:37:25.400 --> 00:37:26.580
+Jordan Augé: Are we done?
+
+265
+00:37:29.900 --> 00:37:33.459
+Matthew Khouzam | Ericsson | With Brownies: I'm gonna give a random tip that has nothing to do with this.
+
+266
+00:37:34.940 --> 00:37:36.710
+Matthew Khouzam | Ericsson | With Brownies: When you're making brownies.
+
+267
+00:37:36.910 --> 00:37:42.929
+Matthew Khouzam | Ericsson | With Brownies: Add a quarter cup of peanut butter to it, and it makes it extra moist because the nut butter will retain moisture.
+
+268
+00:37:47.410 --> 00:37:50.100
+Jordan Augé: I hope you will send us some to taste.
+
+269
+00:37:51.540 --> 00:37:53.879
+Matthew Khouzam | Ericsson | With Brownies: Please come over. Please come over.
+
+270
+00:37:54.750 --> 00:37:57.449
+Jordan Augé: So let's meet at the agent currently.
+
+271
+00:37:57.450 --> 00:37:59.229
+Matthew Khouzam | Ericsson | With Brownies: Montreal. Ericsson, Montreal.
+
+272
+00:38:00.610 --> 00:38:03.859
+Matthew Khouzam | Ericsson | With Brownies: And seriously, if any of you are in Montreal, it will feed you aggressively.
+
+273
+00:38:05.600 --> 00:38:09.159
+Jessie Zhang: For that reason, I'll go find a business trip there.
+
+274
+00:38:09.610 --> 00:38:13.019
+Matthew Khouzam | Ericsson | With Brownies: Autodesk has a huge office here. Yeah. Let's do this.
+
+275
+00:38:13.520 --> 00:38:14.130
+Jessie Zhang: Good.
+
+276
+00:38:16.530 --> 00:38:24.060
+Jessie Zhang: So I was out for 2 weeks, so I will find out what else I can volunteer, because I had,
+
+277
+00:38:24.280 --> 00:38:30.269
+Jessie Zhang: we had a tech conference, I had 8 sessions, 8 different ones, so I was, I was…
+
+278
+00:38:30.520 --> 00:38:39.889
+Jessie Zhang: I was dying, so I had to take a week off, so… So now I'm kinda having more time, so I will find out what else I can contribute.
+
+279
+00:38:41.610 --> 00:38:42.280
+Jordan Augé: Thank you.
+
+280
+00:38:43.630 --> 00:38:46.359
+Jordan Augé: So… I count on,
+
+281
+00:38:46.890 --> 00:38:58.509
+Jordan Augé: the people to be the main entry point, and I'll be in the loop of everything to try to help coordinate, etc, and if we need to schedule some meetings, you can go through me, and I will sync with the AAF to…
+
+282
+00:38:58.910 --> 00:38:59.940
+Jordan Augé: organize.
+
+283
+00:39:00.840 --> 00:39:05.929
+Jordan Augé: I let every lead to decide what operating model is best.
+
+284
+00:39:07.110 --> 00:39:14.799
+Jordan Augé: Same for the documents, we can start on notes, move to GitHub when you think it's best, so I guess once we have a talk, it would be…
+
+285
+00:39:15.830 --> 00:39:16.979
+Jordan Augé: The right time.
+
+286
+00:39:18.940 --> 00:39:24.499
+Jordan Augé: And again, don't hesitate to share anything you have written in your company, blog post, etc.
+
+287
+00:39:25.280 --> 00:39:29.039
+Jordan Augé: I think we hesitate to do it, but there are great material inside, so…
+
+288
+00:39:29.210 --> 00:39:34.129
+Jordan Augé: Or if you want to provision, like, a slot in such meetings to present, like,
+
+289
+00:39:34.480 --> 00:39:36.970
+Jordan Augé: 5-10 minutes, don't hesitate.
+
+290
+00:39:45.490 --> 00:39:47.129
+Jordan Augé: Any last comments?
+
+291
+00:39:50.430 --> 00:39:59.659
+Jordan Augé: So, otherwise, thanks a lot for attendance. So, thanks for everyone who contributed to lead or help on the task. Don't hesitate to share the names on Discord so that we can think.
+
+292
+00:40:01.200 --> 00:40:02.659
+Jordan Augé: Let's see you soon!
+
+293
+00:40:03.920 --> 00:40:04.590
+Jessie Zhang: Great.
+
+294
+00:40:05.220 --> 00:40:05.820
+Jordan Augé: Take care.
+
+295
+00:40:05.820 --> 00:40:06.420
+Jessie Zhang: Thanks.
+
+296
+00:40:06.830 --> 00:40:07.899
+Jessie Zhang: Talk neither.
+
+297
+00:40:07.900 --> 00:40:08.860
+Pradyumna Singh: Thank you.
+
+298
+00:40:10.890 --> 00:40:11.820
+Matthew Khouzam | Ericsson | With Brownies: Thank you.
+
+299
+00:40:12.040 --> 00:40:12.760
+Jordan Augé: Thank you.
+
