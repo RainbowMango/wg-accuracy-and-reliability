@@ -1,0 +1,1906 @@
+WEBVTT
+
+1
+00:00:10.970 --> 00:00:12.090
+Matthew Khouzam | I want to download kimi k3: Hello, hello.
+
+2
+00:00:14.320 --> 00:00:16.770
+Jordan Augé: Hello, hello? How are you?
+
+3
+00:00:16.770 --> 00:00:18.059
+Matthew Khouzam | I want to download kimi k3: My camera hates me.
+
+4
+00:00:19.090 --> 00:00:20.750
+Jordan Augé: Oh, boy, they have some issues.
+
+5
+00:00:22.620 --> 00:00:24.350
+Matthew Khouzam | I want to download kimi k3: I promise you I exist.
+
+6
+00:00:25.410 --> 00:00:26.329
+Jordan Augé: Much better.
+
+7
+00:00:27.060 --> 00:00:28.469
+Jordan Augé: Let's see you.
+
+8
+00:00:53.810 --> 00:00:54.650
+Matthew Khouzam | I want to download kimi k3: Hey, Julio.
+
+9
+00:00:56.070 --> 00:00:56.820
+Jordan Augé: Hello?
+
+10
+00:00:58.260 --> 00:01:00.690
+Matthew Khouzam | I want to download kimi k3: Oh, look, his camera works, it's only mine.
+
+11
+00:01:03.050 --> 00:01:04.780
+Jordan Augé: I thought it was on purpose.
+
+12
+00:01:05.090 --> 00:01:07.330
+Matthew Khouzam | I want to download kimi k3: No, no, no, I'm frustrated with this thing.
+
+13
+00:01:10.070 --> 00:01:12.200
+Matthew Khouzam | I want to download kimi k3: I'm gonna try reloading the tab.
+
+14
+00:01:18.110 --> 00:01:19.270
+Jordan Augé: Hello?
+
+15
+00:01:25.730 --> 00:01:26.600
+Matthew Khouzam | I want to download kimi k3: Nope.
+
+16
+00:01:27.260 --> 00:01:27.870
+Jordan Augé: Nope.
+
+17
+00:01:35.490 --> 00:01:37.590
+Jordan Augé: Sound is good, though.
+
+18
+00:01:54.510 --> 00:01:56.519
+Matthew Khouzam | I want to download kimi k3: Okay, Hail Mary, I'm gonna restart Chrome.
+
+19
+00:02:04.260 --> 00:02:09.889
+Jordan Augé: So we'll wait a few minutes more to see if folks are connecting, and Mathieu to gain video.
+
+20
+00:02:15.970 --> 00:02:20.259
+Jordan Augé: I don't know if this summer if we'll be many people, but let's see.
+
+21
+00:02:21.240 --> 00:02:26.990
+Jordan Augé: We had the chair's working group meeting yesterday, and there were very few people, so that's it.
+
+22
+00:03:02.060 --> 00:03:03.770
+Jordan Augé: Way! Nice.
+
+23
+00:03:06.720 --> 00:03:07.690
+Jordan Augé: Hey, Jeff.
+
+24
+00:03:10.350 --> 00:03:11.200
+Jeff Borek: Greetings.
+
+25
+00:03:14.530 --> 00:03:15.540
+Jordan Augé: Hi, Sanjeev.
+
+26
+00:03:23.940 --> 00:03:28.509
+Jordan Augé: Okay, maybe we can start slowly and see who's joining.
+
+27
+00:03:30.410 --> 00:03:37.690
+Jordan Augé: So, we'll�?� Hey, Sanjeev, so I will quickly share�?� the agenda�?�
+
+28
+00:03:41.530 --> 00:03:42.990
+Jordan Augé: So, very simple.
+
+29
+00:03:44.460 --> 00:03:45.820
+Jordan Augé: Oh, wait�?�
+
+30
+00:03:54.840 --> 00:04:01.059
+Jordan Augé: Okay, so�?� We'll start with some, general updates, then,
+
+31
+00:04:01.660 --> 00:04:10.809
+Jordan Augé: We'll discuss with, Sanjeev the update on the progress on D3, the gap analysis by number�?� sorry, V, and also the�?�
+
+32
+00:04:11.700 --> 00:04:16.410
+Jordan Augé: The content of the survey we might want to communicate to people to get some feedback.
+
+33
+00:04:16.750 --> 00:04:21.050
+Jordan Augé: And finally, we can update also on the taxonomy effort and D1.
+
+34
+00:04:22.470 --> 00:04:27.180
+Jordan Augé: So, general updates, I don't think there are many more, so�?�
+
+35
+00:04:28.930 --> 00:04:31.759
+Jordan Augé: No, I would just remind you that,
+
+36
+00:04:32.790 --> 00:04:45.519
+Jordan Augé: So, due to summer PTO, myself and Casper will be alternatively on PTO, so the meeting will continue over the summer if enough people are there, so we should be at least one person be present.
+
+37
+00:04:48.250 --> 00:05:02.480
+Jordan Augé: not many news to communicate, so I just, asked yesterday during the chair's meeting if, things like doing surveys, like we were discussing, was something, AF was supporting, and actually, yes.
+
+38
+00:05:02.480 --> 00:05:08.459
+Jordan Augé: And they told me to discuss with Kristina to facilitate, eventually, communication with people, so�?�
+
+39
+00:05:09.120 --> 00:05:13.449
+Jordan Augé: For them, it's something completely welcome and open to us, so�?�
+
+40
+00:05:13.910 --> 00:05:22.799
+Jordan Augé: when we process, we can ping Christina and see how to proceed. I will ask her if there are tools for that. That's a point I did not have an answer yesterday.
+
+41
+00:05:27.790 --> 00:05:29.420
+Jordan Augé: Otherwise,
+
+42
+00:05:29.950 --> 00:05:35.800
+Jordan Augé: I don't know if you have any things, any updates, or interesting things you would like to share, any news?
+
+43
+00:05:36.390 --> 00:05:37.400
+Jordan Augé: Before we start this.
+
+44
+00:05:37.400 --> 00:05:38.409
+Matthew Khouzam | I want to download kimi k3: I have a small thing.
+
+45
+00:05:38.770 --> 00:05:39.150
+Jordan Augé: Yes?
+
+46
+00:05:39.150 --> 00:05:42.940
+Matthew Khouzam | I want to download kimi k3: The�?� and this is actually in the Discord, I just want to make sure that everyone's seen it.
+
+47
+00:05:43.320 --> 00:05:46.570
+Matthew Khouzam | I want to download kimi k3: In general, I believe that there's�?�
+
+48
+00:05:47.020 --> 00:05:55.109
+Matthew Khouzam | I want to download kimi k3: some, what do you call it? There's, Manic that said that there's, a nomination process now for projects that we like in particular.
+
+49
+00:05:57.370 --> 00:06:11.020
+Jordan Augé: So I've received the Pulse survey today, where they have a questionnaire about many things, and part of it, one question, is also about nomination to this survey, so if you're answering the Pulse, you might see the question.
+
+50
+00:06:11.020 --> 00:06:14.059
+Matthew Khouzam | I want to download kimi k3: AIF Technical Excellence Awards, I found it, I'll�?�
+
+51
+00:06:14.200 --> 00:06:15.599
+Matthew Khouzam | I want to download kimi k3: I'll put a link in the chat.
+
+52
+00:06:16.610 --> 00:06:17.220
+Jordan Augé: Thank you.
+
+53
+00:06:18.090 --> 00:06:20.209
+Jordan Augé: I can add it to the minutes, also.
+
+54
+00:06:26.080 --> 00:06:27.060
+Matthew Khouzam | I want to download kimi k3: Hold on.
+
+55
+00:06:27.380 --> 00:06:28.620
+Matthew Khouzam | I want to download kimi k3: Nevermind.
+
+56
+00:06:29.150 --> 00:06:30.630
+Matthew Khouzam | I want to download kimi k3: Deadline was last Friday.
+
+57
+00:06:31.930 --> 00:06:42.160
+Jordan Augé: But in the pulse that you received, likely today, there are similar questions about which project you would like to see adopted. Likely, there will be other rounds of�?�
+
+58
+00:06:42.610 --> 00:06:43.920
+Jordan Augé: Eliminations?
+
+59
+00:06:44.640 --> 00:06:45.310
+Matthew Khouzam | I want to download kimi k3: Hmm.
+
+60
+00:06:52.750 --> 00:06:54.780
+Jordan Augé: Anything else you would like to share?
+
+61
+00:06:59.390 --> 00:07:04.030
+Jordan Augé: Not�?� we can start with the updates on the�?�
+
+62
+00:07:04.370 --> 00:07:11.980
+Jordan Augé: difference, so�?� we did not have any meeting this week, because there was no big progress to share, so�?�
+
+63
+00:07:12.820 --> 00:07:17.540
+Jordan Augé: I don't know if we want to have a�?� to spend a bit of time today about discussion.
+
+64
+00:07:17.760 --> 00:07:20.250
+Jordan Augé: Of the survey and the deliverable.
+
+65
+00:07:20.910 --> 00:07:25.399
+Jordan Augé: the section on taxonomy effort, I guess, will be very quick at the end, so�?�
+
+66
+00:07:26.080 --> 00:07:32.029
+Jordan Augé: As much time as we want for discussing D3, which is the main topic, I guess.
+
+67
+00:07:33.410 --> 00:07:43.349
+Sanjeev Suresh: Yeah, yeah, thanks, Jordan. Yeah, so I think the primary thing I just want to discuss is, like, what's the best way to get feedback and have, like, collaboration?
+
+68
+00:07:44.340 --> 00:07:50.120
+Sanjeev Suresh: in some sort of, again, like, an async fashion. There is a version�?�
+
+69
+00:07:50.480 --> 00:07:57.589
+Sanjeev Suresh: so what we�?� we initially started with the potential gap analysis.
+
+70
+00:07:57.710 --> 00:08:13.040
+Sanjeev Suresh: for doing, I mean, for, like, agents and agent benchmarks in general, but, I mean, one thing we realized as a part of doing that is it's not really grounded in real problems, and what enterprise actually cares about is�?�
+
+71
+00:08:13.060 --> 00:08:17.989
+Sanjeev Suresh: is different, and we don't clearly know that yet.
+
+72
+00:08:18.230 --> 00:08:32.069
+Sanjeev Suresh: And that's when we decided to pivot to starting with a survey. And the goal of the survey is to understand the current state of just agent adoption across the industry, and also identify some of the priority
+
+73
+00:08:32.120 --> 00:08:38.750
+Sanjeev Suresh: Gaps with respect to, say, accuracy or reliability to inform the future deliverables of this.
+
+74
+00:08:40.020 --> 00:08:46.840
+Sanjeev Suresh: So if you can shift to the survey tab, Jordan�?�
+
+75
+00:08:48.390 --> 00:08:55.749
+Sanjeev Suresh: So there is, I mean, there is an existing, I mean, one version of the survey already. Robert left some good feedback on it.
+
+76
+00:08:56.390 --> 00:09:08.299
+Sanjeev Suresh: Other than that, I would love just more participation. Like, what's the best way to get that? Should I raise a PR? And, is that a better form for participation?
+
+77
+00:09:09.770 --> 00:09:11.260
+Sanjeev Suresh: Yeah. Thoughts?
+
+78
+00:09:12.870 --> 00:09:27.290
+Jordan Augé: That's a very good question I would like to have to the working group also, so we are not many today, but in the chair's meeting yesterday, many people raised an issue with using GitHub, and some with using,
+
+79
+00:09:27.560 --> 00:09:37.339
+Jordan Augé: Google Doc, so it seems that, just the tools are really problematic, so if you have issues with any tool that we are using, please, don't hesitate to reach out to us.
+
+80
+00:09:39.700 --> 00:09:46.470
+Jordan Augé: On that, so�?� and more specifically, then, every subgroup also can organize as�?� Best that,
+
+81
+00:09:46.640 --> 00:09:51.010
+Jordan Augé: Feel free to share, because it seems it's a recurrent issue in the different working groups.
+
+82
+00:09:52.500 --> 00:09:53.480
+Sanjeev Suresh: Not dear.
+
+83
+00:09:53.960 --> 00:09:58.320
+Matthew Khouzam | I want to download kimi k3: I have a thing, it's�?� it's entirely on the human side of,
+
+84
+00:09:58.670 --> 00:10:05.360
+Matthew Khouzam | I want to download kimi k3: the, equation. I think a lot of us are very overworked now. We're all planning our PTO.
+
+85
+00:10:06.770 --> 00:10:12.749
+Matthew Khouzam | I want to download kimi k3: And I'm not saying expect people not to do it, but you see how I put up Cunningham's Law in the chat?
+
+86
+00:10:13.980 --> 00:10:17.359
+Matthew Khouzam | I want to download kimi k3: Where you post something wrong, and then people make the time to correct it?
+
+87
+00:10:18.880 --> 00:10:23.860
+Matthew Khouzam | I want to download kimi k3: What I'm saying is that you need to make sure that people know what's in it for them to read this document, and�?�
+
+88
+00:10:24.320 --> 00:10:25.710
+Matthew Khouzam | I want to download kimi k3: I've been going through it, but�?�
+
+89
+00:10:26.620 --> 00:10:31.300
+Matthew Khouzam | I want to download kimi k3: I've been going through it with Priority 2, which means that I get interrupted constantly.
+
+90
+00:10:31.890 --> 00:10:35.770
+Matthew Khouzam | I want to download kimi k3: I'm certain that everyone else here has that same�?� Pain.
+
+91
+00:10:36.950 --> 00:10:44.750
+Matthew Khouzam | I want to download kimi k3: So, if you find�?� I would say it would be doing them a service and you a service.
+
+92
+00:10:45.110 --> 00:10:47.220
+Matthew Khouzam | I want to download kimi k3: If you put a what's in it for me section.
+
+93
+00:10:49.660 --> 00:10:51.220
+Matthew Khouzam | I want to download kimi k3: Or what's in it for me to review?
+
+94
+00:10:55.460 --> 00:10:59.869
+Sanjeev Suresh: like, I'm just thinking through that, like, what would that look like, right?
+
+95
+00:11:01.300 --> 00:11:04.910
+Matthew Khouzam | I want to download kimi k3: Yeah, soap.
+
+96
+00:11:06.100 --> 00:11:12.509
+Matthew Khouzam | I want to download kimi k3: Basically, I�?� I hate to work on people's fears, but there is the fear of missing out.
+
+97
+00:11:15.080 --> 00:11:17.510
+Matthew Khouzam | I want to download kimi k3: Like, if you put a deadline, that helps.
+
+98
+00:11:19.530 --> 00:11:22.159
+Sanjeev Suresh: Yeah, yeah, yeah, yeah, that, yeah.
+
+99
+00:11:25.140 --> 00:11:25.850
+Matthew Khouzam | I want to download kimi k3: Yeah.
+
+100
+00:11:25.850 --> 00:11:26.570
+Vellaichamy, Sivapriya: I�?�
+
+101
+00:11:27.240 --> 00:11:27.820
+Matthew Khouzam | I want to download kimi k3: Yes.
+
+102
+00:11:28.690 --> 00:11:39.349
+Vellaichamy, Sivapriya: Yeah, I think deadline is a good route to go. And also, I was wondering if we are going to present this as a paper, or a white paper.
+
+103
+00:11:40.540 --> 00:11:46.670
+Vellaichamy, Sivapriya: Or if we identify the right avenue, or venue where we'll be submitting this, or�?�
+
+104
+00:11:46.790 --> 00:11:59.110
+Vellaichamy, Sivapriya: a little bit more defined end goal or destination, then we can, you know, it'll always help for us to, okay, let's, you know, plan these modules until then with this time frame.
+
+105
+00:11:59.270 --> 00:12:04.369
+Vellaichamy, Sivapriya: So yeah, I was wondering if that's something we can do.
+
+106
+00:12:05.370 --> 00:12:09.329
+Vellaichamy, Sivapriya: Maybe Jordan is probably the best person for this question.
+
+107
+00:12:09.480 --> 00:12:15.549
+Vellaichamy, Sivapriya: Do we have some kind of a goal of a white paper, or we submit it to a conference?
+
+108
+00:12:15.810 --> 00:12:16.860
+Vellaichamy, Sivapriya: Oh�?�
+
+109
+00:12:17.610 --> 00:12:23.450
+Vellaichamy, Sivapriya: Or we publish it somewhere, and if that has a deadline, then, you know, we can just adopt the same deadline.
+
+110
+00:12:23.860 --> 00:12:30.560
+Sanjeev Suresh: I mean, we can always publish to the, say, like, so, like, I don't know whether just a survey�?�
+
+111
+00:12:31.030 --> 00:12:34.609
+Sanjeev Suresh: response itself is a�?� it's like a conference.
+
+112
+00:12:35.840 --> 00:12:43.109
+Sanjeev Suresh: Like, it could be some sort of, like, report we produce, and that could be published in something like the Agent AI Foundation blog.
+
+113
+00:12:43.560 --> 00:12:48.690
+Sanjeev Suresh: Yeah, I don't know, Jordan, what are your thoughts on that?
+
+114
+00:12:49.350 --> 00:13:03.149
+Vellaichamy, Sivapriya: Yeah, survey would be, like, a means to an end, right? Through this, we'll be working on something, and that would get published, so if we can maybe just work a little backward, if we have a clear goal of, okay, white paper is the goal.
+
+115
+00:13:03.280 --> 00:13:08.239
+Vellaichamy, Sivapriya: For that, we need the survey, and then these are 3 months is what is left.
+
+116
+00:13:08.840 --> 00:13:09.710
+Vellaichamy, Sivapriya: Yeah.
+
+117
+00:13:10.690 --> 00:13:22.330
+Jordan Augé: So, for what I understood, the goal of the survey was to help grant the deliverable also in real use cases, real usage, because we did not get any contribution about that, and
+
+118
+00:13:22.550 --> 00:13:26.490
+Jordan Augé: We run the risk to discuss about many dimensions.
+
+119
+00:13:26.670 --> 00:13:41.950
+Jordan Augé: And, make the deliverable very theoretical, so what we wanted is to get some input, so a survey was a way to get some input, so I was assuming the outcome would land in the chapter or section of the deliverable, at least.
+
+120
+00:13:44.370 --> 00:13:45.356
+Vellaichamy, Sivapriya: Then the�?�
+
+121
+00:13:46.060 --> 00:13:47.000
+Jordan Augé: Yes.
+
+122
+00:13:47.710 --> 00:13:56.470
+Vellaichamy, Sivapriya: Yeah, I was thinking, let's have some anchor, like, something, let's just decide it in the group, as a�?� maybe in this meeting, and�?�
+
+123
+00:13:57.380 --> 00:14:08.330
+Vellaichamy, Sivapriya: I think there are a little too many variables at this point, so how about we just declare, this is the final goal, we start working towards it, and if�?�
+
+124
+00:14:08.490 --> 00:14:14.609
+Vellaichamy, Sivapriya: Through the process, we discovered that the final goal of whitepaper is not making sense. That is a small change to make.
+
+125
+00:14:15.100 --> 00:14:19.860
+Vellaichamy, Sivapriya: But, I think the goal, the process, aim�?�
+
+126
+00:14:20.030 --> 00:14:26.490
+Vellaichamy, Sivapriya: all three are being discussed at the same time, so I was wondering if we can just fix one anchor on. This is the�?�
+
+127
+00:14:27.130 --> 00:14:28.600
+Vellaichamy, Sivapriya: On any of this.
+
+128
+00:14:29.690 --> 00:14:33.159
+Vellaichamy, Sivapriya: If that makes sense, or maybe it's me who's feeling that.
+
+129
+00:14:34.050 --> 00:14:37.209
+Sanjeev Suresh: I mean, that makes sense, Brian.
+
+130
+00:14:39.880 --> 00:14:46.050
+Brian Malone: Yeah, I read through it, and I did not make any comments.
+
+131
+00:14:46.100 --> 00:14:49.089
+Brian Malone: there�?� and I didn't,
+
+132
+00:14:49.130 --> 00:14:59.530
+Brian Malone: I read it through one lens, and I'll give you, like, an example of how I've seen surveys work well, and maybe, maybe not so well, certainly within an Agentic era.
+
+133
+00:14:59.530 --> 00:15:12.029
+Brian Malone: So, one of the things that I've seen work well in a survey perspective is that instead of asking questions, you actually state the outcomes, right? And what you say is that outcome is, I want a more accurate Agentic workflow, or I want�?�
+
+134
+00:15:12.030 --> 00:15:36.989
+Brian Malone: more detailed error messaging, or I want to reduce the time that I'm spending on reliability of this workflow, right? You state what the outcomes are, and I think we probably have enough of these. I mean, Jordan listed off a dozen of them in the first meeting that we were in. So, like, we have a pretty good idea of what outcomes that we're kind of looking at improving, and then what you ask is, what is the impact on your organization for
+
+135
+00:15:36.990 --> 00:15:51.779
+Brian Malone: this, and how good do you think you are at it today? And those gaps between those two things, the importance of it, and how well you think you're actually serving that outcome, is actually what leads you to what things actually matter most to people.
+
+136
+00:15:51.780 --> 00:15:59.570
+Brian Malone: And I'm just kind of, like, reframing this, just because I think what you're getting from Matthew, and maybe getting from other people, is just, like.
+
+137
+00:16:00.120 --> 00:16:24.710
+Brian Malone: this is a long survey, and if we don't have a real good outcome from this, like, we have to make sure that we're actually spending time wisely. So I think if you just get really specific and say, here are the things that, from an accuracy and reliability group, we think matters from an outcome perspective, how important is this to you, and how well are you solving it today? And those gaps are going to tell us, and there's a little bit of math behind that.
+
+138
+00:16:24.710 --> 00:16:36.210
+Brian Malone: But those gaps are going to tell us what outcomes we should really be focusing in on, and maybe actually deliver a white paper with that in mind, or with additional detail on the things that actually surface as being
+
+139
+00:16:36.210 --> 00:16:37.590
+Brian Malone: the highest priorities
+
+140
+00:16:38.220 --> 00:16:43.890
+Brian Malone: I don't want to redo a lot of work, I'm sorry, for this, I'm just trying to, like, figure out how to get this more actionable.
+
+141
+00:16:44.900 --> 00:16:49.210
+Sanjeev Suresh: Yeah, I love that feedback, yeah. Matthew?
+
+142
+00:16:50.860 --> 00:16:59.050
+Matthew Khouzam | I want to download kimi k3: Yes, so one thing, also, that I wanted to bring up, I was looking at this, and I'm going to put in the comments, but it's a general comment.
+
+143
+00:16:59.170 --> 00:17:02.809
+Matthew Khouzam | I want to download kimi k3: When you�?� it's time to actually make this survey?
+
+144
+00:17:02.990 --> 00:17:08.599
+Matthew Khouzam | I want to download kimi k3: You made a very, very wide survey, where you have, like, Over 10 options sometimes.
+
+145
+00:17:08.950 --> 00:17:14.369
+Matthew Khouzam | I want to download kimi k3: In terms of survey user elicitation and UX,
+
+146
+00:17:14.710 --> 00:17:27.599
+Matthew Khouzam | I want to download kimi k3: you really would want to look at Likert scales and break it into smaller questions that are faster to parse, because two questions with five options are going to take a quarter of the time of one question with 10 options.
+
+147
+00:17:28.319 --> 00:17:35.400
+Matthew Khouzam | I want to download kimi k3: I'm gonna propose a change. Feel free to reject it and kill it with fire, but it's just to give you an idea of what I'm thinking.
+
+148
+00:17:38.710 --> 00:17:40.370
+Sanjeev Suresh: Yeah, go ahead, please.
+
+149
+00:17:55.260 --> 00:18:07.339
+Sanjeev Suresh: I mean, speaking of breads, just a little bit, so I think we, I mean, like, I think that's also�?� was a question of scope of the survey we were trying to talk about last time, of, like, is it�?�
+
+150
+00:18:07.640 --> 00:18:14.640
+Sanjeev Suresh: fully, like, our working group specific? Do we want some cross-working group access?
+
+151
+00:18:15.180 --> 00:18:22.189
+Sanjeev Suresh: and it sounds to me like we should anger primarily on our working group.
+
+152
+00:18:22.860 --> 00:18:25.090
+Sanjeev Suresh: And then maybe get it reviewed.
+
+153
+00:18:25.310 --> 00:18:28.930
+Sanjeev Suresh: In a broader context. Or, Jordan, thoughts on that?
+
+154
+00:18:30.530 --> 00:18:36.529
+Jordan Augé: Yeah, I think it will be hard to make something that will span many working groups, and I'm not sure�?�
+
+155
+00:18:36.970 --> 00:18:44.290
+Jordan Augé: People, they have the same need as us in terms of surveys, so�?� For some working groups, it's pretty clear what they are doing.
+
+156
+00:18:45.400 --> 00:18:49.050
+Jordan Augé: Maybe observability will be the one closer to us.
+
+157
+00:18:51.170 --> 00:18:55.329
+Jordan Augé: Then it depends on�?� Yeah, so how it progresses, and�?�
+
+158
+00:19:05.240 --> 00:19:07.889
+Sanjeev Suresh: Okay, so what do we want to do as next steps here?
+
+159
+00:19:15.730 --> 00:19:21.479
+Sanjeev Suresh: So one thing, we could potentially at least set an internal deadline on the survey as a goal.
+
+160
+00:19:21.900 --> 00:19:26.810
+Sanjeev Suresh: To get progress and to get, like, feedback.
+
+161
+00:19:27.080 --> 00:19:32.110
+Sanjeev Suresh: It makes sense to have a clear outcome.
+
+162
+00:19:32.710 --> 00:19:36.309
+Sanjeev Suresh: That we are anchoring towards.
+
+163
+00:19:38.610 --> 00:19:47.419
+Sanjeev Suresh: And I think, yes, that's really good feedback on, like, that, I mean, probably don't have any question of 10 options. That's too much.
+
+164
+00:19:52.080 --> 00:19:59.309
+Jordan Augé: So one thing I wanted to do, but I didn't have time yet about it, is to really understand, okay, let's assume we have the answers to this survey.
+
+165
+00:20:00.370 --> 00:20:04.939
+Jordan Augé: How interesting will be the aggregate results for
+
+166
+00:20:05.320 --> 00:20:09.860
+Jordan Augé: any member of the AAF, and will we be able to�?�
+
+167
+00:20:12.120 --> 00:20:15.899
+Jordan Augé: contribute anything to deliverable, and do we think it will unlock
+
+168
+00:20:16.350 --> 00:20:19.230
+Jordan Augé: The issues we have with deliverables, so likely�?�
+
+169
+00:20:19.630 --> 00:20:29.610
+Jordan Augé: Clearly, finding use cases maybe will emerge, like, groups of use cases about, do we care about autonomous agents, do we care about copy lots, etc.
+
+170
+00:20:30.240 --> 00:20:32.979
+Jordan Augé: But, I don't know yet if we'll�?�
+
+171
+00:20:33.320 --> 00:20:39.310
+Jordan Augé: really unlocked all the issues for which we created this survey, so that's one big question I have, and�?�
+
+172
+00:20:39.720 --> 00:20:41.129
+Jordan Augé: I've known Sir for now.
+
+173
+00:20:47.370 --> 00:20:59.799
+Sanjeev Suresh: I mean, so I do want the�?� I mean, survey ourselves, at least in�?� I mean, some of the main questions to be catchy, like, in the sense of headlines, of, like, this is the thing people care about most, or�?�
+
+174
+00:21:00.130 --> 00:21:07.589
+Sanjeev Suresh: and help,
+
+175
+00:21:07.870 --> 00:21:15.250
+Sanjeev Suresh: Like, some�?� like, one thing I'm�?� like, I mean, some of it might be obvious, like, maybe, like, cost, like, is something everyone cares about.
+
+176
+00:21:18.500 --> 00:21:22.419
+Sanjeev Suresh: But it's also, I mean, useful to have data and anchor that going forward.
+
+177
+00:21:28.270 --> 00:21:32.980
+Jordan Augé: So for sure, I guess, getting an idea of where people are in their,
+
+178
+00:21:33.500 --> 00:21:39.129
+Jordan Augé: adoption cycle or deployment cycle. For sure, this is very important because,
+
+179
+00:21:40.240 --> 00:21:44.429
+Jordan Augé: If we do a checklist to deploy with,
+
+180
+00:21:44.720 --> 00:21:58.200
+Jordan Augé: things to deploy things securely in prod for exposing agents to users, that's one thing. If we want just to secure local explorations, internal, with some assistance, that's a very different thing, and maybe we need less
+
+181
+00:21:59.350 --> 00:22:04.290
+Jordan Augé: There is less criticality in the process, so for sure, this is an important outcome.
+
+182
+00:22:09.490 --> 00:22:14.130
+Vellaichamy, Sivapriya: Actually, I haven't filled this survey. Where do I go to fill the survey?
+
+183
+00:22:14.950 --> 00:22:20.320
+Sanjeev Suresh: I mean, it's not fill the�?� I mean, we are making the survey for others to, like, fill, right? So there's just the.
+
+184
+00:22:20.320 --> 00:22:25.419
+Vellaichamy, Sivapriya: Okay, okay. So, to add comments on how best to phrase these questions.
+
+185
+00:22:25.570 --> 00:22:29.409
+Sanjeev Suresh: Yeah, and any missing aspects that we care to ask about, yeah.
+
+186
+00:22:29.550 --> 00:22:30.810
+Vellaichamy, Sivapriya: Oh, okay, got it.
+
+187
+00:22:43.710 --> 00:22:57.679
+Sanjeev Suresh: Yeah, I think that's it on this, like, so let's, I mean, do we want to pick some sort of arbitrary deadline right now, for getting at least survey reviewed internally by our working group?
+
+188
+00:22:57.990 --> 00:23:04.400
+Sanjeev Suresh: And we can share it for review, like, broader�?� After that.
+
+189
+00:23:05.920 --> 00:23:14.040
+Jordan Augé: Yes, the only thing about deadline is that I guess we need to be a bit more flexible, so that, if people are in PTO, they have time when they come back, so�?�
+
+190
+00:23:17.050 --> 00:23:20.930
+Jordan Augé: I don't think less than a month is realistic, what do you think?
+
+191
+00:23:22.820 --> 00:23:26.379
+Sanjeev Suresh: Yeah, but, yeah, yeah, Leslie, I don't think that either, yeah.
+
+192
+00:23:27.240 --> 00:23:30.190
+Sanjeev Suresh: Yeah, I think one month is, like, maybe at least, yeah.
+
+193
+00:23:30.650 --> 00:23:32.019
+Sanjeev Suresh: A good starting point, maybe.
+
+194
+00:23:33.150 --> 00:23:38.549
+Jordan Augé: That means next meeting, we can iterate, and the deadline would be, the meeting after it.
+
+195
+00:23:38.550 --> 00:23:39.110
+Sanjeev Suresh: Yeah.
+
+196
+00:23:40.830 --> 00:23:43.439
+Jordan Augé: So deadline should be a bit before this meeting, and�?�
+
+197
+00:23:45.400 --> 00:23:51.759
+Jordan Augé: if people have two weeks of PTO, that still leaves them two weeks to contribute?
+
+198
+00:23:55.690 --> 00:23:56.490
+Jordan Augé: Thank you.
+
+199
+00:23:56.620 --> 00:23:58.249
+Vellaichamy, Sivapriya: Question? Yeah, yes.
+
+200
+00:23:58.850 --> 00:24:01.149
+Vellaichamy, Sivapriya: So, go ahead, Matthew. No, there's no sign language.
+
+201
+00:24:01.150 --> 00:24:02.740
+Matthew Khouzam | I want to download kimi k3: Okay, I just sent you�?�
+
+202
+00:24:02.740 --> 00:24:03.340
+Vellaichamy, Sivapriya: Oh.
+
+203
+00:24:03.340 --> 00:24:04.550
+Matthew Khouzam | I want to download kimi k3: A new survey.
+
+204
+00:24:05.230 --> 00:24:11.330
+Matthew Khouzam | I want to download kimi k3: Basically, I took your data and I reflowed it into Likert scales, so that should be easier for people to read.
+
+205
+00:24:12.080 --> 00:24:17.899
+Matthew Khouzam | I want to download kimi k3: And I made it in a format that you can just auto-import into Google Forms, so that you don't have to, manually write it.
+
+206
+00:24:18.550 --> 00:24:19.850
+Matthew Khouzam | I want to download kimi k3: It's in the Discord.
+
+207
+00:24:20.360 --> 00:24:20.950
+Sanjeev Suresh: Awesome.
+
+208
+00:24:21.450 --> 00:24:26.209
+Matthew Khouzam | I want to download kimi k3: And, since it's a Likert scale, I want you to give me a scale of 1 to 5 on how much you hate this.
+
+209
+00:24:28.280 --> 00:24:30.000
+Sanjeev Suresh: Let me take a look.
+
+210
+00:24:35.350 --> 00:24:37.790
+Jordan Augé: Do you want to share screen, Matthew, maybe?
+
+211
+00:24:37.990 --> 00:24:39.100
+Sanjeev Suresh: Yeah, yeah.
+
+212
+00:24:41.420 --> 00:24:44.870
+Sanjeev Suresh: Yeah, and I'll have to drop in, like, another, like, 5-ish minutes, so�?�
+
+213
+00:24:47.400 --> 00:24:50.569
+Sanjeev Suresh: Yeah, if I don't get to it now, I'll look at it later.
+
+214
+00:24:58.180 --> 00:25:00.260
+Matthew Khouzam | I want to download kimi k3: I think this is the screen, can you see it?
+
+215
+00:25:00.260 --> 00:25:01.430
+Sanjeev Suresh: Yeah, perfect.
+
+216
+00:25:02.100 --> 00:25:06.530
+Matthew Khouzam | I want to download kimi k3: So yeah, please don't look too hard at my file structure.
+
+217
+00:25:07.740 --> 00:25:09.620
+Matthew Khouzam | I want to download kimi k3: Okay, so this is your old survey.
+
+218
+00:25:10.560 --> 00:25:11.090
+Sanjeev Suresh: Yeah.
+
+219
+00:25:12.590 --> 00:25:22.820
+Matthew Khouzam | I want to download kimi k3: And for me, there are several problems when it comes to writing surveys. You want people to enter the flow and not be bogged down by the weight of understanding the form of the question.
+
+220
+00:25:23.870 --> 00:25:26.710
+Matthew Khouzam | I want to download kimi k3: So I basically harmonized the flow of the question.
+
+221
+00:25:26.970 --> 00:25:28.899
+Matthew Khouzam | I want to download kimi k3: Where they all are going to be
+
+222
+00:25:29.630 --> 00:25:32.559
+Matthew Khouzam | I want to download kimi k3: Having columns of the same matrix shape.
+
+223
+00:25:35.960 --> 00:25:40.720
+Matthew Khouzam | I want to download kimi k3: And then, by that, Here�?� I know it's heavy.
+
+224
+00:25:42.660 --> 00:25:47.240
+Matthew Khouzam | I want to download kimi k3: It's basically, this is the, the format that Google Forms can import to.
+
+225
+00:25:48.500 --> 00:25:49.070
+Sanjeev Suresh: Okay.
+
+226
+00:25:49.830 --> 00:25:51.840
+Sanjeev Suresh: I mean, so it's just,
+
+227
+00:25:52.260 --> 00:26:00.850
+Matthew Khouzam | I want to download kimi k3: So I just took your data, and I put, like�?� you know where you said, pick the top 3 instead of that? I had the full�?� I put every llody that you had, and I put
+
+228
+00:26:01.130 --> 00:26:03.920
+Matthew Khouzam | I want to download kimi k3: Rate this in terms of importance from 1 to 5.
+
+229
+00:26:06.200 --> 00:26:09.990
+Matthew Khouzam | I want to download kimi k3: Which also makes this a lot easier for you to manage in Excel afterwards.
+
+230
+00:26:12.760 --> 00:26:18.269
+Sanjeev Suresh: Importance of 1 to 5, so what is the importance of 1 to 5? I'm not sure, I'm�?�
+
+231
+00:26:18.270 --> 00:26:19.650
+Matthew Khouzam | I want to download kimi k3: Instead of giving top threes.
+
+232
+00:26:23.720 --> 00:26:28.020
+Matthew Khouzam | I want to download kimi k3: You know, you had survey questions where it was, what are your�?� pick 3.
+
+233
+00:26:28.130 --> 00:26:29.550
+Matthew Khouzam | I want to download kimi k3: Yeah. Items on it.
+
+234
+00:26:30.010 --> 00:26:33.049
+Matthew Khouzam | I want to download kimi k3: Instead of that here, every item you have to rate from 1 to 5.
+
+235
+00:26:33.810 --> 00:26:37.799
+Sanjeev Suresh: -- okay, yeah, yeah, yeah, yeah, yeah, I see that, okay.
+
+236
+00:26:38.080 --> 00:26:39.790
+Sanjeev Suresh: That, yeah, that makes sense.
+
+237
+00:26:41.100 --> 00:26:43.609
+Matthew Khouzam | I want to download kimi k3: I'm basically trying to remove as much
+
+238
+00:26:43.850 --> 00:26:46.739
+Matthew Khouzam | I want to download kimi k3: Cognitive burden on the survey taker.
+
+239
+00:26:47.010 --> 00:26:47.710
+Sanjeev Suresh: Hmm.
+
+240
+00:26:48.610 --> 00:26:53.850
+Matthew Khouzam | I want to download kimi k3: Because I was reading it, and I remember when I re-read it again, there was like, oh boy.
+
+241
+00:26:54.630 --> 00:26:59.170
+Matthew Khouzam | I want to download kimi k3: I'm getting tired, This is�?� this is hard to�?�
+
+242
+00:26:59.670 --> 00:27:05.559
+Matthew Khouzam | I want to download kimi k3: keep everything in memory. Yeah. And you're making me pick my favorite out of 20 items,
+
+243
+00:27:05.710 --> 00:27:07.450
+Matthew Khouzam | I want to download kimi k3: You've never seen me at a restaurant.
+
+244
+00:27:11.770 --> 00:27:12.500
+Matthew Khouzam | I want to download kimi k3: So, yeah.
+
+245
+00:27:12.500 --> 00:27:25.439
+Sanjeev Suresh: Yeah, I think that makes sense, like, so instead of, like, I mean, pick, I mean, pick your top, yeah, some, like, yeah, rank everything, but also probably trim down more so that there's not too many things to rank.
+
+246
+00:27:25.740 --> 00:27:26.540
+Sanjeev Suresh: Yes.
+
+247
+00:27:26.540 --> 00:27:30.430
+Matthew Khouzam | I want to download kimi k3: The other thing is that I harmonized here so that we have
+
+248
+00:27:30.940 --> 00:27:35.389
+Matthew Khouzam | I want to download kimi k3: The same order for the answers for everything, so that people will get into that flow.
+
+249
+00:27:35.750 --> 00:27:36.130
+Sanjeev Suresh: Yeah.
+
+250
+00:27:36.600 --> 00:27:43.889
+Matthew Khouzam | I want to download kimi k3: So you evaluate on�?� One matrix for this, one matrix for�?� Here, but the same ilities.
+
+251
+00:27:45.690 --> 00:27:50.059
+Sanjeev Suresh: Yeah, that makes sense. And are we gonna do a Google Forms at�?� I don't know whether we�?�
+
+252
+00:27:50.060 --> 00:27:50.660
+Matthew Khouzam | I want to download kimi k3: I can make one.
+
+253
+00:27:51.570 --> 00:27:55.840
+Sanjeev Suresh: And, the question was at Jordan, so, like, is there any, like.
+
+254
+00:27:56.050 --> 00:27:59.110
+Sanjeev Suresh: I mean, typically, like, how do we do surveys? Is there any�?�
+
+255
+00:27:59.250 --> 00:28:04.180
+Sanjeev Suresh: Google Form�?� is it Google Forms, or is it, like, some Linux Foundation internal survey?
+
+256
+00:28:04.760 --> 00:28:11.800
+Jordan Augé: Yeah, so I just asked yesterday in the chair's meeting, so I did not have a question about this, but I should contact Christina, and I've not done it yet.
+
+257
+00:28:12.190 --> 00:28:12.740
+Sanjeev Suresh: Okay.
+
+258
+00:28:13.960 --> 00:28:22.759
+Jordan Augé: So, the Pulse is using, apparently, an external tool, so I think if they are using an external tool, that means they don't have a Linux Foundation.
+
+259
+00:28:23.730 --> 00:28:27.410
+Jordan Augé: Okay. But I don't know if we have a license to use it. I will,
+
+260
+00:28:28.210 --> 00:28:29.620
+Jordan Augé: Continue looking on that.
+
+261
+00:28:34.100 --> 00:28:37.799
+Vellaichamy, Sivapriya: for everyone else from AAIF to Phil, is it?
+
+262
+00:28:38.840 --> 00:28:40.690
+Vellaichamy, Sivapriya: the audience. And they were saving it.
+
+263
+00:28:40.690 --> 00:28:46.159
+Sanjeev Suresh: broader, right? Like, I mean, even outside, like, I mean, we can have, I mean, emails sent out.
+
+264
+00:28:47.050 --> 00:28:50.259
+Sanjeev Suresh: Calling for action or something, as part of the newsletter or whatnot.
+
+265
+00:28:51.030 --> 00:28:56.060
+Vellaichamy, Sivapriya: Right, in that case, it should be a Google Form or something everyone can access.
+
+266
+00:28:56.250 --> 00:29:04.040
+Vellaichamy, Sivapriya: Yeah. I do see my survey as a tab in LFX, but not everyone might be able to access that.
+
+267
+00:29:04.900 --> 00:29:05.440
+Sanjeev Suresh: Makes sense.
+
+268
+00:29:07.260 --> 00:29:08.180
+Vellaichamy, Sivapriya: But, hey.
+
+269
+00:29:20.660 --> 00:29:21.729
+Sanjeev Suresh: I think that�?�
+
+270
+00:29:21.730 --> 00:29:22.570
+Vellaichamy, Sivapriya: Yeah, so�?�
+
+271
+00:29:22.570 --> 00:29:23.170
+Sanjeev Suresh: Yeah.
+
+272
+00:29:23.670 --> 00:29:25.250
+Vellaichamy, Sivapriya: So we'll continue to�?�
+
+273
+00:29:25.720 --> 00:29:30.739
+Vellaichamy, Sivapriya: Improve the survey questions and see if you're missing out on any aspects, if you have captured everything.
+
+274
+00:29:31.150 --> 00:29:32.020
+Vellaichamy, Sivapriya: Yeah.
+
+275
+00:29:32.740 --> 00:29:40.960
+Sanjeev Suresh: And I'll make, before the next meeting, I'll make a PR out of it, and till then, leave comments on the Google Doc version or Discord.
+
+276
+00:29:41.110 --> 00:29:43.779
+Sanjeev Suresh: And before the next meeting, I'll have it disappear.
+
+277
+00:29:43.780 --> 00:29:45.259
+Vellaichamy, Sivapriya: One thing that I had to call.
+
+278
+00:29:45.730 --> 00:29:46.950
+Vellaichamy, Sivapriya: And on status.
+
+279
+00:29:46.950 --> 00:29:49.940
+Sanjeev Suresh: Awesome. Thank you, folks. I'll catch up the rest of it later.
+
+280
+00:29:52.260 --> 00:29:52.940
+Jordan Augé: Thank you.
+
+281
+00:29:55.220 --> 00:29:58.390
+Jordan Augé: So, anything else we want to discuss about,
+
+282
+00:29:58.960 --> 00:30:04.609
+Jordan Augé: These are the different generals, so I think we have no�?� not progressed on the rest of the document so far.
+
+283
+00:30:13.500 --> 00:30:14.290
+Jordan Augé: Yes.
+
+284
+00:30:18.040 --> 00:30:21.950
+Jordan Augé: Okay, no, we can maybe move to the last item, and it will be�?�
+
+285
+00:30:21.950 --> 00:30:22.580
+Vellaichamy, Sivapriya: It's a joke.
+
+286
+00:30:22.580 --> 00:30:23.000
+Jordan Augé: Weeks?
+
+287
+00:30:25.460 --> 00:30:31.190
+Jordan Augé: Yeah, so, about the progress and terminology documents, so we have two concurrent efforts.
+
+288
+00:30:31.970 --> 00:30:35.560
+Jordan Augé: One is the contribution to taxonomy, so�?�
+
+289
+00:30:35.980 --> 00:30:46.670
+Jordan Augé: The idea is that I encourage everyone, I don't know if you have time to do it, but to look at the Excel sheet that is maintained by the Taxonomy and Landscape Working Group.
+
+290
+00:30:46.970 --> 00:30:53.240
+Jordan Augé: And basically, you have all the definitions that were extracted by Matthew from our working groups that have been contributed there.
+
+291
+00:30:53.370 --> 00:30:59.539
+Jordan Augé: With initial definitions, and that's the living document where people are debating the contribution, so�?�
+
+292
+00:30:59.880 --> 00:31:07.029
+Jordan Augé: You can just pick a few words that are relevant for you, so�?� in the�?�
+
+293
+00:31:07.520 --> 00:31:09.850
+Jordan Augé: running document, I can share that.
+
+294
+00:31:11.840 --> 00:31:14.269
+Vellaichamy, Sivapriya: Okay, man, sorry.
+
+295
+00:31:14.270 --> 00:31:16.679
+Jordan Augé: We have�?� sorry,
+
+296
+00:31:16.680 --> 00:31:19.910
+Vellaichamy, Sivapriya: Point up.
+
+297
+00:31:19.910 --> 00:31:22.469
+Jordan Augé: to this Excel sheet in the tab Taxonomy.
+
+298
+00:31:23.090 --> 00:31:29.099
+Jordan Augé: And, I had suggested a few priorities of definitions we might want to look at.
+
+299
+00:31:29.220 --> 00:31:39.359
+Jordan Augé: And some of them are really related to the core concepts of Accuracy Reliability, so I encourage you to pick either these priority ones, you go to the Excel sheet.
+
+300
+00:31:43.180 --> 00:31:48.910
+Jordan Augé: There, you have a lot of definitions, you can search for them. There is, did you see?
+
+301
+00:31:48.910 --> 00:31:49.750
+Matthew Khouzam | I want to download kimi k3: Filter on.
+
+302
+00:31:51.550 --> 00:31:52.390
+Jordan Augé: Yes.
+
+303
+00:31:52.510 --> 00:31:53.450
+Jordan Augé: But,
+
+304
+00:31:53.450 --> 00:31:54.820
+Matthew Khouzam | I want to download kimi k3: go to a consensus?
+
+305
+00:31:56.740 --> 00:32:00.199
+Matthew Khouzam | I want to download kimi k3: you can�?� Or another. One up.
+
+306
+00:32:00.200 --> 00:32:00.930
+Jordan Augé: Okay.
+
+307
+00:32:00.930 --> 00:32:02.310
+Matthew Khouzam | I want to download kimi k3: In consensus, here?
+
+308
+00:32:03.220 --> 00:32:06.869
+Matthew Khouzam | I want to download kimi k3: Make sure that you have CUL activated, because there�?� oh, yeah, perfect.
+
+309
+00:32:10.930 --> 00:32:13.809
+Jordan Augé: No, so basically, you can add one column.
+
+310
+00:32:13.940 --> 00:32:18.320
+Jordan Augé: With your name, and all your comments about the different definitions.
+
+311
+00:32:18.430 --> 00:32:20.200
+Jordan Augé: And that will be used to�?�
+
+312
+00:32:20.830 --> 00:32:29.479
+Jordan Augé: to iterate and see if there is consensus, etc. So even if we agree, I think it would be nice to�?� to market as agree, so at least we have a trace of�?�
+
+313
+00:32:29.650 --> 00:32:31.880
+Jordan Augé: What concepts have been reviewed, and�?�
+
+314
+00:32:32.340 --> 00:32:36.740
+Jordan Augé: unanimity. And there, I'm not a good example, because I did not contribute to it yet.
+
+315
+00:32:39.080 --> 00:32:43.769
+Jordan Augé: So, I don't know about you, if you had updates or feedback you wanted to share?
+
+316
+00:32:44.840 --> 00:32:48.000
+Matthew Khouzam | I want to download kimi k3: They want a maximum of 10 items for the definitions.
+
+317
+00:32:48.740 --> 00:32:55.600
+Matthew Khouzam | I want to download kimi k3: I've been pushing aggressively for certain items to get out of accuracy, And to be universal.
+
+318
+00:32:55.930 --> 00:32:58.220
+Matthew Khouzam | I want to download kimi k3: Because I feel those are the actual useful ones.
+
+319
+00:32:58.780 --> 00:33:02.480
+Matthew Khouzam | I want to download kimi k3: And�?� I could tell you that�?�
+
+320
+00:33:02.710 --> 00:33:05.959
+Matthew Khouzam | I want to download kimi k3: I would not worry, take as much PTO as you need.
+
+321
+00:33:06.170 --> 00:33:09.139
+Matthew Khouzam | I want to download kimi k3: Because the velocity here is,
+
+322
+00:33:09.560 --> 00:33:12.929
+Matthew Khouzam | I want to download kimi k3: One definition, meet a week about.
+
+323
+00:33:14.650 --> 00:33:16.030
+Jordan Augé: Because of a debate?
+
+324
+00:33:16.330 --> 00:33:20.080
+Matthew Khouzam | I want to download kimi k3: Yes, because of debates. We're right now debating what is an agent.
+
+325
+00:33:21.300 --> 00:33:22.299
+Jordan Augé: That's the worst.
+
+326
+00:33:23.570 --> 00:33:24.260
+Matthew Khouzam | I want to download kimi k3: Yep.
+
+327
+00:33:26.620 --> 00:33:31.409
+Matthew Khouzam | I want to download kimi k3: And I could tell you that that debate degraded into us trying to define what a dog is.
+
+328
+00:33:33.390 --> 00:33:35.360
+Matthew Khouzam | I want to download kimi k3: Because we wanted to make sure�?�
+
+329
+00:33:35.470 --> 00:33:39.970
+Matthew Khouzam | I want to download kimi k3: that an AI agent�?� that a dog does not pass the definition of an AI agent.
+
+330
+00:33:43.820 --> 00:33:45.700
+Matthew Khouzam | I want to download kimi k3: Also, for everyone else in this room.
+
+331
+00:33:45.830 --> 00:33:48.709
+Matthew Khouzam | I want to download kimi k3: That's a stealth invitation for you to come in and giggle.
+
+332
+00:33:51.370 --> 00:33:54.909
+Vellaichamy, Sivapriya: When is this, Matthew? When is this? When are these meetings?
+
+333
+00:33:54.910 --> 00:33:58.759
+Matthew Khouzam | I want to download kimi k3: It is at 11.30 to 12.30.
+
+334
+00:33:59.220 --> 00:34:04.569
+Matthew Khouzam | I want to download kimi k3: Eastern Time on Mondays. Okay. And Siva, I would have so much fun with you in there.
+
+335
+00:34:04.760 --> 00:34:10.309
+Vellaichamy, Sivapriya: No, that was a great advertisement for the working group.
+
+336
+00:34:10.650 --> 00:34:15.320
+Vellaichamy, Sivapriya: But I'll definitely try and join. It's 11.30 to 12.30 Rajesh team.
+
+337
+00:34:15.320 --> 00:34:19.959
+Matthew Khouzam | I want to download kimi k3: We need, you know�?� I'm sorry, I'm not UTCing it, I'm�?�
+
+338
+00:34:20.760 --> 00:34:21.380
+Vellaichamy, Sivapriya: Right.
+
+339
+00:34:21.389 --> 00:34:22.279
+Matthew Khouzam | I want to download kimi k3: I'm,
+
+340
+00:34:22.280 --> 00:34:23.270
+Vellaichamy, Sivapriya: I'm really bad at.
+
+341
+00:34:23.270 --> 00:34:23.800
+Matthew Khouzam | I want to download kimi k3: minus 16?
+
+342
+00:34:23.800 --> 00:34:25.109
+Vellaichamy, Sivapriya: Good sometimes, though.
+
+343
+00:34:26.020 --> 00:34:32.780
+Matthew Khouzam | I want to download kimi k3: But, I think it's actually, like, 5.30 to 6.30 for all those in the more civilized part of the world.
+
+344
+00:34:35.380 --> 00:34:43.790
+Vellaichamy, Sivapriya: Okay. I'll find out. Where do I get the invite from? Sorry if this is derailing it a bit.
+
+345
+00:34:43.790 --> 00:34:50.459
+Matthew Khouzam | I want to download kimi k3: No, this is railing it. I'd say Jordan would probably be able to get you an invite. You have to ask Junji.
+
+346
+00:34:51.150 --> 00:34:51.949
+Vellaichamy, Sivapriya: Okay.
+
+347
+00:34:53.340 --> 00:34:55.080
+Matthew Khouzam | I want to download kimi k3: Everyone in there is really nice.
+
+348
+00:34:56.560 --> 00:35:07.129
+Jordan Augé: I can do just after the meeting, and so, ideally, they'd like�?� they'd love to have, maybe 3 participants to each working group, so I think we have
+
+349
+00:35:07.730 --> 00:35:13.309
+Jordan Augé: Two, maybe Mathieu, you're alone, because Casper volunteered, but the meeting time is not good for him, so�?�
+
+350
+00:35:13.720 --> 00:35:15.750
+Jordan Augé: If we have more people, that would help, clearly.
+
+351
+00:35:15.750 --> 00:35:16.760
+Vellaichamy, Sivapriya: Yeah.
+
+352
+00:35:16.760 --> 00:35:18.770
+Jordan Augé: And so I will offline,
+
+353
+00:35:18.770 --> 00:35:19.220
+Vellaichamy, Sivapriya: majority.
+
+354
+00:35:19.220 --> 00:35:21.499
+Jordan Augé: contact, Junji and ask him to�?�
+
+355
+00:35:21.500 --> 00:35:23.110
+Vellaichamy, Sivapriya: Bing Yu.
+
+356
+00:35:23.470 --> 00:35:27.570
+Jordan Augé: Do you have a�?� are you easy to find on Discord?
+
+357
+00:35:27.570 --> 00:35:29.819
+Vellaichamy, Sivapriya: Yeah, I am, I'm on the screen.
+
+358
+00:35:30.110 --> 00:35:33.559
+Jordan Augé: So you can, ping me, or I will find you one.
+
+359
+00:35:34.390 --> 00:35:37.099
+Vellaichamy, Sivapriya: Thank you, thank you, Geraldine.
+
+360
+00:35:43.280 --> 00:35:46.810
+Jordan Augé: Okay�?� So, really, I guess,
+
+361
+00:35:47.480 --> 00:35:51.609
+Jordan Augé: Let's take the opportunity to look at the words that are key to the working group.
+
+362
+00:35:51.880 --> 00:35:52.990
+Jordan Augé: So�?�
+
+363
+00:35:53.330 --> 00:36:00.759
+Jordan Augé: Maybe like we did, I will try to set milestones for groups, for words that we aim at defining, at least for the working group.
+
+364
+00:36:01.600 --> 00:36:02.780
+Jordan Augé: And,
+
+365
+00:36:03.850 --> 00:36:13.030
+Jordan Augé: Otherwise, the second part is about the deliverables, so we had for a long time this work-in-progress deliverable.
+
+366
+00:36:14.930 --> 00:36:21.009
+Jordan Augé: In Google Docs, so the idea is that this was basically the methodology and,
+
+367
+00:36:21.500 --> 00:36:27.450
+Jordan Augé: framework that we used to identify the relevant aspects in the working group, so�?�
+
+368
+00:36:27.920 --> 00:36:34.300
+Jordan Augé: If you remember a few meetings ago, I had made a PR�?� where I was suggesting,
+
+369
+00:36:34.440 --> 00:36:44.059
+Jordan Augé: a very heavy process to contribute the definitions, and Mathieu suggested that we use this Excel sheet. But, part of it, there was,
+
+370
+00:36:45.470 --> 00:36:55.330
+Jordan Augé: a section reflecting the different sections of this deliverable, and that was looking at the different, categories of�?�
+
+371
+00:36:55.620 --> 00:37:02.820
+Jordan Augé: items and the definitions associated to them. And for every, basically, chapter or section of this document.
+
+372
+00:37:02.980 --> 00:37:08.860
+Jordan Augé: You had the concepts that were, defined and the vocabulary associated to it.
+
+373
+00:37:09.570 --> 00:37:13.660
+Jordan Augé: So it starts with the core concepts, reliability.
+
+374
+00:37:13.870 --> 00:37:28.950
+Jordan Augé: everything about operational governance, etc. So, this corresponds to the chapters of this deliverable, and what I've been working on is make a PR with a first draft of this document, so an iteration of the one�?�
+
+375
+00:37:29.090 --> 00:37:30.450
+Jordan Augé: That you find here?
+
+376
+00:37:31.620 --> 00:37:37.899
+Jordan Augé: And complemented with all the content there, where we try to position, basically, all these, concepts, so�?�
+
+377
+00:37:39.510 --> 00:37:43.090
+Jordan Augé: I think I will be able to submit the PR,
+
+378
+00:37:44.040 --> 00:37:52.610
+Jordan Augé: tomorrow, likely, so�?� this will be the first version. I hope that the GitHub maybe will be easier for some to contribute, so that we can use the
+
+379
+00:37:53.260 --> 00:37:55.170
+Jordan Augé: Common system and merge.
+
+380
+00:37:57.640 --> 00:38:04.439
+Jordan Augé: Let's see, so far�?� I did not get a lot of feedback about the content of the deliverables, so�?�
+
+381
+00:38:05.000 --> 00:38:11.290
+Jordan Augé: I know, Sanjeev, you used it, you referenced to it when defining the D3.
+
+382
+00:38:11.710 --> 00:38:18.559
+Jordan Augé: But, I really expect that we get, more feedback so that we are sure that the content is a contentious, so�?�
+
+383
+00:38:18.860 --> 00:38:24.559
+Jordan Augé: I'd love to have comments about the structure, if you think the approach is sane, etc, so it's�?�
+
+384
+00:38:25.740 --> 00:38:30.360
+Jordan Augé: more on�?� An abstract document, sill it to introduce the terminology.
+
+385
+00:38:31.680 --> 00:38:34.239
+Jordan Augé: D3 will be more grounded and practical.
+
+386
+00:38:34.530 --> 00:38:41.390
+Jordan Augé: But I hope it at least positions the way we need to define things, and it helps positioning the different metrics.
+
+387
+00:38:42.060 --> 00:38:46.080
+Jordan Augé: So, not much to share today, but I will share the link to the pull request on,
+
+388
+00:38:46.080 --> 00:38:46.930
+Vellaichamy, Sivapriya: Very good.
+
+389
+00:38:46.930 --> 00:38:47.570
+Jordan Augé: Come on.
+
+390
+00:38:48.110 --> 00:38:48.530
+Jordan Augé: scope.
+
+391
+00:38:48.590 --> 00:38:49.389
+Vellaichamy, Sivapriya: I've got a loop.
+
+392
+00:38:49.700 --> 00:39:01.279
+Vellaichamy, Sivapriya: So, this is a part of the terminology, broader terminology meeting also, is it? So, each group is working on a terminology, as well as there's a broader group.
+
+393
+00:39:01.850 --> 00:39:03.810
+Vellaichamy, Sivapriya: You see, you want me to pick something up?
+
+394
+00:39:03.810 --> 00:39:06.530
+Jordan Augé: The idea was to contribute a terminal.
+
+395
+00:39:06.530 --> 00:39:06.900
+Jeff Borek: I don't.
+
+396
+00:39:06.900 --> 00:39:08.809
+Vellaichamy, Sivapriya: Oh, to the bigger group, okay.
+
+397
+00:39:08.810 --> 00:39:12.059
+Jordan Augé: The common terminology emerged, and they.
+
+398
+00:39:12.060 --> 00:39:12.610
+Vellaichamy, Sivapriya: You're welcome.
+
+399
+00:39:12.610 --> 00:39:17.520
+Jordan Augé: by all working groups, and that's the work mathemat for, like, we don't duplicate the effort.
+
+400
+00:39:18.790 --> 00:39:22.899
+Jordan Augé: Then there will be specific terms that will be more specific to one working group.
+
+401
+00:39:24.130 --> 00:39:27.679
+Jordan Augé: For example, for us, the Accuracy Reliability dimensions, and defining those terms.
+
+402
+00:39:28.700 --> 00:39:33.339
+Jordan Augé: really our work, I guess, to contribute, because not many of our working groups will be working on them, so�?�
+
+403
+00:39:33.340 --> 00:39:34.389
+Vellaichamy, Sivapriya: I expect.
+
+404
+00:39:34.390 --> 00:39:36.840
+Jordan Augé: We focused those efforts, our efforts on this one.
+
+405
+00:39:36.840 --> 00:39:40.810
+Vellaichamy, Sivapriya: And of course, contribute them to the main document.
+
+406
+00:39:43.350 --> 00:39:48.880
+Vellaichamy, Sivapriya: And is this what you were telling, Matthew, that there are only 10 terms we can contribute to the bigger one?
+
+407
+00:39:48.990 --> 00:39:51.970
+Vellaichamy, Sivapriya: Each group 10 terms, is it?
+
+408
+00:39:51.970 --> 00:39:54.970
+Matthew Khouzam | I want to download kimi k3: Yes, so they want 70 Max.
+
+409
+00:39:54.970 --> 00:39:56.240
+Vellaichamy, Sivapriya: Beautiful.
+
+410
+00:39:56.240 --> 00:40:00.980
+Matthew Khouzam | I want to download kimi k3: I reduced very�?� and so that's why I was pushing very aggressively that our terms become universal.
+
+411
+00:40:00.980 --> 00:40:04.020
+Vellaichamy, Sivapriya: I mean, who�?�
+
+412
+00:40:04.020 --> 00:40:06.400
+Matthew Khouzam | I want to download kimi k3: Objects to hallucination being a universal term.
+
+413
+00:40:09.030 --> 00:40:09.830
+Matthew Khouzam | I want to download kimi k3: So�?�
+
+414
+00:40:09.830 --> 00:40:10.930
+Vellaichamy, Sivapriya: That way�?�
+
+415
+00:40:11.150 --> 00:40:12.930
+Matthew Khouzam | I want to download kimi k3: That was a way of us getting more terms.
+
+416
+00:40:16.540 --> 00:40:19.360
+Matthew Khouzam | I want to download kimi k3: If anyone is in other working groups, please don't tell Gen.G.
+
+417
+00:40:23.390 --> 00:40:29.730
+Jordan Augé: And actually, I think that makes sense, because a lot of them, they are overlapping with security, with identity.
+
+418
+00:40:31.240 --> 00:40:35.820
+Matthew Khouzam | I want to download kimi k3: I would strongly argue that accuracy and observability are the foundational
+
+419
+00:40:36.050 --> 00:40:39.259
+Matthew Khouzam | I want to download kimi k3: Working groups, that everything else sits on them.
+
+420
+00:40:42.650 --> 00:40:43.160
+Jordan Augé: Cannot comment.
+
+421
+00:40:43.160 --> 00:40:49.430
+Vellaichamy, Sivapriya: We have Pavan here. Do you agree, Pavan? Pavan is from Observability Group, too.
+
+422
+00:40:49.430 --> 00:40:53.859
+Pavan Sudheendra: Yeah. I think Matthew does a great job of representing both.
+
+423
+00:40:53.860 --> 00:40:59.670
+Vellaichamy, Sivapriya: groups in every meeting, so thank you, Matthew.
+
+424
+00:40:59.670 --> 00:41:20.770
+Jordan Augé: And maybe, Pavan, since you are there, so just last week, but there's been new progress, I guess, we started contributing a few notes about the liaison with the different working groups, and I guess our two working groups, they have a lot of relationships, because at some point, we want to define a metrics to measure the different dimensions of accuracy, Reliability.
+
+425
+00:41:20.880 --> 00:41:27.320
+Jordan Augé: And to define those metrics, we'll need, observability, so�?� We started�?�
+
+426
+00:41:27.900 --> 00:41:34.279
+Jordan Augé: A few questions, or�?� a few questions, mostly�?� myself, I guess, so�?�
+
+427
+00:41:34.690 --> 00:41:43.129
+Jordan Augé: I expect more people also to contribute on that, but it would be nice at some point to think, to see what are the common points, and
+
+428
+00:41:44.080 --> 00:41:46.160
+Jordan Augé: See better how we can help each other.
+
+429
+00:41:48.840 --> 00:41:49.580
+Pavan Sudheendra: For sure.
+
+430
+00:41:49.870 --> 00:41:51.660
+Pavan Sudheendra: Thanks for the�?�
+
+431
+00:41:51.780 --> 00:42:03.369
+Pavan Sudheendra: initial draft of the, of the document. I'll probably, you know, go through this and, basically, we can discuss how to better coordinate.
+
+432
+00:42:03.730 --> 00:42:10.240
+Pavan Sudheendra: I think a lot of these, you know, like, just trading,
+
+433
+00:42:10.360 --> 00:42:18.069
+Pavan Sudheendra: On the, you know, initial set, overlaps with, like, a wider agent
+
+434
+00:42:18.070 --> 00:42:26.040
+Pavan Sudheendra: race model that we are trying to develop. So, a lot of the things, you know, particularly with respect to the metrics.
+
+435
+00:42:26.040 --> 00:42:38.360
+Pavan Sudheendra: And, you know, how do you, basically, you know, evaluate or rather identify a failure, you know, within an agent, you know.
+
+436
+00:42:38.360 --> 00:42:47.489
+Pavan Sudheendra: coordination, for example, is, like, probably the core piece that we are also thinking about, so I think it's probably great timing.
+
+437
+00:42:47.500 --> 00:42:48.330
+Pavan Sudheendra: Thank you.
+
+438
+00:42:48.510 --> 00:42:49.479
+Pavan Sudheendra: I'll click.
+
+439
+00:42:59.360 --> 00:43:04.329
+Jordan Augé: Okay, so�?� I think we covered all the agenda.
+
+440
+00:43:04.890 --> 00:43:10.169
+Jordan Augé: So, I don't know if you have any question or comment about this, so�?�
+
+441
+00:43:10.520 --> 00:43:16.209
+Jordan Augé: As usual, I encourage you to look offline, really look at the survey, look at the taxonomy.
+
+442
+00:43:16.480 --> 00:43:22.339
+Jordan Augé: So those are the two key points, I guess, and it would be nice if we can, before summer, to have,
+
+443
+00:43:22.900 --> 00:43:28.810
+Jordan Augé: Maybe cover the�?� or 10 items, 10 most important items for Accuracy Reliability.
+
+444
+00:43:30.570 --> 00:43:32.229
+Jordan Augé: Then we can negotiate more.
+
+445
+00:43:34.160 --> 00:43:36.890
+Jordan Augé: And, selection.
+
+446
+00:43:37.180 --> 00:43:40.110
+Jordan Augé: points I will ask for the survey tool.
+
+447
+00:43:43.410 --> 00:43:49.319
+Jordan Augé: And I will share the pointer to the pull request with the deliverable, so what I did is to have a�?�
+
+448
+00:43:50.720 --> 00:43:52.410
+Jordan Augé: Every time we�?�
+
+449
+00:43:52.510 --> 00:43:59.440
+Jordan Augé: Amand the PR, you will have the document auto-generated on the GitHub pages, so you can browse the document online.
+
+450
+00:44:00.330 --> 00:44:04.530
+Jordan Augé: And we can iterate easily on that HTML and PDF versions.
+
+451
+00:44:08.820 --> 00:44:10.889
+Jordan Augé: Any questions before we close?
+
+452
+00:44:14.080 --> 00:44:18.829
+Matthew Khouzam | I want to download kimi k3: It's not a question, but I just want to share something that I was working on for the last, few weeks.
+
+453
+00:44:19.240 --> 00:44:22.970
+Matthew Khouzam | I want to download kimi k3: It's basically a way of evaluating local open models.
+
+454
+00:44:24.200 --> 00:44:30.340
+Matthew Khouzam | I want to download kimi k3: and�?� I was�?� I would say it's evaluating observed accuracy.
+
+455
+00:44:30.500 --> 00:44:34.769
+Matthew Khouzam | I want to download kimi k3: With pedantic levels of observability, so it's kind of bridging the gap here.
+
+456
+00:44:35.220 --> 00:44:36.140
+Matthew Khouzam | I want to download kimi k3: Also.
+
+457
+00:44:36.350 --> 00:44:37.600
+Matthew Khouzam | I want to download kimi k3: It's in the chat.
+
+458
+00:44:37.800 --> 00:44:48.310
+Matthew Khouzam | I want to download kimi k3: I'm gonna invite you to check it out. I'm going to ask politely that you don't share too much, because I am going to be publishing results, and it is open source, but I prefer�?�
+
+459
+00:44:49.050 --> 00:44:54.600
+Matthew Khouzam | I want to download kimi k3: announcing the results, with the announcement of it being ready, is that, like, version 003.
+
+460
+00:45:08.200 --> 00:45:09.540
+Matthew Khouzam | I want to download kimi k3: And you're muted.
+
+461
+00:45:10.920 --> 00:45:16.890
+Jordan Augé: Another thing I was collecting the different links before we closed the chat. I don't know if I can find the chat.
+
+462
+00:45:18.610 --> 00:45:21.400
+Jordan Augé: So I won't add your links to the meeting notes.
+
+463
+00:45:22.590 --> 00:45:22.979
+Matthew Khouzam | I want to download kimi k3: Thank you.
+
+464
+00:45:24.050 --> 00:45:28.099
+Jordan Augé: I fear the AI summary might be�?�
+
+465
+00:45:28.240 --> 00:45:30.050
+Jordan Augé: No, it's private, I guess, so it's fine.
+
+466
+00:45:30.050 --> 00:45:34.690
+Matthew Khouzam | I want to download kimi k3: Look, here's the thing. Just�?� don't go out of your way and tweet it.
+
+467
+00:45:36.940 --> 00:45:38.770
+Matthew Khouzam | I want to download kimi k3: Do people still use Twitter?
+
+468
+00:45:43.400 --> 00:45:44.220
+Jordan Augé: You're safe.
+
+469
+00:45:48.770 --> 00:45:52.440
+Jordan Augé: Okay. Thanks, everyone, for the different inputs.
+
+470
+00:45:53.200 --> 00:46:00.840
+Jordan Augé: Hmm�?� Let's try to continue offline, sync on Discord, and otherwise, I'll see you in the next meeting.
+
+471
+00:46:02.160 --> 00:46:03.260
+Jordan Augé: Thank you very much.
+
+472
+00:46:04.070 --> 00:46:04.810
+Matthew Khouzam | I want to download kimi k3: Q.
+
+473
+00:46:05.320 --> 00:46:11.180
+Matthew Khouzam | I want to download kimi k3: By the way, there's a way to vibe with Gemini to auto-fill forms using Markdown.
+
+474
+00:46:13.240 --> 00:46:17.089
+Matthew Khouzam | I want to download kimi k3: So I'm gonna try doing that to make the form instead of us manually doing it.
+
+475
+00:46:18.890 --> 00:46:19.470
+Jordan Augé: Epic.
+
+476
+00:46:19.820 --> 00:46:20.760
+Jordan Augé: Bye-bye.
+
