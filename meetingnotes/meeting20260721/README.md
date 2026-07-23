@@ -16,11 +16,17 @@
 ## 议题与结论
 
 ### 1. 一般性更新
+
+> **一句话总结**：通报了暑期主席轮休安排与 AAIF 奖项提名动态，并确认 AAIF 官方支持工作组开展问卷调研（survey），后续可获得对外传播协助。
+
 - 夏休（PTO）提醒：Jordan 与 Casper 交替休假，例会暑期继续（前提是有足够人参加）；昨日 Chairs 会议出席人数已明显减少。
 - Jordan 在 Chairs 会议上确认：AAIF 支持工作组开展 survey（问卷调研），后续可联系 Kristina 协调对外传播；是否有官方问卷工具尚待确认。
 - Matthew 提醒 Discord 上有 AAIF Technical Excellence Awards 的项目提名流程（该轮提名截止日已过——上周五）；Jordan 补充当日收到的 Pulse 调查中也包含项目提名相关问题，后续可能还有其他轮次。
 
 ### 2. D3（Gap Analysis）与调研问卷
+
+> **一句话总结**：重点讨论了调研问卷的目标定位、问题设计（改用 outcome-gap 框架与 Likert 量表）与发放工具，决定问卷内部评审期约一个月、于下下次例会前定稿，由 Sanjeev 整理为 PR 继续迭代。
+
 - Sanjeev 回顾背景：最初的 agent/benchmark gap analysis 因缺乏真实企业问题的 grounding 而转向先做 survey，目标是了解业界 agent 采用现状、并识别 accuracy/reliability 方面的优先差距，以支撑后续交付物。现有草稿已获 Robert 反馈，希望更多成员参与评审。
 - 关于协作方式：Chairs 会议反馈各工作组普遍存在工具问题（GitHub、Google Doc 均有人不适应），有问题请及时向 Chairs 反馈；各子组可自行选择合适的协作方式。
 - Matthew 建议：给评审设定 deadline、并在文档中加入"What's in it for me"（评审对评审者的价值）以提升参与度——大家都在以低优先级碎片时间评审。
@@ -33,6 +39,9 @@
 - **结论（deadline）**：问卷内部评审期约一个月——下次例会迭代一版，再下次例会（第二次会议）前定稿，为休假成员留出参与时间。
 
 ### 3. Taxonomy（术语）与 D1 进展
+
+> **一句话总结**：同步了跨工作组术语表的贡献规则（每组约 10 条、推动核心术语升级为通用术语）与评审方式，决定夏休前完成本组最重要的约 10 条术语定义，并将 D1 交付物从 Google Docs 迁移为 GitHub PR 方式迭代。
+
 - 两条并行工作线：① 向 Taxonomy & Landscape 工作组维护的跨组 Excel 表贡献术语（Matthew 从本组提取的定义已录入）；② 本组自己的术语优先级（Jordan 已在文档中建议了优先定义的核心概念）。
 - 评审方式：在 Excel 表中新增以自己名字命名的列填写意见；即使同意也请标注"agree"，以留下评审与共识的痕迹。
 - 跨组 taxonomy 现状（Matthew）：每组最多贡献约 10 条术语（总上限 70 条）；他在积极推动将本组核心术语（如 hallucination）升级为 universal 通用术语以争取更多名额。当前进展缓慢（约每周达成一条定义共识），目前正在辩论"什么是 agent"（甚至衍生到"如何定义狗不算 AI agent"）。
@@ -42,6 +51,9 @@
 - Liaison（与 Observability 工作组）：Jordan 上周起草了工作组间 liaison 文档的初始问题清单；Pavan（Observability 组）表示会审阅，指出双方在 metrics 定义、agent 失败识别/评估等方面与其组正在开发的更广泛 agent 评估模型高度重叠，后续协调合作。
 
 ### 4. 其他分享
+
+> **一句话总结**：Matthew 预告了其桥接 accuracy 与 observability 的开源模型评估项目（结果公布前请勿外传），并将尝试用 Markdown 自动生成问卷的 Google Forms 表单。
+
 - Matthew 分享了他近几周开发的一个开源项目：以"极致可观测性"评估本地开源模型的观测准确性（observed accuracy），桥接 accuracy 与 observability；链接已发会议聊天区，请勿在其正式公布结果前对外传播。
 - Matthew 还提到可以用 Gemini 从 Markdown 自动生成 Google Forms 表单，他将尝试用该方式生成问卷表单，避免手工录入。
 
