@@ -1,0 +1,1130 @@
+WEBVTT
+
+1
+00:03:19.050 --> 00:03:20.550
+Casper Nielsen: Hey, Robert?
+
+2
+00:03:24.280 --> 00:03:25.380
+Robert Bischof: Hello?
+
+3
+00:05:14.870 --> 00:05:20.279
+Casper Nielsen: We'll just give folks a minute or two to join in, and then we'll take it from there.
+
+4
+00:06:22.840 --> 00:06:25.720
+Casper Nielsen: Alright, I guess we can get started.
+
+5
+00:06:26.100 --> 00:06:28.710
+Casper Nielsen: Soâ€¦ hello, everyone.
+
+6
+00:06:28.910 --> 00:06:30.519
+Casper Nielsen: It is good to be back.
+
+7
+00:06:31.130 --> 00:06:42.959
+Casper Nielsen: I've been off 2 weeks, soâ€¦ and I came back yesterday, so I'm a little bit beside myself, and I think today will be noteâ€¦ or, be noticeable on that part.
+
+8
+00:06:43.460 --> 00:06:55.300
+Casper Nielsen: I have tried my best to, sort of prepare an agenda. It's gonna be relatively short, because there isn't that much to run with. The first bullet is going to be driven by
+
+9
+00:06:55.550 --> 00:07:00.720
+Casper Nielsen: the comment that Sanjeev also had in the Discord.
+
+10
+00:07:00.960 --> 00:07:04.529
+Casper Nielsen: About the proposed survey. Just gonna quickly run over that.
+
+11
+00:07:04.830 --> 00:07:19.700
+Casper Nielsen: And then I have an update from the, working group chairs meeting yesterday that I would like to circle. There is not going to be any decision on it, so just reflect on it, because we will need a quorum, or a fullâ€¦ not just quorum, but, like, a full
+
+12
+00:07:21.370 --> 00:07:31.529
+Casper Nielsen: acknowledgement, if that is the case. It can also be quickly discarded if people are not, towards it again. It is in the, running notes document on
+
+13
+00:07:32.020 --> 00:07:36.349
+Casper Nielsen: Google, and I'll paste a link quickly in the chat.
+
+14
+00:07:37.020 --> 00:07:38.110
+Casper Nielsen: Mâ€¦
+
+15
+00:07:38.600 --> 00:07:56.400
+Casper Nielsen: So, I don't know if all of you have seen Sanjeev's comment, but he has created a proposed survey for the gap analysis. It is up on the repo for feedback. I do encourage all of you to take a moment of time.
+
+16
+00:07:56.580 --> 00:08:02.899
+Casper Nielsen: to read through it and, give some feedback so we can get the best survey out. I think this is gonna be aâ€¦ theâ€¦
+
+17
+00:08:03.230 --> 00:08:21.079
+Casper Nielsen: the best, data input we're gonna get to inform the gap analysis that we will then derive a lot of the following work out of. So please do, spend some time on trying to help with, with inputs and, and feedback on, on that.
+
+18
+00:08:21.470 --> 00:08:39.080
+Casper Nielsen: I will at least do my part there as well, and I see you called in Sanjeev. Hi, we're going over the, quickly going over the, note, sorry, the pull request that you, you wrote in, in Discord. Now, if you want to attach a few words to it.
+
+19
+00:08:39.360 --> 00:08:47.540
+Sanjeev Suresh: Yeah, I can just quickly just walk over it, in just a minute or two, just to set some high-level context.
+
+20
+00:08:48.730 --> 00:08:55.399
+Sanjeev Suresh: Yeah, so this is, again, like, I mean, like Casper said, I mean, please do review it, because it's gonna influence, like, a lot ofâ€¦
+
+21
+00:08:55.600 --> 00:09:13.919
+Sanjeev Suresh: our work also going ahead, at a high level, again, this is just a survey to getâ€¦ to understand, I mean, some state of current age and adoption with a focus on accuracy and reliability, and what are the highest priority gaps to focus.
+
+22
+00:09:14.610 --> 00:09:24.769
+Sanjeev Suresh: Currently, there are, like, 4 main sections to the survey. It has 15 questions in all, so that, it's not too overwhelming with a really large number of questions.
+
+23
+00:09:25.370 --> 00:09:29.479
+Sanjeev Suresh: Even this, I'm not sure whether it's, like, a little too much.
+
+24
+00:09:29.600 --> 00:09:51.739
+Sanjeev Suresh: The first section of the survey is, I mean, just the entry and identifying who the user is. So, what activities, like, have you personally performed withâ€¦ So, the whole survey is anchoring on a specific agent system, so it's going to ask you, like, if you have worked on any agent system.
+
+25
+00:09:51.740 --> 00:09:55.720
+Sanjeev Suresh: That at least reached a serious pilot or deployment in the past 6 months.
+
+26
+00:09:55.720 --> 00:10:04.660
+Sanjeev Suresh: And if there's, like, multiple systems you can think of, choose one specific one that you worked with recently, and answer every question about that.
+
+27
+00:10:05.290 --> 00:10:16.360
+Sanjeev Suresh: So, as part of your most familiar system, what are the different kinds of activities you have performed in it, like designing it, or just even, like, just made decisions based on it?
+
+28
+00:10:18.180 --> 00:10:25.230
+Sanjeev Suresh: like, how widely was it used? Like, how wide was the deployment? Like, from just a pilot to a broad deployment?
+
+29
+00:10:25.980 --> 00:10:37.300
+Sanjeev Suresh: What was, like, the rough field of the, deployment? Like, customer service, research, coding, creative work, and so on. So these are, like, some top,
+
+30
+00:10:37.410 --> 00:10:48.400
+Sanjeev Suresh: industries, we canâ€¦ like, if you feel like there's something missing, or something is duplicative, we can change some of these answers too, but these are, like, some broad categories I could think of.
+
+31
+00:10:49.150 --> 00:10:56.879
+Sanjeev Suresh: Then you go to general adoption and concerns in theâ€¦ so this is, this is one of the two really main questions of the survey.
+
+32
+00:10:57.230 --> 00:11:16.600
+Sanjeev Suresh: This, this focused on a general, case, not necessarily limited to, accuracy and reliability. In the past 6 months, what are different factors that affected, your ability to expand the system? So this goes both, things like accuracy, reliability.
+
+33
+00:11:16.660 --> 00:11:20.469
+Sanjeev Suresh: As well as, like, other factors, like just cost.
+
+34
+00:11:20.940 --> 00:11:35.779
+Sanjeev Suresh: or not having access to, the specific tools, or security, privacy, legal compliance requirements. So, across different categories, how, like, like, howâ€¦
+
+35
+00:11:35.850 --> 00:11:44.250
+Sanjeev Suresh: what is stalling your adoption. So, of which accuracy and reliability are also two factors of this.
+
+36
+00:11:45.050 --> 00:11:54.800
+Sanjeev Suresh: yeah, so this is just to get an idea of how much, yeah, accuracy and reliability matters as respect to other factors like cost and security, too.
+
+37
+00:11:54.820 --> 00:12:07.469
+Sanjeev Suresh: So this is a, Likert scale, based on Robert's suggestion, so each question, each, each factor, you'll have to rate between, like, sort of, like, 1 to 5, and 6 is, like, NA.
+
+38
+00:12:07.560 --> 00:12:14.819
+Sanjeev Suresh: Betweenâ€¦ it's not a limitation to it's extremely a big limitation, and it actually stopped our progress.
+
+39
+00:12:15.870 --> 00:12:26.790
+Sanjeev Suresh: So after this, what was the most significant effect the specific constraint had? Did it, like, delay yourâ€¦
+
+40
+00:12:26.910 --> 00:12:40.529
+Sanjeev Suresh: like, expansion in some capacity, or did it resulted in it actually being abandoned, and so on. How much human checking was needed to make sure outputs areâ€¦ can be relied on before
+
+41
+00:12:41.440 --> 00:12:46.820
+Sanjeev Suresh: From, like, occasional spot checks toâ€¦ Requiring, like, substantial reviews.
+
+42
+00:12:47.240 --> 00:13:02.770
+Sanjeev Suresh: What was the most significant benefit that the specific system, delivered in the real world from, again, like, like, handling, like, more work to, like, doing work which was practically impossible earlier.
+
+43
+00:13:04.020 --> 00:13:11.929
+Sanjeev Suresh: So, at this point, we raised about 7 out of the 15 questions, and then we go on to an Accuracy and Reliability section.
+
+44
+00:13:14.130 --> 00:13:29.599
+Sanjeev Suresh: So during the past 6 months, again, with a, like, how often did the system produce a result that was unacceptable? Like, how often did it have accuracy reliability issues? And then, question 9 is the other big question.
+
+45
+00:13:29.850 --> 00:13:40.060
+Sanjeev Suresh: In a Likert scale during the past 6 months, which accuracy and reliability problems affected the system's usefulness. So these are, like, some of the factors from our, like, taxonomy.
+
+46
+00:13:40.060 --> 00:13:57.270
+Sanjeev Suresh: Just incorrect results accuracy, failure when, like, tools or dependencies changes. I think we call it some, some, one kind of, a particular kind of consistency. different results under similar conditions.
+
+47
+00:13:57.930 --> 00:14:03.950
+Sanjeev Suresh: Like, again, failure to involve a person when this human handoff is needed.
+
+48
+00:14:04.660 --> 00:14:17.920
+Sanjeev Suresh: Like, again, so this is also something that might need, careful review, so that it's aligned to what we care about. Again, this is on a scale from 1 to 5, with a 6 as, like, NA.
+
+49
+00:14:18.390 --> 00:14:21.680
+Sanjeev Suresh: Question 10 again, among these,
+
+50
+00:14:22.040 --> 00:14:30.060
+Sanjeev Suresh: Like, among the times when you had unacceptable results, how often was the problem identified before it affected real work?
+
+51
+00:14:30.480 --> 00:14:43.290
+Sanjeev Suresh: From most of the time to almost, like, never. Like, again, one focus is also of the surveys that, like, can weâ€¦ I mean, can some of these questions provide, like, really useful, like, headline reports?
+
+52
+00:14:44.600 --> 00:14:55.580
+Sanjeev Suresh: What was the most, serious consequence that came because of it, from, again, delayed to, some privacy issue, or additional costs, or whatnot.
+
+53
+00:14:55.950 --> 00:15:13.909
+Sanjeev Suresh: Which, so, again, which source of evidence had the greatest influence on decision, whether the actual answer was acceptable, did, like, was there, like, actual evaluation test suits or just informal human Vibe sex?
+
+54
+00:15:15.300 --> 00:15:31.589
+Sanjeev Suresh: So this closes the Accuracy and Reliability section, and finally there's a priority section. Thisâ€¦ this is to inform some of our, like, future work to, what accuracy and Reliability problems need the most shared industry work.
+
+55
+00:15:31.840 --> 00:15:49.919
+Sanjeev Suresh: Is it, again, there's a bunch of factors. Is it, defining what acceptable quality means? Is it, in dictating regressions after specific dependencies change?
+
+56
+00:15:50.770 --> 00:16:05.980
+Sanjeev Suresh: what is the preferred output by, say, a working group like ours? Again, like, some sort of terminology, reusable tests, report on best practices, and these areâ€¦ this is very heavily influenced by our charter.
+
+57
+00:16:06.250 --> 00:16:12.999
+Sanjeev Suresh: And finally, just an open-ended text response on what did this survey miss, and any additional thoughts.
+
+58
+00:16:21.260 --> 00:16:24.800
+Casper Nielsen: Thank you, Sanjeev, both for writing and going over.
+
+59
+00:16:24.980 --> 00:16:32.880
+Casper Nielsen: And then make sure everybody takes the time to go review. I think the most important part is to do that,
+
+60
+00:16:33.010 --> 00:16:40.389
+Casper Nielsen: async work as well, so that, so that we'll have that back-and-forth ping-pong. Sorry, Nicolas, for cutting you off.
+
+61
+00:16:40.640 --> 00:16:43.459
+Nicolas Bonnet: No, no worries. Well.
+
+62
+00:16:43.460 --> 00:17:02.810
+Nicolas Bonnet: So I have two questions. A first comment, this is great work, and thanks for taking the time, it seems very thorough. I have a practical question, if I want to make a suggestion about a potential answer, where do you want me toâ€¦ where do you want us to do this? Like, just,
+
+63
+00:17:03.240 --> 00:17:05.880
+Nicolas Bonnet: What is the best way for us to provide that?
+
+64
+00:17:06.060 --> 00:17:07.280
+Nicolas Bonnet: Feedback to you.
+
+65
+00:17:07.280 --> 00:17:16.250
+Sanjeev Suresh: Yeah, I think PR comments, so we, I mean, we tried a bunch of formats earlier, like, just comments on Google Docs and Discord, I think.
+
+66
+00:17:16.420 --> 00:17:19.999
+Sanjeev Suresh: Maybe PR comments might be the best place.
+
+67
+00:17:20.000 --> 00:17:26.229
+Nicolas Bonnet: Okay, PR comments for you? Okay, perfect. And then the second one, it'sâ€¦ and I know there's already quite a few
+
+68
+00:17:26.440 --> 00:17:31.100
+Nicolas Bonnet: Question. So, it's to be considered,
+
+69
+00:17:31.330 --> 00:17:37.100
+Nicolas Bonnet: carefully, but I wonder whether it makes sense to have a question around
+
+70
+00:17:38.790 --> 00:17:52.020
+Nicolas Bonnet: You tell me, maybe it's out of the scope, but around organizational considerations, around, is there an organizational setup in your company that manages the lifecycle of
+
+71
+00:17:52.330 --> 00:17:56.800
+Nicolas Bonnet: Accuracy assessment and Accuracy fixes.
+
+72
+00:17:57.090 --> 00:18:01.500
+Nicolas Bonnet: To understand what kind of aâ€¦ of aâ€¦
+
+73
+00:18:01.560 --> 00:18:16.390
+Nicolas Bonnet: organizationalâ€¦ like, is there organizational awareness at all? Is there a team thatâ€¦ who's dedicated to this? Like, those kinds of things, can be quite, in my experience, quite challenging.
+
+74
+00:18:16.390 --> 00:18:29.539
+Nicolas Bonnet: Because it's diffuse, accountability and responsibility. So I wonder whether that would be an interesting survey to get the state of, how organizations deal with those accuracy issues.
+
+75
+00:18:34.130 --> 00:18:42.989
+Sanjeev Suresh: I mean, if you can take a shot at, I mean, proposing some concrete question, I mean, we can chat about that and discuss.
+
+76
+00:18:42.990 --> 00:18:52.659
+Nicolas Bonnet: I'll try to come up with one single question on this, and then I'll share with you, maybe, in Discord, orâ€¦ it's more than just a PR, then. Yeah.
+
+77
+00:18:52.800 --> 00:18:53.410
+Sanjeev Suresh: Fantastic.
+
+78
+00:18:53.710 --> 00:19:08.570
+Jessie Zhang: Iâ€¦ somehow I can't find my Zuizâ€¦ Zuiz hands button, so I'm just gonnaâ€¦ so Iâ€¦ I'm glad I'm not mate, so I just started reviewing right before that, so I have already a bunch of questions.
+
+79
+00:19:08.830 --> 00:19:26.849
+Jessie Zhang: Number one is the purpose of this survey, right? If we're gonna use it for our white paper, so I add already a few things saying, hey, getting the org, getting the industry, getting some of the size of the company, all those in place, so we can do analysis. Then there areâ€¦
+
+80
+00:19:26.850 --> 00:19:42.549
+Jessie Zhang: kind ofâ€¦ I'm just first just goes through the typical survey, because I used to create a platform for survey for different things, and you ask whether they have or not, but we don't have, like, a branching out. If I don't have anything, I should be able to
+
+81
+00:19:42.550 --> 00:19:48.799
+Jessie Zhang: just directly jump to the end, right? Because it's at the very beginning, so there are some logistic things.
+
+82
+00:19:48.800 --> 00:19:55.009
+Sanjeev Suresh: So, I mean, just for branching, I think, if you select none of these here, ideally, like, I do want to branch out and end.
+
+83
+00:19:56.900 --> 00:20:07.099
+Sanjeev Suresh: If you don't have a system which you have interacted in the last 6 months in which you're materially influenced in any one of these 6 defined ways.
+
+84
+00:20:07.210 --> 00:20:09.030
+Sanjeev Suresh: Branch out and end.
+
+85
+00:20:09.800 --> 00:20:26.100
+Jessie Zhang: Yeah, so those are just the survey logistics. So there are a few things I think of, because it's already 17 questions, or there are a lot of things, you have a lot to read, and there are a couple of questions we can consolidate, then we can actually empty out more.
+
+86
+00:20:26.100 --> 00:20:43.309
+Jessie Zhang: And there are probably a couple things I'm gonna add. And I, to be honest, we tried the PR, so we moved all our talk into PR. Then people say, hey, I can't see the history, I can't see other people's comments, or like, I can't see it side by side, right?
+
+87
+00:20:43.310 --> 00:20:51.130
+Jessie Zhang: Also, it's just not easy to see the version either, so we moved back to Wiki. So that's just, someâ€¦
+
+88
+00:20:51.180 --> 00:20:55.200
+Jessie Zhang: some things to consider. I still kind of, like.
+
+89
+00:20:55.400 --> 00:21:01.360
+Jessie Zhang: comment on the, the docs, because I can easily see other people's stuff.
+
+90
+00:21:01.780 --> 00:21:05.729
+Jessie Zhang: It's just my opinion, just to see where we want to do this.
+
+91
+00:21:05.890 --> 00:21:14.709
+Sanjeev Suresh: like, I don't have as strong thoughts either way, like, whatever is easier for the group, like, I would say, like, like, I just want to say, like, like, yeah, I thinkâ€¦
+
+92
+00:21:15.340 --> 00:21:26.870
+Sanjeev Suresh: maybe from the last meeting, we were saying, like, I mean, folks couldn't easily do that on the docks. I felt that was the general sense of the room, but I don't have a strong thoughts either way.
+
+93
+00:21:27.320 --> 00:21:45.470
+Nicolas Bonnet: I like docs for exactly what Jessie said. I'll do whatever you guys suggest, but I like docs because then you can see the thread. You can compare the different comments and different viewpoints, whereas in PR, it's more like a unit, and you don'tâ€¦ you don'tâ€¦ you have less context, soâ€¦ But, you know, that's just my perspective.
+
+94
+00:21:45.470 --> 00:21:45.980
+Jessie Zhang: Yep.
+
+95
+00:21:46.120 --> 00:21:53.799
+Jessie Zhang: you have to create a PR, then you comment on it, someone else comment down, then you kind of, like, disconnect with other PRs.
+
+96
+00:21:53.800 --> 00:21:54.290
+Nicolas Bonnet: Yep.
+
+97
+00:21:54.290 --> 00:22:01.519
+Jessie Zhang: Yeah, so I did, I tried that in our arch console, then I had to move back, move everything back to the wiki, soâ€¦
+
+98
+00:22:02.640 --> 00:22:06.050
+Casper Nielsen: I do think that there is one point.
+
+99
+00:22:06.170 --> 00:22:12.969
+Casper Nielsen: that talks in favor of the PR, which is that that's where all of the other working group content is.
+
+100
+00:22:13.170 --> 00:22:30.550
+Casper Nielsen: with the openness of it, right? The meeting notes, the charter, the reports, and all of the other content has been opened up inside the wiki, whereas Google Docs, to my understanding, has not really been that yet.
+
+101
+00:22:30.770 --> 00:22:31.370
+Jessie Zhang: Yeah.
+
+102
+00:22:31.370 --> 00:22:37.399
+Nicolas Bonnet: If I can weigh in on this, Casper, I think both are of value, but I would start with
+
+103
+00:22:37.650 --> 00:22:47.880
+Nicolas Bonnet: the docs, that's really kind of unstructured feedback, and then whoever is the author of the document itself then consolidates that into a set of
+
+104
+00:22:48.430 --> 00:22:52.399
+Nicolas Bonnet: public PR for the rest of the consumers to see.
+
+105
+00:22:52.530 --> 00:22:56.830
+Nicolas Bonnet: But then it distills the information. I think the first wave is just likeâ€¦
+
+106
+00:22:58.550 --> 00:23:01.670
+Sanjeev Suresh: I mean, justâ€¦ I mean, one pass of that has already been done, like.
+
+107
+00:23:01.670 --> 00:23:02.120
+Nicolas Bonnet: Yeah, yeah.
+
+108
+00:23:02.120 --> 00:23:07.400
+Sanjeev Suresh: Of those at Doc, and then it shifted to a PR. I'm happy to, like, go back to the doc stage as well.
+
+109
+00:23:07.400 --> 00:23:17.189
+Jessie Zhang: Yeah, because this one, we did automation, so basically, a massive amount of comments and work on the wiki, then there's automation.
+
+110
+00:23:17.190 --> 00:23:28.979
+Jessie Zhang: We just automatically just create the PR, then send it to the Gaze repo. Gaze repo, for those docs, almost like the mirror, so people have a visibility.
+
+111
+00:23:28.980 --> 00:23:37.689
+Jessie Zhang: But the work is on this side, so that's what we're doing. So we're trying, so we're trying AI native, right? This is part of AI native, what works the best?
+
+112
+00:23:37.690 --> 00:23:43.480
+Jessie Zhang: And we're moving back and forth, and we have automation now, we still don't know which one's the best yet.
+
+113
+00:23:49.720 --> 00:24:01.929
+Anup Shirgaonkar (JPMorganChase): I had a question for everyone. Is there any specific sections that, we need to put comments on with, more of a priority? Because I think, the doc, I'll wait for the doc link as well.
+
+114
+00:24:02.420 --> 00:24:07.210
+Anup Shirgaonkar (JPMorganChase): But, in terms of the gap analysis, the last one was the gap analysis.
+
+115
+00:24:08.390 --> 00:24:13.580
+Anup Shirgaonkar (JPMorganChase): So inside that, is there any specific things that are needed to finalize first, in terms of priority?
+
+116
+00:24:15.310 --> 00:24:32.530
+Sanjeev Suresh: I mean, so I would say, like, gapâ€¦ like, I mean, right now, we wereâ€¦ we shifted our focus from the gap analysis to the survey, just because we felt that it wasn't enough grounded in, in, in, in, in, in, I mean, just the real world.
+
+117
+00:24:32.700 --> 00:24:38.200
+Sanjeev Suresh: So, so it's aâ€¦ Focus on the survey first, in leaving the comments.
+
+118
+00:24:40.520 --> 00:24:44.429
+Anup Shirgaonkar (JPMorganChase): Okay, so the doc will be focused on the survey topics.
+
+119
+00:24:44.430 --> 00:24:54.689
+Sanjeev Suresh: Yeah, and I think there should be a tab in the doc with the survey, within the Meeting Notes doc, and Casper, if you want, you can share too.
+
+120
+00:24:55.020 --> 00:24:59.839
+Sanjeev Suresh: And I don't think it's updated with the latest PR, but I'm happy to do that, like, later.
+
+121
+00:24:59.840 --> 00:25:00.410
+Anup Shirgaonkar (JPMorganChase): Hmm.
+
+122
+00:25:01.000 --> 00:25:07.839
+Anup Shirgaonkar (JPMorganChase): And for the paper, is the same survey results will percolate into paper, orâ€¦ and combine with the gap analysis on prior?
+
+123
+00:25:07.970 --> 00:25:15.089
+Sanjeev Suresh: I mean, so I was thinking, again, this is up for, discussion with the group, I was thinking, so the survey could definitely power at least one
+
+124
+00:25:15.200 --> 00:25:24.000
+Sanjeev Suresh: I mean, report, similar to a report I shared last week, and, in, in Discord as well.
+
+125
+00:25:25.620 --> 00:25:36.249
+Sanjeev Suresh: And we can also publish the survey as some sort of, like, PDF artifact by itself, but I think the gap analysis by, would be a separate work after that.
+
+126
+00:25:38.060 --> 00:25:38.740
+Anup Shirgaonkar (JPMorganChase): Got it.
+
+127
+00:25:38.960 --> 00:25:39.700
+Anup Shirgaonkar (JPMorganChase): Thanks.
+
+128
+00:25:41.930 --> 00:25:49.640
+Casper Nielsen: And, sorry, Iâ€¦ didâ€¦ was there something I needed to reply to here also, Sanjeev, or, Anup?
+
+129
+00:25:50.060 --> 00:25:54.710
+Sanjeev Suresh: No, if you just had the meeting notes open, yeah, justâ€¦
+
+130
+00:25:55.360 --> 00:26:00.940
+Casper Nielsen: Yeah, yeah, yeah, I, so I shared the link, I'll share the link again in the chat.
+
+131
+00:26:01.310 --> 00:26:05.440
+Casper Nielsen: For the running notes, just so everybody has that for them.
+
+132
+00:26:06.610 --> 00:26:07.890
+Casper Nielsen: Yeah.
+
+133
+00:26:09.330 --> 00:26:27.309
+Casper Nielsen: Cool. So, the last comment and remark on this, again, thank you so much for the effort and the work here, Sanjeev. It's really nice. So, please, everyone in the group, take the time to go in and review, give feedback, start the conversation. If something takes
+
+134
+00:26:27.310 --> 00:26:41.989
+Casper Nielsen: more than what is good in a PR review comment, there is also the possibility of opening up the discussions. I do think we would still like to urge that we spend as much time as possible in Git, because it is the public-facing place.
+
+135
+00:26:42.100 --> 00:26:45.520
+Casper Nielsen: andâ€¦
+
+136
+00:26:45.690 --> 00:26:58.770
+Casper Nielsen: That kind of leads down to one of the things that I carried out from the chair's meeting earlier this week, which was yesterday. There was a question from one of the other participants.
+
+137
+00:26:58.900 --> 00:27:13.740
+Casper Nielsen: Now that they have an inflow of folks joining, whether the previous meetings, which were recorded during a time where the working groups were private, whether the previous meetings would be benefited from being made public.
+
+138
+00:27:14.090 --> 00:27:32.739
+Casper Nielsen: And we couldn't really have any one-size-fits-all agreement on that, because it very much depended on the people that were in those meetings under the terms and conditions that they were private at that point in time. So, the ask from the whole chairs working group
+
+139
+00:27:32.900 --> 00:27:45.519
+Casper Nielsen: bi-weekly was to go back and sort of have a conversation in the working group about what the feel and vibe was there. I think one of the things we have to consider is to weigh
+
+140
+00:27:45.720 --> 00:28:02.909
+Casper Nielsen: the benefit of opening up those recordings versus the amount of work that it has. There is also the option that we just, to Jessie's point, we take the transcripts, and then we chuck them into one of our favorite models, and then we ask it to write a condensed, this is what happened the first
+
+141
+00:28:02.980 --> 00:28:17.459
+Casper Nielsen: 7, 8, however many meetings we had, and then we set that available to everybody after everybody in the group has had the opportunity to nod and say, yes, yes, this is acceptable, of a summarization of the first private meetings that we had.
+
+142
+00:28:17.490 --> 00:28:27.359
+Casper Nielsen: So, like I said, we can't make any decisions in this meeting, because it requires all of the participants in previous meetings to have some form ofâ€¦ or way to have a sway and say in it.
+
+143
+00:28:27.400 --> 00:28:44.450
+Casper Nielsen: But would like everybody to have a reflection on it, and then we can share in the Discord discussion, or follow up on this in two weeks' time as well, with a bit more concrete. I also want to hear a little bit about how do the other working groups go about it, if there's a consensus on just
+
+144
+00:28:44.540 --> 00:28:55.730
+Casper Nielsen: summarizing the content, then maybe it doesn't make sense to create work and be the outlier in that. But at least have some reflections on that until then.
+
+145
+00:28:59.120 --> 00:29:13.569
+Casper Nielsen: then that was all that I had time to prepare today. Apologies for that. Are there any other business that any of you would like to raise, or anything that we should get back to?
+
+146
+00:29:13.570 --> 00:29:21.079
+Casper Nielsen: I do have one thing for you, Sanjeev, so if you can stick around for a minute afterwards, it'll go into the recording, but I think that's perfectly fine with the content we have.
+
+147
+00:29:22.530 --> 00:29:25.190
+Robert Bischof: Yeah, there's another pull request open, right?
+
+148
+00:29:28.170 --> 00:29:29.960
+Casper Nielsen: I think that might be theâ€¦
+
+149
+00:29:29.960 --> 00:29:30.720
+Robert Bischof: to me.
+
+150
+00:29:31.930 --> 00:29:35.560
+Casper Nielsen: We have twoâ€¦ oh, we have 3!
+
+151
+00:29:36.850 --> 00:29:43.190
+Casper Nielsen: I did not see Jordan's one. Yes, theyâ€¦ you are absolutely correct. There is one more.
+
+152
+00:29:43.670 --> 00:29:48.790
+Casper Nielsen: please also go through this one as well. I will do that myself, too.
+
+153
+00:29:49.960 --> 00:29:56.009
+Robert Bischof: So could it be that, John is on vacation currently, or is out of office?
+
+154
+00:29:56.270 --> 00:29:57.000
+Casper Nielsen: Yes.
+
+155
+00:29:57.480 --> 00:29:59.639
+Robert Bischof: Ugh, just, yes.
+
+156
+00:30:00.330 --> 00:30:15.120
+Robert Bischof: to avoid confusion, so I just, started the review, and I recognize that there is a mismatch, so the chapter number 4 is in file number 3, and vice versa.
+
+157
+00:30:15.320 --> 00:30:24.960
+Robert Bischof: And when I now start commenting on, yeah, one of the chapters, then it could lead to confusing, ethical confusion.
+
+158
+00:30:25.150 --> 00:30:26.060
+Robert Bischof: Soâ€¦
+
+159
+00:30:28.510 --> 00:30:46.329
+Casper Nielsen: Iâ€¦ I canâ€¦ I can make, I can make updates to that. If you canâ€¦ if you and I can link up on Discord, maybe, or Slack, wherever your preference is, I can amend that, so we get that handle. Will do. Because we should absolutely deal with that, yeah.
+
+160
+00:30:46.330 --> 00:30:54.579
+Robert Bischof: I think so, yeah, yeah, so I wasn't, yeah, I wasn't really, aware of how to continue hiring process.
+
+161
+00:30:54.940 --> 00:31:02.430
+Casper Nielsen: Yeah, of course, of course. If you just reach me on either of those, then we can.
+
+162
+00:31:02.430 --> 00:31:05.259
+Robert Bischof: Yeah, I will ping you as such a pro, yep.
+
+163
+00:31:05.260 --> 00:31:06.789
+Casper Nielsen: Okay, perfect, thank you.
+
+164
+00:31:14.250 --> 00:31:24.300
+Casper Nielsen: If we have no other business, then we can call the meeting adjourned, and I thank you very much for your participation again. It was wonderful to get back,
+
+165
+00:31:24.400 --> 00:31:36.079
+Casper Nielsen: I've had two weeks of vacation with kids on my own, so that was very little vacation, and a lot of running around as a crazy person. So it's very good to be back at work, and seeing all you all again.
+
+166
+00:31:36.940 --> 00:31:38.400
+Robert Bischof: Sounds great.
+
+167
+00:31:38.910 --> 00:31:40.830
+Robert Bischof: We are fully relaxed now.
+
+168
+00:31:41.070 --> 00:31:44.999
+Casper Nielsen: Fully relaxed. Absolutely.
+
+169
+00:31:45.360 --> 00:31:46.970
+Jessie Zhang: And it's so nice.
+
+170
+00:31:48.500 --> 00:31:50.460
+Jessie Zhang: And the youth.
+
+171
+00:31:53.150 --> 00:31:59.989
+Casper Nielsen: All right, well, everyone Have a wonderful, continued day, and I will see you in two weeks' time.
+
+172
+00:32:00.640 --> 00:32:01.700
+Robert Bischof: See you.
+
+173
+00:32:01.700 --> 00:32:02.180
+Anup Shirgaonkar (JPMorganChase): Thank you.
+
+174
+00:32:02.180 --> 00:32:04.050
+Robert Bischof: Have a good day, bye-bye.
+
+175
+00:32:10.220 --> 00:32:15.410
+Jessie Zhang: Casper and Sanjeev, I have a quick one for you guys.
+
+176
+00:32:15.940 --> 00:32:28.980
+Jessie Zhang: Because, see, I was busy. I had to host some architect council off-site, all kind of thing, so I wasn't attending before. When I try to catch up, right, it's really hard to look at what we need to do.
+
+177
+00:32:29.020 --> 00:32:36.570
+Jessie Zhang: And whatâ€¦ do we have, do we have, like, all the recordings, all the things? Then we can summarize the to-dos.
+
+178
+00:32:36.670 --> 00:32:40.029
+Jessie Zhang: When we ask people what to do, the plans.
+
+179
+00:32:40.180 --> 00:32:50.760
+Jessie Zhang: Because I come here, I immediately say something new. I would say, oh, survey. I jump on survey, but I remember we were talking about the white paper, talking about analysis, so it's really hard toâ€¦
+
+180
+00:32:50.760 --> 00:33:00.529
+Jessie Zhang: if I can't attend, at least I will have something going. Hey, here needs everyone's attention, so I can jump on it. So if we can do that,
+
+181
+00:33:00.630 --> 00:33:10.809
+Jessie Zhang: if you have recording, then I actually, I have a large budget of cloud, so I can run through and summarize, but Iâ€¦
+
+182
+00:33:11.110 --> 00:33:23.179
+Jessie Zhang: just need to do something like that, and then we can get people to work on more. I felt like itâ€¦ it's just a few people, especially Sanjeev and Casper and Jordan, you guys are working really hard, andâ€¦
+
+183
+00:33:23.180 --> 00:33:32.990
+Jessie Zhang: We're not utilizing other people, including me, because whenever I'm getting busy, I just totally ignore this. I want to actually have some reminder for me.
+
+184
+00:33:33.590 --> 00:33:35.350
+Jessie Zhang: To, contribute more.
+
+185
+00:33:36.860 --> 00:33:48.460
+Casper Nielsen: I would very much appreciate that part, because it's actually one of the things we have to do. It is one of the things that we should publicize on the,
+
+186
+00:33:49.410 --> 00:34:01.359
+Casper Nielsen: on our Git repository, so we should really have a folder called Meetings or summaries, or something like that, that we take out the summarization from.
+
+187
+00:34:01.450 --> 00:34:10.960
+Casper Nielsen: And you should have the ability, and I'm gonna wing this, so please bear with me while I wing it. Shareâ€¦ let me see hereâ€¦
+
+188
+00:34:11.300 --> 00:34:14.960
+Casper Nielsen: Oh, I have not givenâ€¦ Zoom.
+
+189
+00:34:15.099 --> 00:34:19.939
+Sanjeev Suresh: Yeah, like, some sort of meeting summarized transcript is something we can definitely have.
+
+190
+00:34:19.940 --> 00:34:37.190
+Jessie Zhang: Yeah, also to-do, right? Because if weâ€¦ like, I remember I signed up for something. I don't even remember which one I signed up for. So if we have the to-do that have people's name on it, so we hold people accountable. Because we reallyâ€¦ Iâ€¦ I really need that, on me.
+
+191
+00:34:38.469 --> 00:34:56.499
+Casper Nielsen: I, either I need to restart my Zoom, orâ€¦ so if you go into app.lfx.dev and log in with your Linux Foundation user there, Jessie, you should have access to all of the previous recordings from the working group, andâ€¦
+
+192
+00:34:56.929 --> 00:35:08.979
+Casper Nielsen: Yeah, exactly, and then if you just, remove the whole slash meeting thing. Exactly, there is, the previous meetings, and there is the recordings.
+
+193
+00:35:09.059 --> 00:35:29.009
+Casper Nielsen: as well, and the transcript, so we can just take the transcript and then put it in there, summarize it, and then open a PR to the repo. That would be tremendous help. It's actually one of the things I would have had to pick up and start doing, because the working group is public, fully public now, so we have to start giving these public summaries.
+
+194
+00:35:29.089 --> 00:35:42.839
+Casper Nielsen: As well. And thatâ€¦ out of that, I think my initial reflection out of that was that, well, when we then have these to-dos where people signed up for something, because we're then on GitHub, we can also create the issues with those
+
+195
+00:35:42.969 --> 00:35:52.309
+Casper Nielsen: follow-up to-dos, and then assign the appropriate people with their GitHub handles, so that, you know, so that sort of a flow starts to happen here, and we can follow up and keep each other accountable.
+
+196
+00:35:52.509 --> 00:35:53.169
+Casper Nielsen: Yeah.
+
+197
+00:35:53.870 --> 00:36:06.009
+Jessie Zhang: Because I alsoâ€¦ I do have a scale to automatically create an issue on GitHub. I have tons of different things, right? Then we can just use that once we have the contents. It's justâ€¦
+
+198
+00:36:06.600 --> 00:36:08.259
+Jessie Zhang: Oh, there's no contents.
+
+199
+00:36:08.480 --> 00:36:09.170
+Jessie Zhang: Okay.
+
+200
+00:36:09.170 --> 00:36:15.369
+Casper Nielsen: Yeah, exactly. We need to get that done, yeah. So that would be a big help if you would want to take that on.
+
+201
+00:36:15.700 --> 00:36:19.799
+Jessie Zhang: Okay, great. Thanks, also, Sanjee, great work.
+
+202
+00:36:19.800 --> 00:36:36.039
+Sanjeev Suresh: Yeah, just to add on, and definitely, like, I think now, since the working groups opened up, hopefully we should get more participation, too, and I mean, we need to smooth that out. Like, I'm also, like, one thing I was just wondering in general, also, do we want to have some sort of, like.
+
+203
+00:36:36.630 --> 00:36:43.149
+Sanjeev Suresh: in-person groups in different places, I canâ€¦ given that it's, opened up to get,
+
+204
+00:36:43.150 --> 00:36:46.950
+Casper Nielsen: That is exactly what we should be talking about, because I asked, Monique.
+
+205
+00:36:47.040 --> 00:37:04.179
+Casper Nielsen: about this out of your initial question, if there was a possibility to create and promote and host some in-person meetings, at least where you're residing in the Bay Area, and he said, absolutely. He would try to reach out to some of their participation partners.
+
+206
+00:37:04.760 --> 00:37:20.160
+Casper Nielsen: If maybe your company would like to facilitate the, you know, access to a building, whether a lobby or something like that, then they would happily help promoting and spreading the word and using their channels.
+
+207
+00:37:20.160 --> 00:37:29.450
+Casper Nielsen: to get people in and participate. So, absolutely, we just need to, you know, link everybody together and start the coordination.
+
+208
+00:37:29.470 --> 00:37:30.190
+Casper Nielsen: Mmm.
+
+209
+00:37:30.210 --> 00:37:43.570
+Sanjeev Suresh: And actually, I did get already involved in the, like, Bay Area, like, local organizer community, I mean, separately from this, and I, like, I helped with the MCP party that they threw, like, in the last month.
+
+210
+00:37:43.880 --> 00:38:01.710
+Sanjeev Suresh: So, so, I mean, so I think I can help, I can already, like, I think I have contacts enough to get a space, and I'm connected with Demetrios and the MLOps community, who also became part of the, the Agentic AIF Foundation, with the promotion part.
+
+211
+00:38:01.810 --> 00:38:07.889
+Sanjeev Suresh: But I would still need help with, like, finding relevant speakers for our area.
+
+212
+00:38:09.980 --> 00:38:26.509
+Casper Nielsen: And I think this is some of the things where the Linux Foundation and then AAIF, because of the backing from the Linux Foundation, has some levers to pull on, right? Because they have the means and sort of the know-how and the outreach to do that. So I think it's all about
+
+213
+00:38:26.670 --> 00:38:48.870
+Casper Nielsen: you know, tying those knots together. If we can find, like, a building atâ€¦ and then, you know, sometime out in the future, say, like, okay, we're gonna host this event here, then I am 100% sure, because Monique also affirmed that they would love to help with that, that they will both make sure that there's outreach, and in that outreach.
+
+214
+00:38:48.870 --> 00:38:53.860
+Casper Nielsen: Maybe through the newsletter, ask for people to sign up for speaking, or if they have some at hand.
+
+215
+00:38:53.860 --> 00:39:06.380
+Casper Nielsen: or use the other various channels. So I think it's all about making sure that we connect the dots, but he was completely in on trying to use the different avenues that they have for helping with some of this.
+
+216
+00:39:07.090 --> 00:39:11.110
+Jessie Zhang: Is it just for our group, or for whole, like, all working groups?
+
+217
+00:39:11.340 --> 00:39:15.640
+Casper Nielsen: For all, all working groups, yeah. Okay, yeah. So it's, it's, it's, it's all open, yeah.
+
+218
+00:39:16.540 --> 00:39:17.509
+Jessie Zhang: I know,
+
+219
+00:39:17.510 --> 00:39:26.640
+Sanjeev Suresh: there's also projects beyond working groups, but I think the community, I mean, they're open to even having multiple meetups. Like, I don't think there'sâ€¦
+
+220
+00:39:27.190 --> 00:39:32.649
+Jessie Zhang: I know we have a group, we have a large budget on OAI stuff.
+
+221
+00:39:32.670 --> 00:39:47.739
+Jessie Zhang: Andâ€¦ but it will be great, because we typically have to submit things, right? If we can't see what is the agenda, what is the purpose for the attendees, if we can come up with those, then we'll be easily getting the venue, getting the budget for things.
+
+222
+00:39:48.540 --> 00:39:49.070
+Casper Nielsen: Yeah.
+
+223
+00:39:49.950 --> 00:39:50.350
+Jessie Zhang: Soâ€¦
+
+224
+00:39:50.350 --> 00:39:58.630
+Casper Nielsen: Yeah, makes a ton of sense. So, but the word from Anika is absolutely, they would love to help, so we just gottaâ€¦
+
+225
+00:39:58.970 --> 00:40:03.349
+Casper Nielsen: You know, we just gotta make ends meet, and then,
+
+226
+00:40:04.450 --> 00:40:05.920
+Casper Nielsen: And then I think it's gonna be great.
+
+227
+00:40:06.830 --> 00:40:10.319
+Jessie Zhang: Okay, cool. I'll leave you guys to talk aboutâ€¦ let me know howâ€¦
+
+228
+00:40:10.320 --> 00:40:13.879
+Casper Nielsen: That wasâ€¦ that was just it. That was the talk.
+
+229
+00:40:14.340 --> 00:40:16.089
+Casper Nielsen: And more private than that.
+
+230
+00:40:16.090 --> 00:40:30.330
+Jessie Zhang: Yeah, as soon as I give you way more feedback, I start looking into it, and the next one, I look at the logistics first, then I look at the content, and it's definitely gonnaâ€¦ this has a lot of questions.
+
+231
+00:40:30.520 --> 00:40:39.249
+Jessie Zhang: And they're a professional, and they get paid to answer a lot of questions. If I'm gonna answer this much, I probably kind of, like, say, mmmâ€¦
+
+232
+00:40:39.330 --> 00:40:54.330
+Jessie Zhang: probably not gonna do, right? Just, like, because there are a lot of, like, multi-selection questions, it's hard to read. Soâ€¦ so I'll continue looking atâ€¦ so I missed last one. What else were doing? Have we started a white paper?
+
+233
+00:40:54.510 --> 00:40:56.250
+Jessie Zhang: Oh, what is it?
+
+234
+00:40:56.250 --> 00:40:57.200
+Sanjeev Suresh: No, okay.
+
+235
+00:40:57.200 --> 00:41:05.869
+Casper Nielsen: No, this should be the input into that. It should sort ofâ€¦ at least that's my hope, is to sort of steer the direction, because then we have some data that we can back that up.
+
+236
+00:41:06.110 --> 00:41:19.390
+Jessie Zhang: Yeah, I think Iâ€¦ I believe I signed up to be a Nielsen with the observability. I haven't attendâ€¦ I don't know how to find out their meeting invites or anything like that.
+
+237
+00:41:20.650 --> 00:41:24.309
+Jessie Zhang: I think it's Monday, right? Someone told me earlier Monday morning, maybe.
+
+238
+00:41:24.310 --> 00:41:30.159
+Casper Nielsen: It's Wednesdays. It's Wednesdays. Yeah. Whichâ€¦ are you in Pacific time, Jessie? You are, right?
+
+239
+00:41:30.160 --> 00:41:31.229
+Jessie Zhang: Bay Area, yeah.
+
+240
+00:41:31.380 --> 00:41:36.130
+Casper Nielsen: Yeah. So then, that is gonna be 10 AM your time.
+
+241
+00:41:36.190 --> 00:41:41.630
+Jessie Zhang: Can you send me the information where I can find those information? Is that in GitHub?
+
+242
+00:41:42.250 --> 00:41:51.080
+Casper Nielsen: And no, it's also on LFX, and I think, actually, if you can log into that, I think you should be able to just sign up, straight there.
+
+243
+00:41:51.300 --> 00:41:56.070
+Casper Nielsen: In the groups section, let me look hereâ€¦
+
+244
+00:41:58.860 --> 00:42:01.419
+Jessie Zhang: Somehow I have twoâ€¦ two logins, twoâ€¦
+
+245
+00:42:01.720 --> 00:42:06.910
+Jessie Zhang: Zoom, we have oneâ€¦ I have one login, then the LFX, I have another login.
+
+246
+00:42:06.910 --> 00:42:20.340
+Sanjeev Suresh: Yeah, even LFX, I think I had, like, I have two logins, one, yeah, work, personal, yeah, it wasâ€¦ it was initially confusing. I got that all merged, I submitted some help report and got it all merged.
+
+247
+00:42:20.340 --> 00:42:26.180
+Jessie Zhang: I haven't, so I always have toâ€¦ I'm always confused of which one I'm supposed to log in with.
+
+248
+00:42:26.180 --> 00:42:30.140
+Sanjeev Suresh: Jessie, how do I reach your async if I want to reach you?
+
+249
+00:42:30.140 --> 00:42:33.250
+Jessie Zhang: Slack, slack, okay. Yeah.
+
+250
+00:42:34.100 --> 00:42:37.660
+Jessie Zhang: So that, that'll be easier, andâ€¦
+
+251
+00:42:37.660 --> 00:42:44.660
+Sanjeev Suresh: Yeah, yeah, Slack, yeah, Slack works for me. Again, depending on different communities around Slack versus, yeah, Discord, yeah.
+
+252
+00:42:45.260 --> 00:42:55.620
+Jessie Zhang: Since we're all in Bay Area, we can talk about that, right? So, let's see how we can get people more, contribute. Because I'm also, internally, I'm also pushing this.
+
+253
+00:42:55.620 --> 00:42:56.540
+Sanjeev Suresh: Bumps.
+
+254
+00:42:56.540 --> 00:42:57.779
+Jessie Zhang: I'm fine to useâ€¦
+
+255
+00:42:57.780 --> 00:42:59.990
+Sanjeev Suresh: Where are you in the Bay Area? Just curious.
+
+256
+00:42:59.990 --> 00:43:03.839
+Jessie Zhang: We have an office in, one market, San Francisco.
+
+257
+00:43:03.840 --> 00:43:12.289
+Sanjeev Suresh: Oh, okay. So, so, earlier, I mean, end of last month, so, there was a event that, the first, sort of, AAIF meetupâ€¦
+
+258
+00:43:12.630 --> 00:43:14.929
+Sanjeev Suresh: was organized in NSF.
+
+259
+00:43:15.310 --> 00:43:16.949
+Sanjeev Suresh: Yeah, so definitely.
+
+260
+00:43:16.950 --> 00:43:22.509
+Jessie Zhang: I didn't even know, so this isâ€¦ I think I'm in an information bubble, I'm only inâ€¦ yeah.
+
+261
+00:43:22.510 --> 00:43:29.920
+Sanjeev Suresh: Yeah, so that was even, like, not limitedâ€¦ so that wasâ€¦ there was no focus of the working groups at all, it was specifically just on the MCP project.
+
+262
+00:43:31.400 --> 00:43:48.820
+Sanjeev Suresh: Yeah, but at that time, I think the working groups were still private. And, like, for me, I wasn't also sure, like, is it okay to have meetups about working groups? And, like, what is, like, if someone comes to that meetup, can they participate? It's good that everything is public now.
+
+263
+00:43:48.820 --> 00:44:08.759
+Jessie Zhang: So I'm kind of use Linux Foundation stuff to push internal, and internally, I'm trying to create a capability domain specifically just for the qualities, reliability, all of that. And so I'm gonna say, hey, we're gonna define a Linux Foundation. I'm also saying, hey, we can influence, right? Soâ€¦
+
+264
+00:44:09.040 --> 00:44:12.089
+Jessie Zhang: So, I want to make that official, that's why I'm kind ofâ€¦
+
+265
+00:44:12.450 --> 00:44:14.440
+Jessie Zhang: Doing a lot of different things.
+
+266
+00:44:14.560 --> 00:44:19.870
+Jessie Zhang: I think probably every company is, struggling. That's why,
+
+267
+00:44:21.470 --> 00:44:33.079
+Jessie Zhang: Nicolas was asking, is there any group? We're trying to create a specific group to be responsible for it. That's why I'm creating all those, kind of, proposing the stewards, everything for it.
+
+268
+00:44:33.210 --> 00:44:39.980
+Jessie Zhang: If we can get the Linux Foundation to have more influence, I think it will be moving a lot faster inâ€¦
+
+269
+00:44:40.090 --> 00:44:41.319
+Jessie Zhang: Different companies.
+
+270
+00:44:41.410 --> 00:44:42.100
+Sanjeev Suresh: Yep.
+
+271
+00:44:42.520 --> 00:44:43.280
+Sanjeev Suresh: Our nation.
+
+272
+00:44:43.840 --> 00:44:45.590
+Jessie Zhang: Okay, I got it, okay, there it.
+
+273
+00:44:46.010 --> 00:44:47.140
+Jessie Zhang: URL.
+
+274
+00:44:47.140 --> 00:44:59.710
+Casper Nielsen: But I see, Jessie, that it stillâ€¦ it still shows his membership is by invite only, which contradicts what I at least had as my expectation. So let me follow up on that, and I'll askâ€¦
+
+275
+00:44:59.860 --> 00:45:04.580
+Casper Nielsen: What that's about, because that might just be because the platform is not updated to it yet.
+
+276
+00:45:04.850 --> 00:45:18.620
+Casper Nielsen: And if that's the case, then Christy, you can always add Christy, or write to Christy, or the AIF support, and then they'll get you invited there. But I'll anyways ask about this, because this is in contrast with at least my understanding, so I'll follow up on this.
+
+277
+00:45:18.980 --> 00:45:20.610
+Jessie Zhang: Okay, great. Thank you.
+
+278
+00:45:21.290 --> 00:45:21.960
+Jessie Zhang: Great.
+
+279
+00:45:21.960 --> 00:45:37.770
+Casper Nielsen: Yeah, you're welcome. I, I will jump, both of you, thank you both, and Sanjeev, let's async figure out, how to get something set up, and I'll, you know, we can link with, Monique and, and get it sorted.
+
+280
+00:45:38.090 --> 00:45:40.089
+Casper Nielsen: Have a continued great day, both of you. See you!
+
+281
+00:45:40.550 --> 00:45:41.599
+Jessie Zhang: Thanks, bye.
+
+282
+00:45:41.600 --> 00:45:42.370
+Casper Nielsen: Bye-bye.
+
