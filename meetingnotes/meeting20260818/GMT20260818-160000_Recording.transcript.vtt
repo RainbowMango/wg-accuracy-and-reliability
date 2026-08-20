@@ -1,0 +1,1386 @@
+WEBVTT
+
+1
+00:01:49.130 --> 00:01:50.840
+Casper Nielsen: Hi, Sanjeev.
+
+2
+00:01:50.960 --> 00:01:52.500
+Sanjeev Suresh: Hey, hey, Casper.
+
+3
+00:01:53.110 --> 00:01:55.119
+Casper Nielsen: How are you doing?
+
+4
+00:01:55.120 --> 00:02:02.390
+Sanjeev Suresh: I'm doing good. Yeah, I saw your message that you might be on the move, I'm happy to share during the first part.
+
+5
+00:02:03.110 --> 00:02:18.890
+Casper Nielsen: Thank you so much. I actually made it all the way back to my place, but the reason I was on the move is because my kids… so this is the afternoon in Europe where I'm at at the moment, and it's slammed straight into swim and track.
+
+6
+00:02:18.890 --> 00:02:19.350
+Sanjeev Suresh: And…
+
+7
+00:02:19.350 --> 00:02:36.639
+Casper Nielsen: and, making food, and I have three meetings on top of each other around this time. So, like, I'm literally in a meeting while driving one kid to swim, and then in another meeting while driving the other kid to track, then I go back for the one kid to swim, and then back to pick up track, and then I have to rush back and make food while we have this meeting, so it's…
+
+8
+00:02:36.640 --> 00:02:39.880
+Casper Nielsen: Like, these Tuesdays are… they're quite a thing.
+
+9
+00:02:40.760 --> 00:02:41.410
+Casper Nielsen: So…
+
+10
+00:02:42.540 --> 00:02:45.349
+Sanjeev Suresh: Yeah, that sounds like a lot, yeah.
+
+11
+00:02:49.530 --> 00:02:51.009
+Casper Nielsen: But we can give…
+
+12
+00:02:52.530 --> 00:03:09.109
+Casper Nielsen: pull a few minutes to call in. I did prepare a little bit of an agenda, and I do think we have some, content to fill out at a good meeting. I also don't know if you saw that I wanted to go over, and the status on the survey PR is not actually for you to give a status, it's more for everybody else, was my thinking.
+
+13
+00:03:09.210 --> 00:03:25.480
+Casper Nielsen: So that people can have an opportunity to raise their voice. But at, like, at some point, we also gotta say, okay, now, you know, it's been out and about, everybody has had an opportunity to review and to comment on it, you know, now it's probably a good time to start considering merging it in, so we can continue with the work.
+
+14
+00:03:25.770 --> 00:03:30.659
+Casper Nielsen: So that was the intent with that bullet, actually, is to sort of try to force that a little bit.
+
+15
+00:03:31.650 --> 00:03:33.420
+Sanjeev Suresh: Yeah, yeah, I think that makes sense, yeah.
+
+16
+00:03:37.930 --> 00:03:40.269
+Robert Bischof: Hello, sorry for being late.
+
+17
+00:03:41.080 --> 00:03:43.719
+Casper Nielsen: No worries, Robert. You are not that late.
+
+18
+00:03:43.720 --> 00:03:45.070
+Sanjeev Suresh: Yeah.
+
+19
+00:03:45.680 --> 00:03:48.999
+Casper Nielsen: We are only 5, including an assistant, so…
+
+20
+00:03:49.790 --> 00:03:56.450
+Robert Bischof: So I experienced some performance problems with the LFX platform, so it's loading very long, but yeah.
+
+21
+00:03:57.560 --> 00:04:07.060
+Casper Nielsen: I've also had some weirdness. I actually have to record a video for Kyrian, because I can't book meetings now again, and…
+
+22
+00:04:07.320 --> 00:04:17.060
+Casper Nielsen: I also, for some reason, my, you know, open on Zoom doesn't want to open Zoom desktop, which has worked perfectly fine up until, like, yesterday.
+
+23
+00:04:17.240 --> 00:04:20.749
+Casper Nielsen: But I just don't want to do it, so I don't know what's up with that.
+
+24
+00:04:21.120 --> 00:04:27.810
+Casper Nielsen: So I gotta have a debugging session with myself and Kyrian to figure out, like, what the hell is going on.
+
+25
+00:04:33.710 --> 00:04:45.909
+Casper Nielsen: We can give people until the 5 minute, and then let's just get going and start the conversation. Whoever joined will be here, and whoever did not join will be able to take the recording and the transcript afterwards.
+
+26
+00:04:49.980 --> 00:05:06.229
+Robert Bischof: Okay, then, let's take the chance just to be transparent. I'm on vacation the next 3 weeks, starting on Friday, just that you know, but until Friday, I will definitely do another review of the taxonomy document.
+
+27
+00:05:07.410 --> 00:05:24.840
+Casper Nielsen: That is good content, Robert. Could you, could you add it up? So, Jordan and I also posted ours, it's, like, in the top of the document right now, where Sanjeevy is sharing, there's the summer PTO, if we could just, you know, rename that to PTO, and then add it in there, because then, you know, we also know that you're out if there's something.
+
+28
+00:05:25.460 --> 00:05:26.399
+Robert Bischof: Yeah, I will do so.
+
+29
+00:05:28.150 --> 00:05:33.309
+Sanjeev Suresh: Yeah, yeah, maybe just add your dates here. I just said next 3 weeks starting…
+
+30
+00:05:38.750 --> 00:05:40.299
+Sanjeev Suresh: I guess the 21st.
+
+31
+00:05:52.790 --> 00:06:02.949
+Casper Nielsen: Then, in the meantime, so my intent was for us to start discussing the Phase 2 deliverables, and the hope was
+
+32
+00:06:03.180 --> 00:06:18.349
+Casper Nielsen: that we could start having a conversation about whether there were some folks that would be interested in taking a lead on some of these activities, so that we can get it going. A little bit like, like you've done a great deal of work on
+
+33
+00:06:18.920 --> 00:06:26.049
+Casper Nielsen: on, on the CAP analysis, Sanjeev, that's been very much appreciated, and awesome work. But, there is the next two.
+
+34
+00:06:26.360 --> 00:06:30.619
+Casper Nielsen: that we gotta start at the D3, the Reliability by Design Best Practices Guide.
+
+35
+00:06:30.790 --> 00:06:47.039
+Casper Nielsen: Which will inevitably take in input from this gap analysis, and then there is the beginning considerations about the Agent Output Quality Standard, which is most likely some sort of collaboration with the observability and Traceability Working Group.
+
+36
+00:06:47.460 --> 00:06:50.600
+Casper Nielsen: to… to… to align with them. Go ahead, Matthew.
+
+37
+00:06:51.870 --> 00:06:57.389
+Matthew Khouzam |LFX platform is interesting: Yes, so I'm leading the, Security and Trust Best Practices Guide.
+
+38
+00:06:57.970 --> 00:07:06.249
+Matthew Khouzam |LFX platform is interesting: And I'm just wondering, is there, like, an endgame where we put all the best practices together? Should we be talking already? Should we all be in the same room?
+
+39
+00:07:07.140 --> 00:07:20.070
+Casper Nielsen: I think that's a wonderful question. I will raise that up in the next chair meeting. I do think we should be careful having too many cooks or too many chefs in the same room about these things.
+
+40
+00:07:20.070 --> 00:07:28.789
+Casper Nielsen: early on, but I do very much think that at some point we need to sort of start to converge so that the communication is of same format.
+
+41
+00:07:28.800 --> 00:07:33.629
+Casper Nielsen: It may be as benign as just using the same structure in the document, for example.
+
+42
+00:07:33.900 --> 00:07:51.880
+Casper Nielsen: And I agree with you, having a bunch of silos makes absolutely no sense. But my concern would be that we slow down traction, because there's too many folks involved in that. But good point. I will ask the question on the next co-chair and Chair Sync.
+
+43
+00:07:55.010 --> 00:07:57.369
+Casper Nielsen: So I'll, you know…
+
+44
+00:07:57.730 --> 00:08:13.920
+Casper Nielsen: Throw out the word again, anybody that wants to take a stab at looking at either D3 or D4, please feel free to raise your hand. You will not be on the hook for it. If you realize in two weeks that, you know, this is too much, I can't do it, then you can always tap out.
+
+45
+00:08:14.170 --> 00:08:26.420
+Casper Nielsen: But if there is anybody that wants, please feel free to raise your hand, or to write on Discord, or on Slack, or on the thread. You can absolutely be an observer of D3, I'll add that in.
+
+46
+00:08:26.550 --> 00:08:27.879
+Casper Nielsen: Yeah, thank you, Matthew.
+
+47
+00:08:28.530 --> 00:08:32.429
+Casper Nielsen: There is both participants and leads in it, so, absolutely.
+
+48
+00:08:35.360 --> 00:08:35.900
+Sanjeev Suresh: Yeah.
+
+49
+00:08:35.909 --> 00:08:36.439
+Casper Nielsen: Oh, ocean.
+
+50
+00:08:36.440 --> 00:08:44.970
+Sanjeev Suresh: like, I mean, like to con- contribute to D3, just, I'm not sure whether, I can lead it at… right now.
+
+51
+00:08:45.080 --> 00:08:46.680
+Sanjeev Suresh: While the other is going on.
+
+52
+00:08:50.800 --> 00:08:55.609
+Casper Nielsen: Yes, that, that would be, that would be nice, Sanjeev. Thank you so much.
+
+53
+00:09:00.440 --> 00:09:13.929
+Casper Nielsen: I'll also send out both questions in Slack… I'm sorry, in Discord, and on the mailing thread, just to highlight that, you know, hey, we want to have some folks help and participate.
+
+54
+00:09:14.410 --> 00:09:16.020
+Casper Nielsen: Then, I mean…
+
+55
+00:09:16.020 --> 00:09:20.649
+Sanjeev Suresh: Also, be good to have more, like, participants just come in, right? And more leads, and yeah.
+
+56
+00:09:24.150 --> 00:09:25.769
+Casper Nielsen: Yes, exactly, exactly.
+
+57
+00:09:28.300 --> 00:09:44.760
+Casper Nielsen: Then, without further ado, we can take a status round on the survey PR. First of all, you can't say it enough, it's awesome work, Sanjeev, so thank you so much for spearing up this. It's been a pleasure to read, and…
+
+58
+00:09:45.700 --> 00:09:48.790
+Casper Nielsen: And, and, collaborate on.
+
+59
+00:09:48.950 --> 00:09:50.010
+Casper Nielsen: And…
+
+60
+00:09:50.690 --> 00:09:55.810
+Casper Nielsen: We are at a point where it's been out for some time. We also discussed it two weeks ago in the last meeting.
+
+61
+00:09:55.930 --> 00:09:59.850
+Casper Nielsen: And I think we… we need to get to a point where
+
+62
+00:10:00.490 --> 00:10:16.429
+Casper Nielsen: Where we can start to roll it in. If there's any comments or reflections, how do we feel about saying, like, you know, end of week, and after end of week, we'll take the inputs, merge them in.
+
+63
+00:10:16.440 --> 00:10:28.810
+Casper Nielsen: And then we'll get it rolling and merged it in, merged the PRN, so we can continue the work, so we can get the survey out and actually start to get some of the responses that we so deeply need for the continued work.
+
+64
+00:10:29.070 --> 00:10:42.189
+Casper Nielsen: I want to hear folks' reflections on this. I want to give people time to, of course, participate and give feedback, but also be mindful that we can't have it lingering for, you know, weeks on end.
+
+65
+00:10:44.220 --> 00:10:50.530
+Sanjeev Suresh: I was hoping Jessie would join this call today to, shh,
+
+66
+00:10:50.620 --> 00:10:53.779
+Jessie Zhang: I'm here, I'm here, I'm just hiding.
+
+67
+00:10:53.780 --> 00:10:55.509
+Sanjeev Suresh: Yeah, guys, this is… yeah, so…
+
+68
+00:10:56.050 --> 00:11:02.700
+Jessie Zhang: Yeah, I'm actually adding more comments on the survey, on the PR right now.
+
+69
+00:11:03.280 --> 00:11:04.539
+Sanjeev Suresh: Awesome, yeah, yeah.
+
+70
+00:11:05.980 --> 00:11:23.479
+Sanjeev Suresh: Yeah, yeah, I just wanted to make sure, like, I mean, yeah, like, because I saw that you, I mean, you left comments on the other, I went through that, but I, yeah, I wanted you to look at this. Like, I'm also happy to, like, I mean, just jump on a smaller call, I mean, later in the week or something, if you want to, like, draft some questions together or whatnot, Jessie.
+
+71
+00:11:23.650 --> 00:11:27.940
+Jessie Zhang: Yeah, it would be great if you can just set up something because…
+
+72
+00:11:28.250 --> 00:11:36.939
+Jessie Zhang: when the day's going really busy, then I forgot to check the Discord or something, right? But if it's on the…
+
+73
+00:11:37.170 --> 00:11:40.779
+Jessie Zhang: calendar, and I'll, for sure, be there.
+
+74
+00:11:41.630 --> 00:11:42.250
+Jessie Zhang: Sorry about that.
+
+75
+00:11:42.250 --> 00:11:45.620
+Sanjeev Suresh: Like, I did send you a message in Slack, I'm not sure whether you got it.
+
+76
+00:11:45.910 --> 00:11:47.940
+Jessie Zhang: Yeah, I got an 8.
+
+77
+00:11:47.940 --> 00:11:48.340
+Sanjeev Suresh: Okay.
+
+78
+00:11:48.340 --> 00:11:54.400
+Jessie Zhang: Because I don't check every day, yeah, there's gonna be a… Little bit better way.
+
+79
+00:11:54.830 --> 00:12:03.499
+Jessie Zhang: I check my work Slack all day long, but just… miss the, Discord.
+
+80
+00:12:03.910 --> 00:12:09.189
+Jessie Zhang: And me start, AIF's, Slack. Yeah, I gotta figure out a better way.
+
+81
+00:12:10.700 --> 00:12:20.500
+Sanjeev Suresh: So if you want to meet… I mean, do we want to just say some sort of tentative time, to, like, if you wanna, like, say, I don't know, like, I'm just making up a time to say, like, Friday, like,
+
+82
+00:12:20.500 --> 00:12:22.760
+Jessie Zhang: Yeah, my Thursday's actually…
+
+83
+00:12:23.550 --> 00:12:32.670
+Jessie Zhang: Believe it or not, Thursday is better than Friday. Friday is supposed to be all working, right? Focused time, but it's all meeting. Yeah, Thursday would be good.
+
+84
+00:12:32.670 --> 00:12:35.199
+Sanjeev Suresh: Can you do Thursday 8AM PST?
+
+85
+00:12:35.700 --> 00:12:37.629
+Jessie Zhang: Hmm, give me a sec.
+
+86
+00:12:39.240 --> 00:12:40.710
+Sanjeev Suresh: I think I have something at 9.
+
+87
+00:12:41.550 --> 00:12:42.470
+Jessie Zhang: Let me check.
+
+88
+00:12:48.480 --> 00:12:51.800
+Jessie Zhang: I have Ace 30…
+
+89
+00:12:54.860 --> 00:12:57.960
+Jessie Zhang: What about 11? 11, I'm totally open.
+
+90
+00:12:58.210 --> 00:13:02.949
+Sanjeev Suresh: 11… I mean, 11… I mean, during the workday might be hard for me, I would say.
+
+91
+00:13:03.960 --> 00:13:06.480
+Sanjeev Suresh: 8.30…
+
+92
+00:13:06.980 --> 00:13:10.370
+Jessie Zhang: I have a meeting from 8.30 to 11.
+
+93
+00:13:10.690 --> 00:13:12.629
+Sanjeev Suresh: Oh, you have a meeting from 8.30 to 11.
+
+94
+00:13:12.760 --> 00:13:13.160
+Jessie Zhang: Yeah.
+
+95
+00:13:13.510 --> 00:13:17.289
+Sanjeev Suresh: I mean, like, I can do earlier, I don't have any concerns with that.
+
+96
+00:13:17.420 --> 00:13:19.159
+Sanjeev Suresh: I don't know if it's due early for…
+
+97
+00:13:19.160 --> 00:13:24.629
+Jessie Zhang: How about we, right after this, we just talk about the time? We'll keep other people.
+
+98
+00:13:24.630 --> 00:13:25.310
+Sanjeev Suresh: Okay, awesome.
+
+99
+00:13:29.050 --> 00:13:44.500
+Casper Nielsen: Both of you, and then, are you comfortable with us saying something like end of week? We can also say end of next week, if you want a little bit more time. I also want to give it a run, again, through the week. So, what would you feel best about here, Sanjeev?
+
+100
+00:13:46.580 --> 00:13:50.960
+Sanjeev Suresh: I mean, so even, I mean, even next week, maybe, like, I mean,
+
+101
+00:13:51.120 --> 00:13:56.409
+Sanjeev Suresh: like, I'm happy to meet around, like, I mean, morning-ish times, PST works for me, like…
+
+102
+00:13:56.740 --> 00:14:00.920
+Sanjeev Suresh: say, Tuesday, I mean, same time as 9…
+
+103
+00:14:01.550 --> 00:14:04.099
+Sanjeev Suresh: As this meeting right now.
+
+104
+00:14:04.890 --> 00:14:05.620
+Casper Nielsen: Yep.
+
+105
+00:14:05.620 --> 00:14:06.400
+Sanjeev Suresh: If that's something…
+
+106
+00:14:06.400 --> 00:14:14.800
+Casper Nielsen: that works as well. Then that gives folks a week's time and some to… to… to… to wrap up their reviews and comments and inputs.
+
+107
+00:14:15.060 --> 00:14:15.829
+Casper Nielsen: Yeah, yeah.
+
+108
+00:14:16.250 --> 00:14:28.380
+Sanjeev Suresh: Yeah, I mean, but I wanted to also just meet with J… I mean, like, at least Jessie separately, because I think, I mean, she has, I mean, really great input, and which might actually influence the, like, actual authoring of some of the questions, too.
+
+109
+00:14:28.700 --> 00:14:44.050
+Casper Nielsen: Absolutely, absolutely. And I think you two were looking at the end of this week, right? Whether Thursday or something like that, and then we can have sort of a standing, open conversation mid-next week, and then wrap it up there. I think that sounds good for me, at least.
+
+110
+00:14:44.500 --> 00:14:45.160
+Sanjeev Suresh: Awesome.
+
+111
+00:14:46.520 --> 00:14:55.939
+Casper Nielsen: Cool. Then I want to do a reminder that, even though I am on the hook for it, the taxonomy and landscape
+
+112
+00:14:56.130 --> 00:15:01.590
+Casper Nielsen: Workstream is open for everybody to contribute to, so if you have
+
+113
+00:15:01.740 --> 00:15:14.789
+Casper Nielsen: anything of input into naming, especially around the taxonomy, please feel free to go in and take a stab at it, and give your input. It's much appreciated all around.
+
+114
+00:15:14.980 --> 00:15:16.170
+Casper Nielsen: Go ahead, Matthew.
+
+115
+00:15:17.220 --> 00:15:23.509
+Matthew Khouzam |LFX platform is interesting: So I just wanted to give you a heads up that this week, yesterday, we, went through Accuracy and Reliability.
+
+116
+00:15:23.750 --> 00:15:27.020
+Matthew Khouzam |LFX platform is interesting: And it was a, killing floor?
+
+117
+00:15:27.420 --> 00:15:30.160
+Matthew Khouzam |LFX platform is interesting: I think there are 4 definitions that went through.
+
+118
+00:15:31.650 --> 00:15:34.840
+Matthew Khouzam |LFX platform is interesting: So, basically…
+
+119
+00:15:34.840 --> 00:15:36.119
+Casper Nielsen: More work to be done.
+
+120
+00:15:37.060 --> 00:15:38.400
+Matthew Khouzam |LFX platform is interesting: But this is version 1.
+
+121
+00:15:39.860 --> 00:15:43.949
+Matthew Khouzam |LFX platform is interesting: So, I wouldn't worry too much about it. It's just to give you an idea of where we're at.
+
+122
+00:15:44.070 --> 00:15:48.829
+Matthew Khouzam |LFX platform is interesting: Every group is trying to get, like, 10 definitions in max for the first round.
+
+123
+00:15:50.110 --> 00:15:51.969
+Matthew Khouzam |LFX platform is interesting: But this makes our work a lot easier.
+
+124
+00:15:55.280 --> 00:16:14.310
+Casper Nielsen: That's good input, that's good input. But also further, sort of, gives weight to the ask. Everybody helps chip in a little bit when you have a minute, to see if you can add some quality context and quality content into the terminology that we're trying to align. Absolutely.
+
+125
+00:16:14.960 --> 00:16:25.500
+Matthew Khouzam |LFX platform is interesting: So, I, I am kind of representing, the, Accuracy and Reliability Working Group, within, taxonomy at this moment, and it's…
+
+126
+00:16:25.980 --> 00:16:30.840
+Matthew Khouzam |LFX platform is interesting: So my objective is, again, to make sure that the wheel is not reinvented three places.
+
+127
+00:16:31.710 --> 00:16:39.540
+Matthew Khouzam |LFX platform is interesting: But, since there are no other reps from Accuracy and Reliability, Help is always welcome.
+
+128
+00:16:40.000 --> 00:16:44.220
+Jessie Zhang: Matthew, because I was looking at…
+
+129
+00:16:44.450 --> 00:16:51.379
+Jessie Zhang: I had some of the buckets and categories of all those things.
+
+130
+00:16:51.680 --> 00:17:07.629
+Jessie Zhang: In the past, we just revised a little bit, so we're kind of a little bit on the disconnect now, so my internal ones and what we have. I'm gonna go back to the terminology there, the section, I probably add more comments.
+
+131
+00:17:08.230 --> 00:17:11.310
+Matthew Khouzam |LFX platform is interesting: Have you seen the Excel sheet? That's what we're using right now for work.
+
+132
+00:17:11.310 --> 00:17:19.029
+Jessie Zhang: Oh, I haven't seen the Excel. Can you send the link? I'm still looking at the document. Okay, that would be…
+
+133
+00:17:19.030 --> 00:17:23.489
+Matthew Khouzam |LFX platform is interesting: Boy, yeah. So the first thing I did was take the document and convert it to Excel.
+
+134
+00:17:23.730 --> 00:17:25.889
+Matthew Khouzam |LFX platform is interesting: And then everyone said, Matthew, what the heck?
+
+135
+00:17:26.700 --> 00:17:30.079
+Matthew Khouzam |LFX platform is interesting: Because I brought in 150 definitions when there's 10 max.
+
+136
+00:17:31.200 --> 00:17:42.150
+Jessie Zhang: Okay. In big bucket, we're kind of changing a little bit. Yeah, I used to have, like, 7 or 8. Right now we're com…
+
+137
+00:17:42.320 --> 00:17:43.939
+Jessie Zhang: Converge to 4.
+
+138
+00:17:44.550 --> 00:17:53.490
+Jessie Zhang: And that's a big bucket, but underneath, then we have a whole lot more definitions there, so yeah, I want to see whether we can converge.
+
+139
+00:17:55.000 --> 00:17:56.800
+Matthew Khouzam |LFX platform is interesting: Okay, perfect.
+
+140
+00:17:57.090 --> 00:17:59.860
+Matthew Khouzam |LFX platform is interesting: Now, if… are you able to access Discord?
+
+141
+00:18:00.980 --> 00:18:01.590
+Jessie Zhang: Yes.
+
+142
+00:18:02.760 --> 00:18:08.189
+Matthew Khouzam |LFX platform is interesting: Okay, because there's the WS taxonomy landscape, and The link is there.
+
+143
+00:18:08.780 --> 00:18:12.309
+Matthew Khouzam |LFX platform is interesting: I can also give you a link, but I wanted to just say that so that
+
+144
+00:18:12.640 --> 00:18:15.040
+Matthew Khouzam |LFX platform is interesting: You can actually, so that everyone can see it.
+
+145
+00:18:15.550 --> 00:18:16.900
+Jessie Zhang: I can't see it.
+
+146
+00:18:17.160 --> 00:18:19.690
+Jessie Zhang: You said that you sent it yesterday, right?
+
+147
+00:18:20.880 --> 00:18:21.969
+Jessie Zhang: I covered…
+
+148
+00:18:21.970 --> 00:18:24.460
+Matthew Khouzam |LFX platform is interesting: Chris a lot. I don't know if I sent it yesterday.
+
+149
+00:18:24.460 --> 00:18:27.589
+Jessie Zhang: Yeah, I'll find it. Yeah, I can see that channel, so…
+
+150
+00:18:27.590 --> 00:18:33.399
+Matthew Khouzam |LFX platform is interesting: So that is, so what Casper just shared was the,
+
+151
+00:18:33.680 --> 00:18:37.369
+Matthew Khouzam |LFX platform is interesting: the GitHub page, but before getting to GitHub, because we wanted to just
+
+152
+00:18:37.700 --> 00:18:40.209
+Matthew Khouzam |LFX platform is interesting: Go through the data before making PRs?
+
+153
+00:18:41.030 --> 00:18:46.020
+Matthew Khouzam |LFX platform is interesting: We used, we used, google Excel, Google Sheets.
+
+154
+00:18:48.070 --> 00:18:50.099
+Jessie Zhang: Yeah, I'll find it.
+
+155
+00:19:05.680 --> 00:19:06.730
+Matthew Khouzam |LFX platform is interesting: Sanjeev?
+
+156
+00:19:07.000 --> 00:19:11.250
+Matthew Khouzam |LFX platform is interesting: I just found, your survey really good.
+
+157
+00:19:11.770 --> 00:19:14.710
+Matthew Khouzam |LFX platform is interesting: I'm gonna give lots of comments, please.
+
+158
+00:19:15.300 --> 00:19:19.139
+Matthew Khouzam |LFX platform is interesting: Understand that they… they're not prescriptive. You can just say no.
+
+159
+00:19:19.690 --> 00:19:21.969
+Sanjeev Suresh: Oh, yeah, makes sense. Thank you, Nadia.
+
+160
+00:19:29.570 --> 00:19:31.340
+Casper Nielsen: Alright, then…
+
+161
+00:19:31.340 --> 00:19:34.220
+Jessie Zhang: A neural net… a neural net is what a lot of people…
+
+162
+00:19:35.590 --> 00:19:41.470
+Casper Nielsen: If, if you're ready to continue on with, the… any other business.
+
+163
+00:19:41.700 --> 00:19:46.639
+Casper Nielsen: I, I have one comment I wanted to raise,
+
+164
+00:19:47.050 --> 00:19:59.130
+Casper Nielsen: it was, the conversation that Sanjeev and Jessie and I had continued on at the last week's meeting, or, the meeting two weeks ago. We had a conversation about making sure that the
+
+165
+00:19:59.260 --> 00:20:06.329
+Casper Nielsen: notes from the meeting was transcribed into GitHub, and then be posted there.
+
+166
+00:20:06.500 --> 00:20:25.199
+Casper Nielsen: So that will get into the making, so that we will start posting the meeting minutes into GitHub. It will get in the making. Just wanted to raise it that it's something that isn't really tracked there, but it's something that's sort of happening on the sideline of that.
+
+167
+00:20:25.430 --> 00:20:31.590
+Casper Nielsen: So that was all from… from me. I can share very quickly that,
+
+168
+00:20:31.900 --> 00:20:44.909
+Casper Nielsen: all across the board in all of the working groups, it seems like the traction is picking up. I hope you also feel it in this working group, that work is starting to happen, we're starting to see stuff come out, and
+
+169
+00:20:44.910 --> 00:21:02.059
+Casper Nielsen: And as soon as these first deliverables start to land, hopefully we'll see even more traction. But this seems to be a common thing across the working groups. It took a little bit of time to get rolling, but everybody seems to actually start to feel the… sort of the machine behind them get the…
+
+170
+00:21:02.130 --> 00:21:07.460
+Casper Nielsen: get working. So that's, really nice traction, all across the board.
+
+171
+00:21:07.640 --> 00:21:13.399
+Casper Nielsen: Other than that, I don't have much more to share, so I'll leave the floor open if there's anybody else that wants to contribute to
+
+172
+00:21:13.540 --> 00:21:14.760
+Casper Nielsen: This bullet here.
+
+173
+00:21:28.220 --> 00:21:33.670
+Casper Nielsen: And if not, we can wrap up the meeting with only 20 minutes spent this time.
+
+174
+00:21:34.540 --> 00:21:37.479
+Casper Nielsen: So, going one, going twice…
+
+175
+00:21:37.480 --> 00:21:43.200
+Jessie Zhang: Can we use this, Casper, can Sanjeev, and Matthew, we use this?
+
+176
+00:21:43.660 --> 00:21:51.480
+Casper Nielsen: Absolutely, you can. The only thing I wanted to raise, is that be mindful that the recording continues, so that will be in the transcript afterwards.
+
+177
+00:21:51.700 --> 00:21:54.200
+Jessie Zhang: Oh, that's fine. We're just gonna talk about…
+
+178
+00:21:54.200 --> 00:22:09.249
+Casper Nielsen: Yeah, yeah, I would expect so. I just wanted to make sure that I raised it, just so you were fully aware of that. But you can absolutely stay in this call, it makes a ton of sense. Then the transcript is also available for everybody else afterwards, if need be.
+
+179
+00:22:09.430 --> 00:22:10.240
+Jessie Zhang: Sounds good.
+
+180
+00:22:10.900 --> 00:22:16.050
+Casper Nielsen: Thank you, everyone, for your participation today, and I will see you on the next one.
+
+181
+00:22:16.260 --> 00:22:21.350
+Jessie Zhang: Thanks. Thank you. Matthew, I could not find the Excel in the.
+
+182
+00:22:21.350 --> 00:22:22.040
+Matthew Khouzam |LFX platform is interesting: Yeah, I'm…
+
+183
+00:22:22.040 --> 00:22:23.470
+Jessie Zhang: Some are in that scape.
+
+184
+00:22:24.150 --> 00:22:31.159
+Matthew Khouzam |LFX platform is interesting: Now that, now that we know this is being recorded, I want us all to highlight how intelligent and good-looking Casper is.
+
+185
+00:22:31.850 --> 00:22:34.960
+Matthew Khouzam |LFX platform is interesting: Now that's recorded, there we go.
+
+186
+00:22:37.780 --> 00:22:39.940
+Matthew Khouzam |LFX platform is interesting: Okay, I'm looking for it,
+
+187
+00:22:39.940 --> 00:22:40.470
+Jessie Zhang: Okay.
+
+188
+00:22:40.470 --> 00:22:42.030
+Matthew Khouzam |LFX platform is interesting: Please give me a couple minutes.
+
+189
+00:22:42.970 --> 00:22:47.710
+Matthew Khouzam |LFX platform is interesting: I know it's rather silly, but I'm… I have, Firefox?
+
+190
+00:22:47.890 --> 00:22:52.429
+Matthew Khouzam |LFX platform is interesting: Chrome and Edge open, and I'm trying to figure out which one had it in its tabs.
+
+191
+00:22:54.960 --> 00:23:03.200
+Jessie Zhang: Yeah, now I keep one, like, window, have all the disco and all the bigger F stuff.
+
+192
+00:23:03.370 --> 00:23:07.989
+Nicolas Bonnet: I have the Excel list here. I think that's the right link. I'm putting it in the chat.
+
+193
+00:23:08.320 --> 00:23:08.660
+Jessie Zhang: Okay.
+
+194
+00:23:08.660 --> 00:23:12.129
+Nicolas Bonnet: Matthew, please tell us if this is the right one, but I believe so.
+
+195
+00:23:12.800 --> 00:23:13.130
+Matthew Khouzam |LFX platform is interesting: Well…
+
+196
+00:23:13.130 --> 00:23:14.310
+Nicolas Bonnet: It's 10…
+
+197
+00:23:17.360 --> 00:23:19.189
+Matthew Khouzam |LFX platform is interesting: Is this the same one?
+
+198
+00:23:19.470 --> 00:23:21.260
+Matthew Khouzam |LFX platform is interesting: It looks like the same one.
+
+199
+00:23:21.490 --> 00:23:21.900
+Jessie Zhang: Okay.
+
+200
+00:23:21.900 --> 00:23:23.420
+Matthew Khouzam |LFX platform is interesting: Yes, that's the perfect one.
+
+201
+00:23:23.420 --> 00:23:26.969
+Sanjeev Suresh: And can I put a link of the Excel sheet in here as well?
+
+202
+00:23:28.060 --> 00:23:30.519
+Jessie Zhang: Yeah, there's running, it's… yeah.
+
+203
+00:23:30.750 --> 00:23:32.020
+Jessie Zhang: That'd be great.
+
+204
+00:23:33.830 --> 00:23:39.179
+Sanjeev Suresh: And Jessie, where you're saying 11 on Thursday works for you? I can actually.
+
+205
+00:23:39.180 --> 00:23:39.850
+Jessie Zhang: Yes.
+
+206
+00:23:40.280 --> 00:23:47.820
+Jessie Zhang: From 11, if you can fit, 11 to 1, I'm open, then after 2.
+
+207
+00:23:47.970 --> 00:23:49.790
+Sanjeev Suresh: Okay, let's just do 11 to 12.
+
+208
+00:23:50.020 --> 00:23:55.539
+Jessie Zhang: Okay, sounds good. Yeah, I have a few more comments on it. I think,
+
+209
+00:23:55.690 --> 00:24:04.520
+Jessie Zhang: Overall, it's great, but there are probably a couple, like, some information missing about, the…
+
+210
+00:24:04.920 --> 00:24:10.180
+Jessie Zhang: Survey participants, and there are a couple of things,
+
+211
+00:24:10.300 --> 00:24:18.830
+Jessie Zhang: Probably also the… in order… because we're going to use this to, you know, to get a lot of information, right? So we gotta tight… tighten it up, so…
+
+212
+00:24:19.200 --> 00:24:22.330
+Jessie Zhang: I'll put all the comments on that before our meeting.
+
+213
+00:24:22.740 --> 00:24:36.509
+Sanjeev Suresh: Yeah, I would love that, and also just, I mean, even to, like, consult it, there is a few more comments, like, how many questions to finally keep is, like, and I know you have, like, experience running actual service, too, right?
+
+214
+00:24:36.510 --> 00:24:37.050
+Jessie Zhang: Yeah.
+
+215
+00:24:37.350 --> 00:24:52.110
+Jessie Zhang: Unfortunately, I'm adding, like, one more in there. I know it's just too many, because I want to see if those… so we can talk about what's important. Is that the participants, industry, type of business important?
+
+216
+00:24:52.110 --> 00:24:58.380
+Jessie Zhang: So we can type, then we can put those, like, somewhere else. I don't have to be in this survey or somewhere.
+
+217
+00:24:58.520 --> 00:25:05.529
+Jessie Zhang: kind of, like, getting the information when they sign in. So, if those are important, we should capture it, then there's just a…
+
+218
+00:25:07.760 --> 00:25:09.250
+Sanjeev Suresh: And Matthew, I was saying something.
+
+219
+00:25:10.410 --> 00:25:14.779
+Matthew Khouzam |LFX platform is interesting: Yes, am I muted? I think I'm probably muted. No, I'm not muted.
+
+220
+00:25:14.780 --> 00:25:15.570
+Jessie Zhang: You're not…
+
+221
+00:25:16.180 --> 00:25:22.680
+Matthew Khouzam |LFX platform is interesting: Okay, I'm talking about… I've had issues with your survey, but it's mostly on the UX side of things.
+
+222
+00:25:22.870 --> 00:25:26.460
+Matthew Khouzam |LFX platform is interesting: Are you aware of, like, er, first of all.
+
+223
+00:25:26.860 --> 00:25:29.789
+Matthew Khouzam |LFX platform is interesting: You have a lot of very good information, but it's overloading.
+
+224
+00:25:30.050 --> 00:25:30.550
+Jessie Zhang: Yeah.
+
+225
+00:25:30.550 --> 00:25:35.550
+Matthew Khouzam |LFX platform is interesting: I think that I've… Givens mentioned to another survey about this that
+
+226
+00:25:35.850 --> 00:25:39.219
+Matthew Khouzam |LFX platform is interesting: What needs to be done is make it simple, especially that
+
+227
+00:25:39.600 --> 00:25:48.029
+Matthew Khouzam |LFX platform is interesting: You're gonna be asking probably all the people that just got the observability survey, the security survey, the workflow survey.
+
+228
+00:25:48.430 --> 00:25:51.599
+Matthew Khouzam |LFX platform is interesting: And at this point, they're going to be mad at you personally.
+
+229
+00:25:54.060 --> 00:26:03.579
+Jessie Zhang: I'm thinking, Matthew, this is what I was thinking. We capture all the things we need first, then we look at the UX, how we can change it.
+
+230
+00:26:03.840 --> 00:26:04.699
+Matthew Khouzam |LFX platform is interesting: Oh, yeah, yeah.
+
+231
+00:26:04.700 --> 00:26:05.310
+Jessie Zhang: Yeah.
+
+232
+00:26:05.600 --> 00:26:07.539
+Matthew Khouzam |LFX platform is interesting: I was going to mention that
+
+233
+00:26:07.870 --> 00:26:11.260
+Matthew Khouzam |LFX platform is interesting: you probably really want to look into making it a Likert scale.
+
+234
+00:26:11.390 --> 00:26:18.589
+Sanjeev Suresh: Yeah, yeah, so I actually made the… so that… so, so you… I mean, based on your suggestion, so I just… Oh, okay.
+
+235
+00:26:18.790 --> 00:26:19.799
+Sanjeev Suresh: Change that to…
+
+236
+00:26:19.800 --> 00:26:20.150
+Matthew Khouzam |LFX platform is interesting: Oh.
+
+237
+00:26:20.150 --> 00:26:22.690
+Sanjeev Suresh: meaningful questions to the Likert scale.
+
+238
+00:26:23.360 --> 00:26:24.620
+Matthew Khouzam |LFX platform is interesting: Okay, perfect, that's…
+
+239
+00:26:25.370 --> 00:26:26.279
+Matthew Khouzam |LFX platform is interesting: That's excellent.
+
+240
+00:26:26.450 --> 00:26:29.330
+Sanjeev Suresh: Yeah, there were two questions which were, like, really big.
+
+241
+00:26:29.480 --> 00:26:30.110
+Sanjeev Suresh: Which.
+
+242
+00:26:30.110 --> 00:26:30.430
+Matthew Khouzam |LFX platform is interesting: Yes.
+
+243
+00:26:30.430 --> 00:26:33.750
+Sanjeev Suresh: contains all these different factors, so I did change that to the Likert.
+
+244
+00:26:33.750 --> 00:26:38.500
+Matthew Khouzam |LFX platform is interesting: Okay, I've given this advice out to several people, so I'm sorry, I'm giving it again.
+
+245
+00:26:38.500 --> 00:26:41.089
+Sanjeev Suresh: No worries, it was really good advice.
+
+246
+00:26:41.670 --> 00:26:53.700
+Jessie Zhang: Honestly, we pay them, right? I don't know, survey participants, typically they get paid. I don't know, kind of Linux Foundation pay. If they pay, it's okay.
+
+247
+00:26:53.700 --> 00:26:56.089
+Matthew Khouzam |LFX platform is interesting: I've never been paid for an open source survey.
+
+248
+00:26:56.370 --> 00:26:59.500
+Sanjeev Suresh: Yeah, I don't know.
+
+249
+00:26:59.590 --> 00:27:10.949
+Jessie Zhang: Because we used to pay people to take a survey. Of course, there's very relevant participants, like, we take survey on PM and different industry, right?
+
+250
+00:27:11.160 --> 00:27:16.320
+Jessie Zhang: If not, this is just way too many questions and a lot of reading.
+
+251
+00:27:16.680 --> 00:27:26.599
+Matthew Khouzam |LFX platform is interesting: So, one thing also then we can do is make randomized surveys, where we have the short surveys where you just sample 5 questions at random.
+
+252
+00:27:27.650 --> 00:27:32.150
+Matthew Khouzam |LFX platform is interesting: And you have the people, and you hope that more people answer it, and then eventually, kind of.
+
+253
+00:27:32.830 --> 00:27:36.280
+Matthew Khouzam |LFX platform is interesting: Has a diffusion into a inconsistent image.
+
+254
+00:27:41.210 --> 00:27:41.940
+Matthew Khouzam |LFX platform is interesting: Yep.
+
+255
+00:27:43.720 --> 00:27:46.710
+Matthew Khouzam |LFX platform is interesting: If it's okay with everyone.
+
+256
+00:27:46.960 --> 00:27:49.800
+Matthew Khouzam |LFX platform is interesting: I have another meeting coming up at 1 in the hour.
+
+257
+00:27:50.590 --> 00:27:53.469
+Matthew Khouzam |LFX platform is interesting: And… You're in Pacific, right?
+
+258
+00:27:54.720 --> 00:27:56.269
+Jessie Zhang: Yeah, we're all in Pacific.
+
+259
+00:27:56.690 --> 00:27:58.669
+Matthew Khouzam |LFX platform is interesting: I'm Eastern, and it's lunchtime.
+
+260
+00:28:00.410 --> 00:28:08.240
+Jessie Zhang: So, Matthew, I will just, comment on, on this taxonomy sheet, and…
+
+261
+00:28:08.470 --> 00:28:19.930
+Jessie Zhang: Yeah, if it's not clear, it might be, right, because we made quite a lot of change, and then we can schedule some meeting. Hopefully, this comment should be fine.
+
+262
+00:28:20.480 --> 00:28:24.840
+Matthew Khouzam |LFX platform is interesting: Ping me on Discord, I think there's a Slack bridge, we can chat that way, too.
+
+263
+00:28:25.060 --> 00:28:30.569
+Matthew Khouzam |LFX platform is interesting: There's the time zone shift, and my schedule's rather…
+
+264
+00:28:31.050 --> 00:28:32.780
+Matthew Khouzam |LFX platform is interesting: I think the term is insane?
+
+265
+00:28:33.940 --> 00:28:39.130
+Matthew Khouzam |LFX platform is interesting: So… I think I'll answer asynchronously to my best of my abilities.
+
+266
+00:28:39.410 --> 00:28:41.520
+Jessie Zhang: Yep, sounds good. Okay, cool.
+
+267
+00:28:41.680 --> 00:28:42.600
+Matthew Khouzam |LFX platform is interesting: Take care.
+
+268
+00:28:42.770 --> 00:28:43.560
+Jessie Zhang: Yeah, thanks.
+
+269
+00:28:43.560 --> 00:28:51.229
+Sanjeev Suresh: Bye, Matthew. Bye. Jessie, just, yeah, for the survey, so, I mean, it's probably gonna be a free survey.
+
+270
+00:28:52.500 --> 00:29:05.219
+Sanjeev Suresh: And to get participation, like, I mean, like you were saying, probably, like, we need to keep questions also on the shorter side. Let's get all the questions out, and then maybe trim it down further.
+
+271
+00:29:05.350 --> 00:29:06.389
+Sanjeev Suresh: And, and…
+
+272
+00:29:07.900 --> 00:29:14.149
+Sanjeev Suresh: whatever ways of promotion where we're thinking? Maybe we can ask it to be featured on the newsletter for the foundation.
+
+273
+00:29:16.010 --> 00:29:22.029
+Sanjeev Suresh: I think last time we were floating, do we want to have some sort of in-person event in which also we can promote it?
+
+274
+00:29:22.320 --> 00:29:22.880
+Jessie Zhang: Yep.
+
+275
+00:29:23.650 --> 00:29:38.619
+Jessie Zhang: Yeah, we can talk about that during our meeting. All right, so I was looking at the survey, I think, let's capture everything we want to ask. Then we figure out how we can say what's not important, we can make assumptions, or something like that.
+
+276
+00:29:38.750 --> 00:29:42.430
+Jessie Zhang: Currently, it's… I just think…
+
+277
+00:29:42.910 --> 00:29:53.190
+Jessie Zhang: I just think there's still a few things missing, then we'll do it. Yeah, the event side, yeah, I totally forgot to go ask whether we can host something.
+
+278
+00:29:53.450 --> 00:30:05.250
+Jessie Zhang: And promoting this. I don't know, Linux Foundation, can we also ask? Because they don't pay a lot, but if you have some gesture, some incentive for people to take survey.
+
+279
+00:30:05.420 --> 00:30:06.699
+Jessie Zhang: It would be great.
+
+280
+00:30:07.700 --> 00:30:10.419
+Jessie Zhang: Zaubert, you have your hands up.
+
+281
+00:30:10.990 --> 00:30:20.029
+Robert Bischof: Yeah, you just partly answered my question, so, yeah, I would ask, how do we want to distribute this survey? Should we…
+
+282
+00:30:20.130 --> 00:30:30.499
+Robert Bischof: Somehow handed around in our companies, or is there some newsletter kind of thing where we can distribute it, or…
+
+283
+00:30:31.120 --> 00:30:33.419
+Robert Bischof: Sorry, I'm not familiar with that stuff.
+
+284
+00:30:33.580 --> 00:30:40.319
+Sanjeev Suresh: Like, I think it probably would need both. Definitely, we'll get it included in some sort of newsletter. I know Alex…
+
+285
+00:30:40.510 --> 00:30:45.149
+Sanjeev Suresh: from the foundation, I mean, who runs the newsletter, so I can ask him
+
+286
+00:30:45.260 --> 00:30:57.349
+Sanjeev Suresh: Regarding that, and… but, I mean, how many people fill out a newsletter survey? You might have to also, nudge people, or, I mean, put it in more high-signal groups.
+
+287
+00:30:57.840 --> 00:30:59.559
+Robert Bischof: Little bit advertisement.
+
+288
+00:31:00.170 --> 00:31:10.979
+Jessie Zhang: I also think all the members of each group, right, they can also take it, or they pass it to someone else. I think the events also would be great.
+
+289
+00:31:11.370 --> 00:31:17.700
+Jessie Zhang: Especially when you say events, then maybe you get free events for next one, right? So I always need an incentive.
+
+290
+00:31:18.540 --> 00:31:20.579
+Jessie Zhang: We're all engineers, we're all cheap.
+
+291
+00:31:22.200 --> 00:31:22.920
+Jessie Zhang: Nicolas.
+
+292
+00:31:23.090 --> 00:31:24.310
+Sanjeev Suresh: Nicolas, yeah.
+
+293
+00:31:24.310 --> 00:31:47.409
+Nicolas Bonnet: I have a question about the survey. It's been a while I looked at it. I looked at it two weeks ago. There's one thing that I think would be incredibly… I'm thinking when it's done, to use it, let's say, internally, to share with, you know, colleagues or leadership. And one of the questions I hope that can be answered is.
+
+294
+00:31:47.410 --> 00:31:52.779
+Nicolas Bonnet: The type of resources companies have, to handle…
+
+295
+00:31:52.990 --> 00:32:05.049
+Nicolas Bonnet: quality. Like, what… how are they structured? Do they have a team dedicated to quality, or is it, is accountability around
+
+296
+00:32:05.050 --> 00:32:14.320
+Nicolas Bonnet: tracking, identifying those problems, and fixing them, distributed, so I think that would be super interesting to understand what it is that people do.
+
+297
+00:32:14.500 --> 00:32:29.850
+Nicolas Bonnet: organizationally to address their quality issues. I'm not exactly sure how to turn this into a simple question, but something related to the actions that people take in their organization would be really valuable, in my opinion.
+
+298
+00:32:30.550 --> 00:32:44.030
+Robert Bischof: Yeah, I like this very much to get somehow a reflection of, let's say, maturity level of the companies, and also the solution itself, the Agentic solution we're looking at. So this, also my,
+
+299
+00:32:44.030 --> 00:32:58.150
+Robert Bischof: my comment goes in this direction where I, suggested that, maybe we can ask for a number of active users, so it would be a large difference if we have 5 users or if we have 500. So it was,
+
+300
+00:32:58.340 --> 00:33:00.230
+Robert Bischof: Yeah, here are my journal comments.
+
+301
+00:33:00.230 --> 00:33:06.489
+Nicolas Bonnet: But there's something around… sometimes I feel, like, because it… you know, is there…
+
+302
+00:33:06.790 --> 00:33:11.990
+Nicolas Bonnet: organizational awareness of the importance of AI quality, and
+
+303
+00:33:12.110 --> 00:33:22.280
+Nicolas Bonnet: dedicated teams, like, literally asking if your company has a dedicated team to focus on the life cycle of quality management.
+
+304
+00:33:22.470 --> 00:33:28.779
+Nicolas Bonnet: or if it's distributed across all the participants. That question would be really helpful.
+
+305
+00:33:29.010 --> 00:33:45.189
+Nicolas Bonnet: In my opinion, because if there is one, it indicates people really organizationally care, and want to do something about it. If they don't, then it means that there's not necessarily an awareness that it is a real problem. So, I would…
+
+306
+00:33:45.590 --> 00:33:49.810
+Nicolas Bonnet: I would think that would be a useful question to ask.
+
+307
+00:33:50.270 --> 00:33:51.460
+Nicolas Bonnet: unto people.
+
+308
+00:33:52.540 --> 00:34:01.999
+Jessie Zhang: So that's… I lump it all into, like, asking… so not a part of the question, asking about, this participating… participants.
+
+309
+00:34:02.170 --> 00:34:09.500
+Jessie Zhang: And it's, company. So organizational, it's industry, it's the shape of…
+
+310
+00:34:10.310 --> 00:34:12.519
+Jessie Zhang: It's… it's the majority, I like that word.
+
+311
+00:34:12.520 --> 00:34:19.440
+Nicolas Bonnet: It's about the maturity, organizational maturity of quality as a topic, yeah.
+
+312
+00:34:19.449 --> 00:34:21.439
+Robert Bischof: Yeah, we like this aspect.
+
+313
+00:34:22.919 --> 00:34:29.909
+Jessie Zhang: So I have a… but that's already kind of… yeah, I'm… I kind of have that… I number it all in one.
+
+314
+00:34:30.019 --> 00:34:36.589
+Jessie Zhang: I think I said the industry organization… Can't find where my… No.
+
+315
+00:34:39.889 --> 00:34:57.979
+Nicolas Bonnet: I'd also like to know, I mean, I'm sorry I'm throwing all the questions, but I'm really curious about the decision-making. This is something we're struggling with, to say, okay, who… at some point, somebody says, it's really a quality problem, something needs to be done about it. Who decides that? Is it,
+
+316
+00:34:58.419 --> 00:35:03.299
+Nicolas Bonnet: I know a group of analysts? Is it, the tech team.
+
+317
+00:35:03.319 --> 00:35:22.109
+Nicolas Bonnet: Because quality is in the eye of the… of the user, right? So, you know, is it, like, an industry team? This is always an interesting topic to me about who's the decision maker about which of the quality problems that have been reported ought to be fixed and prioritized.
+
+318
+00:35:23.950 --> 00:35:29.250
+Jessie Zhang: Oh, I forgot to submit it. I… the wonder didn't show.
+
+319
+00:35:29.790 --> 00:35:31.260
+Jessie Zhang: Let me submit…
+
+320
+00:35:32.240 --> 00:35:39.109
+Sanjeev Suresh: I mean, so Nicolas, if you can actually, I mean, phrase that, like, as a, I mean, specific question.
+
+321
+00:35:39.110 --> 00:35:41.370
+Nicolas Bonnet: Yeah, yeah, I know, I need to do it.
+
+322
+00:35:41.370 --> 00:35:53.689
+Sanjeev Suresh: And also, like, again, we are short on questions, so, short in the sense of, like, we have limited question budget, so what do you think it would replace if it had to replace a different question?
+
+323
+00:35:55.370 --> 00:35:59.780
+Robert Bischof: Is it too much to have the general part, where we ask those questions?
+
+324
+00:36:00.580 --> 00:36:02.539
+Robert Bischof: So, the starting point…
+
+325
+00:36:02.540 --> 00:36:05.389
+Sanjeev Suresh: I mean, like, I think it's fair to…
+
+326
+00:36:05.630 --> 00:36:11.729
+Sanjeev Suresh: I mean, make the general part bigger, but it might be at the expense of removing some of the questions later, right?
+
+327
+00:36:11.730 --> 00:36:14.050
+Robert Bischof: Yeah, okay. Yeah, yeah, you're right.
+
+328
+00:36:14.560 --> 00:36:19.980
+Jessie Zhang: See, interesting, I can't submit it. I can't submit my review.
+
+329
+00:36:20.470 --> 00:36:21.060
+Sanjeev Suresh: Oh.
+
+330
+00:36:21.410 --> 00:36:22.790
+Jessie Zhang: Oh, that's interesting.
+
+331
+00:36:25.550 --> 00:36:26.469
+Sanjeev Suresh: What, what, what?
+
+332
+00:36:26.470 --> 00:36:27.739
+Jessie Zhang: Oh, got it.
+
+333
+00:36:28.010 --> 00:36:37.500
+Jessie Zhang: Because my window's too long, it's all the way hiding on the bottom. Okay, yeah, I added this morning, I did not submit, so I added a bunch of stuff in there.
+
+334
+00:36:37.890 --> 00:36:44.259
+Jessie Zhang: Yeah, a whole bunch. So we can go through,
+
+335
+00:36:44.260 --> 00:36:44.730
+Sanjeev Suresh: Yeah.
+
+336
+00:36:44.730 --> 00:36:48.419
+Jessie Zhang: when we meet. So I, I had the,
+
+337
+00:36:49.590 --> 00:36:52.570
+Jessie Zhang: At the industry and all maturity.
+
+338
+00:36:53.360 --> 00:36:54.010
+Nicolas Bonnet: Okay.
+
+339
+00:36:58.110 --> 00:37:00.299
+Sanjeev Suresh: Anything else for right now, folks?
+
+340
+00:37:01.390 --> 00:37:02.380
+Jessie Zhang: We're good.
+
+341
+00:37:02.680 --> 00:37:03.560
+Jessie Zhang: Thanks.
+
+342
+00:37:03.560 --> 00:37:13.800
+Sanjeev Suresh: Alright, so, so, yeah, so I'll set up a Zoom, I don't know whether if it is… it's gonna be… Casper can help set up a LFX Zoom, I'll ask Casper. Otherwise, I mean, I'll just set up a Zoom and share on.
+
+343
+00:37:14.090 --> 00:37:17.559
+Jessie Zhang: Yeah, we can use our own Zoom and Teams. Okay, great.
+
+344
+00:37:17.560 --> 00:37:17.980
+Sanjeev Suresh: Awesome.
+
+345
+00:37:17.980 --> 00:37:19.590
+Jessie Zhang: Thanks. Later, bye.
+
+346
+00:37:21.240 --> 00:37:22.230
+Robert Bischof: Bye-bye.
+
