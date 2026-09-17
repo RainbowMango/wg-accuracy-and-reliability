@@ -1,0 +1,1562 @@
+WEBVTT
+
+1
+00:00:53.850 --> 00:00:54.620
+Jordan Augé: I don't…
+
+2
+00:01:26.580 --> 00:01:27.650
+Jordan Augé: Oh, brilliant.
+
+3
+00:01:33.220 --> 00:01:34.039
+Brian Malone: Hey, Jordan.
+
+4
+00:01:35.350 --> 00:01:36.069
+Jordan Augé: How are you?
+
+5
+00:01:36.440 --> 00:01:39.080
+Brian Malone: I'm doing well. Where's everybody?
+
+6
+00:01:45.040 --> 00:01:49.340
+Jordan Augé: Yeah, preparing here to depart to Amsterdam tomorrow for the Agent Cannes.
+
+7
+00:01:49.880 --> 00:01:50.860
+Brian Malone: Yeah.
+
+8
+00:01:52.460 --> 00:01:58.360
+Jordan Augé: Seems a big event, I was not expecting… I've seen the numbers, like… 2,000 people?
+
+9
+00:01:59.070 --> 00:01:59.890
+Jordan Augé: Impressed.
+
+10
+00:02:05.150 --> 00:02:06.220
+Brian Malone: Yeah.
+
+11
+00:02:09.030 --> 00:02:09.940
+Jordan Augé: I met you.
+
+12
+00:02:10.150 --> 00:02:11.290
+Jordan Augé: Hi, Sanjeev?
+
+13
+00:02:13.510 --> 00:02:14.839
+Matthew Khouzam | Lunch: Who's MCP Jam?
+
+14
+00:02:18.610 --> 00:02:21.099
+Jordan Augé: He's not answering hello, so…
+
+15
+00:02:21.880 --> 00:02:23.950
+Brian Malone: Yeah, it's gotta be a note-taker.
+
+16
+00:02:30.880 --> 00:02:35.750
+Matthew Khouzam | Lunch: Well, I'll get them to defend their honor. I heard MCP Jam's oatmeal is definitely subpar when they make it.
+
+17
+00:02:42.270 --> 00:02:45.559
+Matthew Khouzam | Lunch: Can I share something really stupid that I made?
+
+18
+00:02:45.690 --> 00:02:48.940
+Matthew Khouzam | Lunch: for taxonomy that I would like you guys to take advantage of.
+
+19
+00:02:49.150 --> 00:02:49.970
+Jordan Augé: Oh, yes.
+
+20
+00:02:51.720 --> 00:02:58.709
+Matthew Khouzam | Lunch: Okay, so, there's… Some people that were very happy to contribute to taxonomy.
+
+21
+00:02:59.400 --> 00:03:02.279
+Matthew Khouzam | Lunch: And there's some people that made it very,
+
+22
+00:03:03.430 --> 00:03:06.229
+Matthew Khouzam | Lunch: Let's say the opposite of AI accuracy, slop.
+
+23
+00:03:08.850 --> 00:03:12.010
+Matthew Khouzam | Lunch: I made here just a quick,
+
+24
+00:03:12.120 --> 00:03:14.520
+Matthew Khouzam | Lunch: Way to propose and edit terms.
+
+25
+00:03:15.110 --> 00:03:17.569
+Matthew Khouzam | Lunch: We're… If you want.
+
+26
+00:03:18.320 --> 00:03:19.190
+Matthew Khouzam | Lunch: you can…
+
+27
+00:03:19.920 --> 00:03:24.819
+Matthew Khouzam | Lunch: Go to Proposed Editor Term, you enter the term, it'll fill it up with whatever was already there.
+
+28
+00:03:26.020 --> 00:03:27.349
+Matthew Khouzam | Lunch: Then you can change it.
+
+29
+00:03:27.680 --> 00:03:31.199
+Matthew Khouzam | Lunch: And you can also ask different AIs to fill it up for you.
+
+30
+00:03:31.980 --> 00:03:34.629
+Matthew Khouzam | Lunch: And then you would prepare PR. Now, here's the catch.
+
+31
+00:03:34.870 --> 00:03:36.730
+Matthew Khouzam | Lunch: If you fill it with AI,
+
+32
+00:03:36.860 --> 00:03:38.739
+Matthew Khouzam | Lunch: It will put in your commit message.
+
+33
+00:03:38.980 --> 00:03:44.269
+Matthew Khouzam | Lunch: the percentage of AI terminology that's unchanged versus what you edited.
+
+34
+00:03:44.790 --> 00:03:46.640
+Matthew Khouzam | Lunch: Which makes reviewing it much easier.
+
+35
+00:03:49.080 --> 00:03:52.910
+Sanjeev Suresh: Is the AI, classification from Pangram?
+
+36
+00:03:55.310 --> 00:03:56.900
+Matthew Khouzam | Lunch: 10 gram AI?
+
+37
+00:03:56.900 --> 00:04:02.790
+Sanjeev Suresh: And then, what do you use to detect whether it's AI text or not?
+
+38
+00:04:02.980 --> 00:04:03.929
+Sanjeev Suresh: I'm just kidding.
+
+39
+00:04:04.740 --> 00:04:07.969
+Matthew Khouzam | Lunch: It's… Okay, you have a string that's this long.
+
+40
+00:04:08.280 --> 00:04:10.349
+Matthew Khouzam | Lunch: How many of those characters did you change?
+
+41
+00:04:11.310 --> 00:04:12.260
+Matthew Khouzam | Lunch: That's it.
+
+42
+00:04:12.490 --> 00:04:13.090
+Sanjeev Suresh: Hmm.
+
+43
+00:04:14.040 --> 00:04:15.400
+Matthew Khouzam | Lunch: It's nothing fancy.
+
+44
+00:04:16.660 --> 00:04:23.349
+Matthew Khouzam | Lunch: It's… but basically, it will give a warning. This is 100% AI, extra view is needed.
+
+45
+00:04:25.140 --> 00:04:28.790
+Matthew Khouzam | Lunch: Or, basically, the way I see it, if we get to 70%,
+
+46
+00:04:29.340 --> 00:04:32.590
+Matthew Khouzam | Lunch: of it being changed, I assume the person read the definitions.
+
+47
+00:04:33.880 --> 00:04:36.260
+Brian Malone: So, Matthew, I… I love…
+
+48
+00:04:36.680 --> 00:04:46.280
+Brian Malone: the practical nature of it. However, you may be skipping over… like, you might be winning the battle, but losing the war, and that is AI might be contributing a better value.
+
+49
+00:04:47.000 --> 00:04:48.120
+Matthew Khouzam | Lunch: Oh, absolutely.
+
+50
+00:04:48.380 --> 00:04:56.190
+Matthew Khouzam | Lunch: I 100% agree that AI is contributing better value. In many cases, in fact, I contributed the definition of AI slop.
+
+51
+00:04:56.320 --> 00:04:57.479
+Matthew Khouzam | Lunch: And I used…
+
+52
+00:04:57.690 --> 00:05:02.839
+Matthew Khouzam | Lunch: Grok to generate it, because I figured that that is the best way to generate the definition of AI slop.
+
+53
+00:05:06.800 --> 00:05:07.430
+Jordan Augé: And so…
+
+54
+00:05:07.880 --> 00:05:17.139
+Jordan Augé: Just how, how are you currently handling, the same edits? So, everyone is… you will have multiple definitions from the same term?
+
+55
+00:05:17.440 --> 00:05:19.230
+Matthew Khouzam | Lunch: Yeah, so it's PR-based.
+
+56
+00:05:19.230 --> 00:05:19.720
+Jordan Augé: Jim.
+
+57
+00:05:21.870 --> 00:05:24.350
+Matthew Khouzam | Lunch: So just like any other gift… Yeah.
+
+58
+00:05:24.860 --> 00:05:30.820
+Jordan Augé: Yeah, so it will submit the PR, and it's up to reviewers then to decide Okay, perfect.
+
+59
+00:05:34.860 --> 00:05:38.320
+Matthew Khouzam | Lunch: Since we have a good amount of definitions here.
+
+60
+00:05:40.560 --> 00:05:46.009
+Matthew Khouzam | Lunch: I figure that this would be a good way to, get other people to join in if they want to.
+
+61
+00:05:47.780 --> 00:05:52.349
+Matthew Khouzam | Lunch: Also, Prepare PR has two options, one which is
+
+62
+00:05:52.530 --> 00:05:54.519
+Matthew Khouzam | Lunch: Just going through the GitHub API.
+
+63
+00:05:55.240 --> 00:06:00.730
+Matthew Khouzam | Lunch: And one which is going through a bash script. I strongly recommend Bash Script if you're comfortable with that.
+
+64
+00:06:02.670 --> 00:06:08.030
+Matthew Khouzam | Lunch: But, because I like having that human in the loop, but it's completely up to you.
+
+65
+00:06:12.080 --> 00:06:13.630
+Jordan Augé: Can I put that in the minutes?
+
+66
+00:06:14.060 --> 00:06:15.440
+Matthew Khouzam | Lunch: 100%, yes
+
+67
+00:06:19.330 --> 00:06:21.049
+Matthew Khouzam | Lunch: And so, yeah.
+
+68
+00:06:22.570 --> 00:06:31.780
+Jordan Augé: So, currently, you are not reflecting the current state of definitions. Basically, what you have in the list is what was submitted to the repo?
+
+69
+00:06:32.140 --> 00:06:33.700
+Matthew Khouzam | Lunch: That is what is merged.
+
+70
+00:06:34.330 --> 00:06:35.700
+Jordan Augé: Okay, perfect.
+
+71
+00:06:46.130 --> 00:06:50.569
+Matthew Khouzam | Lunch: So you notice that a lot of these, we have the definition pending, it means that we all agree.
+
+72
+00:06:50.710 --> 00:06:52.320
+Matthew Khouzam | Lunch: That the term needs to be there.
+
+73
+00:06:52.870 --> 00:06:55.900
+Matthew Khouzam | Lunch: But we don't have… we didn't agree on the definition.
+
+74
+00:07:02.240 --> 00:07:04.280
+Matthew Khouzam | Lunch: Example? Skill.
+
+75
+00:07:05.280 --> 00:07:09.169
+Matthew Khouzam | Lunch: So we can't really safely say it's a skill issue, because we don't know what a skill is.
+
+76
+00:07:09.550 --> 00:07:10.690
+Matthew Khouzam | Lunch: But we know it's important.
+
+77
+00:07:13.580 --> 00:07:19.500
+Matthew Khouzam | Lunch: I am, of course, being very, very tongue-in-cheek. We know what it is, we didn't agree on the semantics.
+
+78
+00:07:37.920 --> 00:07:39.530
+Jordan Augé: I guess it's a good…
+
+79
+00:07:40.080 --> 00:07:46.230
+Jordan Augé: Way, maybe, to see if we can get more contributions for the working group, like, let's…
+
+80
+00:07:46.550 --> 00:07:50.709
+Jordan Augé: Start from this, like, very short list of terms we want to define.
+
+81
+00:07:51.830 --> 00:07:56.130
+Jordan Augé: And I love the idea that it's really easy to access and control you'd think so.
+
+82
+00:07:57.640 --> 00:07:58.280
+Jordan Augé: Exactly.
+
+83
+00:07:58.280 --> 00:08:02.289
+Matthew Khouzam | Lunch: One heads up, Eric… I work at Ericsson.
+
+84
+00:08:02.760 --> 00:08:08.350
+Matthew Khouzam | Lunch: And they blocked my, the JavaScript in this code on their network.
+
+85
+00:08:09.190 --> 00:08:12.849
+Matthew Khouzam | Lunch: You might want to use the… maybe you're going to have to use your home computer.
+
+86
+00:08:16.830 --> 00:08:18.009
+Matthew Khouzam | Lunch: Our home network.
+
+87
+00:08:24.290 --> 00:08:27.470
+Jordan Augé: So I guess that was the perfect example of things we want to share in the…
+
+88
+00:08:28.050 --> 00:08:33.730
+Jordan Augé: intro of the meeting, like, anything you want to share? So, I don't know if anyone else wanted to…
+
+89
+00:08:35.419 --> 00:08:40.690
+Jordan Augé: to share some updates. I keep asking if we have new people compared to last week.
+
+90
+00:08:41.059 --> 00:08:44.639
+Jordan Augé: Are some of you planning to attend MCPCon, Agent Con?
+
+91
+00:08:45.290 --> 00:08:49.890
+Jordan Augé: At the end of the week in Amsterdam, and eventually also the US version next month.
+
+92
+00:08:51.750 --> 00:08:54.920
+Matthew Khouzam | Lunch: My superior European counterparts are going to be in Amsterdam.
+
+93
+00:08:55.400 --> 00:08:56.060
+Jordan Augé: Okay?
+
+94
+00:08:57.520 --> 00:08:59.429
+Matthew Khouzam | Lunch: And I will go to San Jose.
+
+95
+00:08:59.820 --> 00:09:02.049
+Matthew Khouzam | Lunch: If I can figure out how to order the tickets.
+
+96
+00:09:03.680 --> 00:09:05.800
+Matthew Khouzam | Lunch: Within the, company portal and stuff.
+
+97
+00:09:07.750 --> 00:09:13.040
+Sanjeev Suresh: Yeah, I also know a few folks going to Amsterdam from here, but I'll be there at the San Jacob.
+
+98
+00:09:16.710 --> 00:09:19.109
+Matthew Khouzam | Lunch: Okay, Sanjeev, do you know what this is?
+
+99
+00:09:22.460 --> 00:09:24.320
+Sanjeev Suresh: No. Hmph.
+
+100
+00:09:25.480 --> 00:09:25.950
+Sanjeev Suresh: Maple.
+
+101
+00:09:25.950 --> 00:09:27.399
+Matthew Khouzam | Lunch: This is Canadian Gold.
+
+102
+00:09:27.400 --> 00:09:28.250
+Sanjeev Suresh: Mmm.
+
+103
+00:09:28.770 --> 00:09:30.459
+Matthew Khouzam | Lunch: Yeah, I'll try to bring some.
+
+104
+00:09:30.950 --> 00:09:32.639
+Sanjeev Suresh: Awesome. Looking forward.
+
+105
+00:09:36.280 --> 00:09:38.250
+Jordan Augé: Okay, if you have nothing else, so…
+
+106
+00:09:38.390 --> 00:09:45.330
+Jordan Augé: I suggest we start with the agenda. So, basically, it's the usual… Round of the dates, so…
+
+107
+00:09:46.020 --> 00:09:51.579
+Jordan Augé: Starting with the gap deliverable, and there, the main topic is the subject, so…
+
+108
+00:09:52.480 --> 00:09:57.599
+Jordan Augé: After, we can discuss quickly on updates on taxonomy terminology deliverable.
+
+109
+00:09:57.890 --> 00:10:01.530
+Jordan Augé: Maybe we can say it now, because it's very fast, so…
+
+110
+00:10:01.720 --> 00:10:05.760
+Jordan Augé: We had a few interesting comments in the GitHub issue, so…
+
+111
+00:10:06.850 --> 00:10:22.900
+Jordan Augé: They suggested to do PRs, so we'll continue like that. So, now the survey is over, I guess, that's something we can try to tackle also. At the same time, we propose terminology, let's see at the corresponding parts, maybe in a deliverable, that's a bigger scope for the…
+
+112
+00:10:23.210 --> 00:10:25.889
+Jordan Augé: Rationale between the different words.
+
+113
+00:10:26.220 --> 00:10:30.869
+Jordan Augé: And let's try to iterate on the PR to make iterative versions. I think…
+
+114
+00:10:31.170 --> 00:10:34.170
+Jordan Augé: From next sprint, I will try to merge
+
+115
+00:10:34.310 --> 00:10:41.210
+Jordan Augé: PRs on a maybe bi-weekly basis, so that we can do progress, review them, and iterate on the deliverable.
+
+116
+00:10:42.060 --> 00:10:45.869
+Jordan Augé: And I'm not sure there will be more updates on this topic for today.
+
+117
+00:10:47.560 --> 00:10:50.120
+Jordan Augé: And at the end, I will ask you, maybe, if you…
+
+118
+00:10:50.240 --> 00:11:00.720
+Jordan Augé: I have interest in bootstrapping over-deliverables, over topics at the same time, see if there are different groups of people that would like to tackle different topics, or…
+
+119
+00:11:00.900 --> 00:11:02.469
+Jordan Augé: See if we need to start.
+
+120
+00:11:02.830 --> 00:11:04.920
+Jordan Augé: The liaison with our working groups.
+
+121
+00:11:05.810 --> 00:11:09.570
+Jordan Augé: But so far, maybe, Sanjeev, up to you for the… the survey?
+
+122
+00:11:10.340 --> 00:11:24.850
+Sanjeev Suresh: Yeah, I mean, so just the updates from last time is I addressed all the feedback so far. Matthew, thank you for leaving your comments, too. So I polished it up, added, like, a welcome screen, thank you screen, or welcome text and thank you text at the end.
+
+123
+00:11:24.920 --> 00:11:33.759
+Sanjeev Suresh: the Texas almost final, like, place, like, again, like, feel free to, like, I'll just put the link of the actual…
+
+124
+00:11:34.400 --> 00:11:42.120
+Sanjeev Suresh: survey in the chat, go through it, let's maybe target merging the PR
+
+125
+00:11:42.230 --> 00:11:46.829
+Sanjeev Suresh: Soon. I think we set the end date as last week.
+
+126
+00:11:47.080 --> 00:11:58.340
+Sanjeev Suresh: But, in fact, if there's no concerns, maybe we can actually go towards merging the PR at the end of this. And Jordan, if you can get a chance to go through the survey, that'll also be good.
+
+127
+00:12:00.690 --> 00:12:04.889
+Jordan Augé: I pinged on the chat, to see if,
+
+128
+00:12:05.720 --> 00:12:08.969
+Jordan Augé: We need some approval, or if we have a way to…
+
+129
+00:12:10.540 --> 00:12:15.379
+Jordan Augé: To promote this, maybe, in a kind of plenary session, like,
+
+130
+00:12:15.870 --> 00:12:20.919
+Jordan Augé: one slide, so I don't know if we have a way to make, like, one slide explaining
+
+131
+00:12:21.510 --> 00:12:27.249
+Jordan Augé: why we are doing that, with a link to the survey and likely a QR code, so that we could share it.
+
+132
+00:12:27.940 --> 00:12:28.780
+Jordan Augé: And…
+
+133
+00:12:29.700 --> 00:12:38.929
+Sanjeev Suresh: Yeah, yeah, I think, I mean, this is just getting the survey participation, I think, will require some effort on, like, I mean, everyone's part to actually publicize it.
+
+134
+00:12:39.420 --> 00:12:41.220
+Sanjeev Suresh: Yeah.
+
+135
+00:12:42.350 --> 00:12:50.439
+Sanjeev Suresh: And maybe we can ask the leads for advice on if they have any recommendations on, like, the manic, or…
+
+136
+00:12:53.230 --> 00:12:55.290
+Jordan Augé: So maybe if we manage to…
+
+137
+00:12:55.620 --> 00:13:02.770
+Jordan Augé: Advertise it a bit in the different agent con, and then send an email. That could have, like, a big reach, so…
+
+138
+00:13:02.880 --> 00:13:04.709
+Jordan Augé: Let's see if money cancels.
+
+139
+00:13:05.260 --> 00:13:05.820
+Sanjeev Suresh: Yep.
+
+140
+00:13:10.880 --> 00:13:18.389
+Jordan Augé: So, I encourage, everyone here on the call to… Have a try, so…
+
+141
+00:13:18.560 --> 00:13:24.629
+Jordan Augé: One thing… so I did very late, it was today, actually. One thing I was, wondering is,
+
+142
+00:13:24.780 --> 00:13:31.529
+Jordan Augé: This is really focusing to one project, so we've been working on quite a few ones, and I was always hesitating to…
+
+143
+00:13:32.830 --> 00:13:39.479
+Jordan Augé: to try to answer to multiple, survey, like, one for each project we've been working on. I don't know if this is something,
+
+144
+00:13:40.000 --> 00:13:43.290
+Jordan Augé: We want to allow, or we want people to answer only once.
+
+145
+00:13:45.700 --> 00:13:48.230
+Sanjeev Suresh: If people are working on more than one project?
+
+146
+00:13:48.830 --> 00:13:51.989
+Jordan Augé: Yeah, for example, we are an innovation division, so we tend to
+
+147
+00:13:52.200 --> 00:13:55.220
+Jordan Augé: Do a lot of perks and experiments, so…
+
+148
+00:13:55.360 --> 00:14:00.789
+Jordan Augé: sometimes I had comments that would differ Yeah, I mean…
+
+149
+00:14:00.790 --> 00:14:17.219
+Sanjeev Suresh: like, I don't think no one is stopping people from, like, I don't know how we can even poll this people doing it multiple times, other than I don't think people will be doing it multiple times, just because it's not a paid survey, and even to get someone to do it once in a real fashion, I think will be challenging, so…
+
+150
+00:14:17.220 --> 00:14:19.079
+Jordan Augé: So the more we get, the better.
+
+151
+00:14:21.150 --> 00:14:22.240
+Jordan Augé: That's true, also.
+
+152
+00:14:23.710 --> 00:14:26.089
+Jordan Augé: I was too good a student.
+
+153
+00:14:26.640 --> 00:14:40.630
+Sanjeev Suresh: I mean, so what I'll do is, like, so right now, I think there's, like, some six odd responses on the survey, like, please, like, others also just go through it, because while you go through it, if there's any usability concerns, or if something feels, like, too difficult.
+
+154
+00:14:40.690 --> 00:14:55.929
+Sanjeev Suresh: Please flag that, like, I'll merge the PR, like, I mean, shortly, but, for the survey itself, I will, I mean, make this as an archive and make a copy so that there'll be, like, a fresh final survey which doesn't have any of the test responses.
+
+155
+00:14:59.510 --> 00:15:07.659
+Jordan Augé: I think two things we could do is start drafting, like, a one slide, if we want to give it to people to advertise it.
+
+156
+00:15:08.410 --> 00:15:18.660
+Jordan Augé: We could prepare an email also, so that we can show that to Manick and ask for feedback eventually, and see what's the best way to disseminate it.
+
+157
+00:15:20.370 --> 00:15:21.250
+Sanjeev Suresh: Yep, yep.
+
+158
+00:15:21.730 --> 00:15:25.700
+Jordan Augé: I don't know if you see other things we could do to… Extend the reach.
+
+159
+00:15:25.960 --> 00:15:43.719
+Sanjeev Suresh: And I think just… I mean, we were talking maybe last week, and we can talk maybe once Jesse is back next time, too, like, to have some sort of, maybe, for our Accuracy and Reliability working group, I mean, we were initially talking either an in-person event or a virtual summit, and maybe a virtual summit might make sense in which we can have, like, a
+
+160
+00:15:43.720 --> 00:15:48.179
+Sanjeev Suresh: I mean, pick some day, say, in October, or towards the end of October.
+
+161
+00:15:48.380 --> 00:15:54.320
+Sanjeev Suresh: Have some couple of speakers, and also in that, like, advertise.
+
+162
+00:15:54.740 --> 00:16:11.570
+Sanjeev Suresh: I mean, fairly more actively. Maybe one additional thing we could say is that, like, like, if you fill out the survey, you can optionally be invited to an early discussion, of the results with the leads of the working group, or something like that.
+
+163
+00:16:11.900 --> 00:16:13.870
+Sanjeev Suresh: If that is motivation to some people.
+
+164
+00:16:17.460 --> 00:16:21.709
+Jordan Augé: So, for sure, what we can put in the text of the email or the slide is the…
+
+165
+00:16:22.050 --> 00:16:28.579
+Jordan Augé: the deliverable we are working on, like, in a few lines, explain, I guess, what is this gap analysis, and
+
+166
+00:16:28.890 --> 00:16:32.389
+Jordan Augé: This is the opportunity for us to start getting concrete, and
+
+167
+00:16:32.890 --> 00:16:36.610
+Jordan Augé: For solutions to tackle this problem, and we are trying to ping you for the…
+
+168
+00:16:37.350 --> 00:16:41.920
+Jordan Augé: Biggest pain points you have in terms of your workloads?
+
+169
+00:16:42.390 --> 00:16:47.280
+Jordan Augé: And say that this will directly contribute to the… the deliverable…
+
+170
+00:16:47.390 --> 00:16:49.970
+Jordan Augé: content and prioritized subjects, I guess.
+
+171
+00:16:50.080 --> 00:16:52.370
+Jordan Augé: If we manage to frame it like this…
+
+172
+00:16:52.520 --> 00:16:55.979
+Jordan Augé: People would understand a bit how it's… It will be used.
+
+173
+00:17:06.520 --> 00:17:09.819
+Jordan Augé: So, in terms of work organization, so…
+
+174
+00:17:11.609 --> 00:17:16.759
+Jordan Augé: once we submit that, I guess we… we need to see what we want to do, so…
+
+175
+00:17:17.730 --> 00:17:19.030
+Jordan Augé: What do you think?
+
+176
+00:17:19.700 --> 00:17:23.129
+Jordan Augé: We can do for the gap analysis, do you think…
+
+177
+00:17:23.339 --> 00:17:32.449
+Jordan Augé: We can try to advance on it while the survey is in progress on orthogonal topics, or do you think this one should be posed and we need to think of…
+
+178
+00:17:32.830 --> 00:17:47.069
+Sanjeev Suresh: No, I think we should start discussion, and start, I mean, work on it. I mean, like, a lot of work is just also just collecting thoughts from different people, so I think it doesn't have to necessarily wait. We can get additional information.
+
+179
+00:17:48.560 --> 00:17:50.450
+Sanjeev Suresh: As we go along, at least that's my take.
+
+180
+00:17:54.440 --> 00:17:57.269
+Jordan Augé: There are sections that are,
+
+181
+00:17:58.320 --> 00:18:03.839
+Jordan Augé: at least there is a first draft, so… there, I guess, we welcome all comments you might have.
+
+182
+00:18:04.320 --> 00:18:16.569
+Jordan Augé: changes, additions, challenging what we are saying, and there are sections that are completely empty, so if you have some, IDs, don't hesitate to contribute bullet points to the…
+
+183
+00:18:17.220 --> 00:18:20.810
+Jordan Augé: To the document, so it's still linked to the running notes document.
+
+184
+00:18:21.830 --> 00:18:34.259
+Sanjeev Suresh: Yeah, and I think this is just gonna be a challenge, right? Thus, like, I mean, since that is written, there's, like, just so many… I mean, the field is just advancing so fast that how many things are still relevant as of that date and today.
+
+185
+00:18:34.730 --> 00:18:49.859
+Sanjeev Suresh: Yeah, I mean, so at least maybe the structure of it is something, like, I mean, especially, like, as we work towards the document, is that the kind of structure we want? Is something… and maybe it's something we can even actually reflect on. Is this document actually still valid today?
+
+186
+00:18:49.950 --> 00:18:59.199
+Sanjeev Suresh: From what we wrote, like, a couple of months ago, or first draft of what we draft. And if it is, maybe that kind of structure is a good structure, or something, yeah.
+
+187
+00:19:01.500 --> 00:19:10.320
+Jordan Augé: One direction I think would be useful is to start, I don't know what you think, putting the document in light with some tools that we have today.
+
+188
+00:19:12.730 --> 00:19:13.570
+Jordan Augé: like…
+
+189
+00:19:14.110 --> 00:19:33.630
+Jordan Augé: following the life cycle of your Agentic application, like, from the time you develop it, or you research components, or you try to bring it to prod, or benchmark it, or advertise it as a product owner. So, finding, really, all the different tools that we have today to do that.
+
+190
+00:19:34.080 --> 00:19:36.670
+Jordan Augé: And try to see how they fit.
+
+191
+00:19:37.640 --> 00:19:39.570
+Jordan Augé: Some needs that we have.
+
+192
+00:19:39.800 --> 00:19:46.469
+Jordan Augé: like, to establish a kind of landscape of accuracy, reliability? I mean, what contributions do we have today?
+
+193
+00:19:48.330 --> 00:19:56.430
+Jordan Augé: take the user satisfaction, for example. What do we have today as a framework or tools to, especially open source, to help users do that?
+
+194
+00:19:56.680 --> 00:19:59.560
+Jordan Augé: If we talk about the human-in-the-loop side.
+
+195
+00:20:01.000 --> 00:20:10.250
+Jordan Augé: what do we have today for implementing that? And we could maybe establish a kind of landscape. I think it will show clearly some fragmentation, lack of…
+
+196
+00:20:10.730 --> 00:20:11.480
+Sanjeev Suresh: Yeah.
+
+197
+00:20:11.890 --> 00:20:15.520
+Jordan Augé: Protocols, lack of… Yeah.
+
+198
+00:20:15.520 --> 00:20:31.250
+Sanjeev Suresh: Yeah, in fact, like, maybe we can structure it, like, I mean, now the survey, like, so we can work in progress for this landscape, and we can also say that we have done the survey with a thousand participants, or, like, whatever, and, I mean, present also some sort of early survey ourselves, if…
+
+199
+00:20:31.380 --> 00:20:33.630
+Sanjeev Suresh: Like, either on the same paper, or…
+
+200
+00:20:34.600 --> 00:20:41.139
+Sanjeev Suresh: I mean, because that… I mean, one, just an, like, analysis of landscape, and two, what users actually feel, practitioners actually feel.
+
+201
+00:20:49.600 --> 00:20:55.820
+Jordan Augé: Yeah, so I don't know, we can't kickstart that, but if you have some return on experience in…
+
+202
+00:20:55.930 --> 00:21:01.259
+Jordan Augé: Pen-source components you have been using to… Deploy something, so…
+
+203
+00:21:02.080 --> 00:21:06.699
+Jordan Augé: Let's not wait for the survey, let's try maybe to see if we can kickstart some landscape.
+
+204
+00:21:07.150 --> 00:21:11.200
+Jordan Augé: At least define the different topics where we see there is a need.
+
+205
+00:21:12.610 --> 00:21:17.699
+Jordan Augé: where do we have gaps? Only on-made solutions. I think it would be nice to see that.
+
+206
+00:21:21.260 --> 00:21:25.749
+Jordan Augé: Any girls we want to discuss on this part?
+
+207
+00:21:30.870 --> 00:21:33.220
+Matthew Khouzam | Lunch: You probably saw I put feedback in the chat.
+
+208
+00:21:33.350 --> 00:21:39.919
+Sanjeev Suresh: Yeah, so, I can update, so I think that's just a Google Form updates on, yeah, for the…
+
+209
+00:21:39.920 --> 00:21:40.550
+Matthew Khouzam | Lunch: Yep.
+
+210
+00:21:40.550 --> 00:21:45.099
+Sanjeev Suresh: The no, like, the survey early exit, add a thank you. I'll do that.
+
+211
+00:21:45.100 --> 00:21:45.640
+Matthew Khouzam | Lunch: Yeah.
+
+212
+00:21:46.200 --> 00:21:48.220
+Sanjeev Suresh: And yeah, that's…
+
+213
+00:21:48.220 --> 00:21:49.570
+Matthew Khouzam | Lunch: The person's gonna panic, yeah.
+
+214
+00:21:49.570 --> 00:21:50.830
+Sanjeev Suresh: Yeah, yeah.
+
+215
+00:21:54.430 --> 00:22:03.869
+Sanjeev Suresh: Yeah, so other than that, like, any other concerns on the PR? If not, like, the PR can be merged, and then, like, just further edits in the…
+
+216
+00:22:04.120 --> 00:22:10.820
+Sanjeev Suresh: And I can share the survey, edit taxes to you, Jordan, Matthew, and so, yeah.
+
+217
+00:22:10.930 --> 00:22:12.669
+Sanjeev Suresh: Anyone else interested?
+
+218
+00:22:15.790 --> 00:22:16.359
+Jordan Augé: Thank you.
+
+219
+00:22:19.750 --> 00:22:21.639
+Matthew Khouzam | Lunch: I have a process question regarding that.
+
+220
+00:22:22.270 --> 00:22:24.059
+Matthew Khouzam | Lunch: A lot of these patches…
+
+221
+00:22:24.220 --> 00:22:28.139
+Matthew Khouzam | Lunch: I've been sitting for a while, and everyone agrees that it's good, but it's not perfect.
+
+222
+00:22:29.570 --> 00:22:30.480
+Matthew Khouzam | Lunch: would…
+
+223
+00:22:31.070 --> 00:22:36.550
+Matthew Khouzam | Lunch: Sanjeev, are you finding that this is slowing you down? Would it be better to merge and then just patch?
+
+224
+00:22:37.460 --> 00:22:40.530
+Matthew Khouzam | Lunch: Because of the burden of all the remain… the…
+
+225
+00:22:40.640 --> 00:22:43.740
+Matthew Khouzam | Lunch: chain of thought in your… in that PR.
+
+226
+00:22:43.740 --> 00:22:49.280
+Sanjeev Suresh: Yeah, yeah, yeah, yeah, I think it's been open for a fairly long time right now, and, like, each time, like, I mean, at least…
+
+227
+00:22:50.160 --> 00:22:52.910
+Sanjeev Suresh: I mean, the feedback so far is addressed.
+
+228
+00:22:53.030 --> 00:23:01.170
+Sanjeev Suresh: Yeah, maybe it might make sense to merge, and if there's anything else, like, have it as a separate discussion or separate BR, yeah.
+
+229
+00:23:02.520 --> 00:23:13.290
+Jordan Augé: I think we can use these meetings as, like, ticks to merge ongoing PRs, like, we do iterations in general, on deliverables, any documents.
+
+230
+00:23:13.890 --> 00:23:20.369
+Jordan Augé: We take the feedback over the last two weeks, we close a few days before meetings, and during meetings, we agree to merge a PR, and if there are…
+
+231
+00:23:20.970 --> 00:23:27.800
+Jordan Augé: Changes, we can iterate. And at some point, we can eventually vote to say whether we believe it's complete or not.
+
+232
+00:23:32.660 --> 00:23:36.050
+Sanjeev Suresh: So, any concerns, I mean, in the room for merging the PR?
+
+233
+00:23:40.870 --> 00:23:43.830
+Jordan Augé: You can raise the hand if you disagree, eventually.
+
+234
+00:23:44.690 --> 00:23:46.660
+Jordan Augé: Or a few things, there are things to be addressed.
+
+235
+00:23:53.790 --> 00:23:54.690
+Jordan Augé: Exactly
+
+236
+00:23:58.130 --> 00:24:03.310
+Jordan Augé: So, no ends up, so… I assume there is no stronger gamer to give it.
+
+237
+00:24:03.550 --> 00:24:06.279
+Jordan Augé: And Matthew's voice is counting 10.
+
+238
+00:24:09.290 --> 00:24:10.790
+Jordan Augé: No, you can proceed, I guess.
+
+239
+00:24:13.370 --> 00:24:19.220
+Sanjeev Suresh: Yeah, yeah, so you will do the merge, right? I don't know if I have merge access to the repo, or…
+
+240
+00:24:21.350 --> 00:24:27.599
+Jordan Augé: So you should, and if not, I can't see if I can grant you access, and worst case, we can ask Christina also.
+
+241
+00:24:27.600 --> 00:24:28.120
+Sanjeev Suresh: Okay.
+
+242
+00:24:28.390 --> 00:24:28.890
+Matthew Khouzam | Lunch: I think…
+
+243
+00:24:28.890 --> 00:24:29.450
+Jordan Augé: It's his daughter.
+
+244
+00:24:29.450 --> 00:24:34.540
+Matthew Khouzam | Lunch: It's only people in the TC, technical committee that have, Merge access.
+
+245
+00:24:35.640 --> 00:24:36.940
+Matthew Khouzam | Lunch: Just to give you more work.
+
+246
+00:24:43.680 --> 00:24:47.660
+Jordan Augé: Okay, so… If you are done with this…
+
+247
+00:24:47.780 --> 00:24:51.550
+Jordan Augé: topic, so I guess for deliverable one.
+
+248
+00:24:56.380 --> 00:24:58.199
+Jordan Augé: Any question?
+
+249
+00:24:58.940 --> 00:25:06.759
+Jordan Augé: On this part, so… I think that the tool from Mathieu, I think it's a good way to
+
+250
+00:25:07.070 --> 00:25:09.169
+Jordan Augé: Give a boost to the effort.
+
+251
+00:25:09.510 --> 00:25:23.349
+Jordan Augé: it's much more accessible, so… I suggest we start from the… there is one chapter with the accuracy, reliability, and trying to give different dimensions to accuracy and reliability, so that could give us, like,
+
+252
+00:25:23.550 --> 00:25:29.389
+Jordan Augé: A few terms we want to put. For sure, accuracy, reliability, we need to define them and then start refining a bit.
+
+253
+00:25:29.830 --> 00:25:34.950
+Jordan Augé: So I suggest we try to… Contribute to… to those terms?
+
+254
+00:25:35.750 --> 00:25:44.730
+Jordan Augé: And have a look at this section, maybe in priority, so I'll try to put that in the minutes. So, any feedback or anything you would like to discuss, Adid, don't hesitate to share on…
+
+255
+00:25:44.890 --> 00:25:46.399
+Jordan Augé: During the meeting or not.
+
+256
+00:25:53.260 --> 00:26:02.190
+Jordan Augé: So, otherwise, a recurring question with previous meetings…
+
+257
+00:26:02.660 --> 00:26:08.720
+Jordan Augé: Do we want to start, establishing liaison with other working groups? So…
+
+258
+00:26:09.600 --> 00:26:21.149
+Jordan Augé: I was trying to think about observability, so until we understand more the different metrics to measure accuracy reliability, it's very hard to bootstrap something, so…
+
+259
+00:26:22.090 --> 00:26:27.989
+Jordan Augé: I think we need a bit of preparation work before it, so that's maybe the opportunity to…
+
+260
+00:26:28.360 --> 00:26:30.869
+Jordan Augé: Leverage the deliverable on liaison document.
+
+261
+00:26:31.380 --> 00:26:39.729
+Jordan Augé: To see what are the needs and objectives we can have with the relations with the different working groups, and start tackling that.
+
+262
+00:26:44.290 --> 00:26:47.340
+Matthew Khouzam | Lunch: I'm going to give a counter-argument that.
+
+263
+00:26:47.880 --> 00:26:52.389
+Matthew Khouzam | Lunch: Speaking to the people earlier, Is a good way to…
+
+264
+00:26:52.510 --> 00:26:57.259
+Matthew Khouzam | Lunch: Better, to have a better, project all in all, and…
+
+265
+00:26:57.740 --> 00:27:04.190
+Matthew Khouzam | Lunch: Basically, we can define our needs when we hear other people talking about it and realizing, oh wait, no, that's objectively false.
+
+266
+00:27:07.030 --> 00:27:11.079
+Jordan Augé: But don't you think we need a bit of material to start engaging conversation?
+
+267
+00:27:11.550 --> 00:27:12.449
+Matthew Khouzam | Lunch: I would argue.
+
+268
+00:27:12.450 --> 00:27:13.960
+Jordan Augé: Great, yeah.
+
+269
+00:27:14.140 --> 00:27:22.010
+Matthew Khouzam | Lunch: So, Govind has this, meeting on Monday, Eastern Standard Time, afternoon.
+
+270
+00:27:22.210 --> 00:27:24.160
+Matthew Khouzam | Lunch: Probably for you, evening.
+
+271
+00:27:25.640 --> 00:27:29.590
+Matthew Khouzam | Lunch: And it's a terrible name, it's called Circleback. Security Circleback.
+
+272
+00:27:30.710 --> 00:27:33.550
+Matthew Khouzam | Lunch: In reality, it's supposed to be a…
+
+273
+00:27:33.650 --> 00:27:38.279
+Matthew Khouzam | Lunch: Everyone from every working group gets together to make sure that we… if we have common ground or not.
+
+274
+00:27:40.080 --> 00:27:42.299
+Matthew Khouzam | Lunch: And it's a half-hour meeting, I'm already there.
+
+275
+00:27:42.530 --> 00:27:47.009
+Matthew Khouzam | Lunch: I can… I'm wearing an observability hat, but I can also put on an accuracy hat.
+
+276
+00:27:50.190 --> 00:27:52.329
+Matthew Khouzam | Lunch: But there are many of these meetings that
+
+277
+00:27:52.800 --> 00:27:57.340
+Matthew Khouzam | Lunch: What I'm gonna recommend, just for all the friends here, is that if there's anything that interests you, that's elsewhere.
+
+278
+00:27:58.390 --> 00:27:59.789
+Matthew Khouzam | Lunch: Sit into the meetings.
+
+279
+00:28:00.040 --> 00:28:01.120
+Matthew Khouzam | Lunch: Have popcorn.
+
+280
+00:28:01.990 --> 00:28:07.689
+Matthew Khouzam | Lunch: And that way, we can come back here and have a deliverable, but already know what we're going towards.
+
+281
+00:28:11.780 --> 00:28:15.199
+Matthew Khouzam | Lunch: That's, that's my two cents, though, and I could be completely wrong.
+
+282
+00:28:31.530 --> 00:28:31.990
+Brian Malone: This is my wife.
+
+283
+00:28:31.990 --> 00:28:33.269
+Matthew Khouzam | Lunch: I'm saying you're muted.
+
+284
+00:28:45.630 --> 00:28:49.360
+Jordan Augé: Yes, me, I'm muted. So, I thought Matthew. Okay.
+
+285
+00:28:49.840 --> 00:28:53.450
+Jordan Augé: Sorry for this. Now, so,
+
+286
+00:28:54.310 --> 00:29:03.369
+Jordan Augé: I think for this circle-back meeting, it's sometimes very hard for people to attend. I know Casper also cannot make it on Mondays, so… if we can have a few representatives…
+
+287
+00:29:03.930 --> 00:29:12.650
+Jordan Augé: That could be nice, so… Mathieu, of course, you could have the hat, but if we can have other people willing to attend and make the link between this meeting, that could be very useful.
+
+288
+00:29:13.850 --> 00:29:19.280
+Jordan Augé: So, I'll put that in the minutes, but if you're interested in attending this meeting, so I'll try to collect
+
+289
+00:29:19.920 --> 00:29:22.559
+Jordan Augé: All the detail, and put that in the action points.
+
+290
+00:29:22.930 --> 00:29:25.629
+Jordan Augé: And it would be nice to have a few volunteers on this one.
+
+291
+00:29:26.890 --> 00:29:29.870
+Matthew Khouzam | Lunch: I'm gonna ask for a favor, by the way, when you speak to the TC.
+
+292
+00:29:30.410 --> 00:29:35.309
+Matthew Khouzam | Lunch: ask them to give Circleback a better name, because it doesn't represent what it does.
+
+293
+00:29:38.300 --> 00:29:44.090
+Jordan Augé: We had a meeting on Monday, but most people were absent, so…
+
+294
+00:29:44.280 --> 00:29:46.460
+Jordan Augé: Next Monday, I'll try to raise this.
+
+295
+00:29:56.010 --> 00:29:57.980
+Jordan Augé: I booked an action point.
+
+296
+00:29:58.130 --> 00:30:02.820
+Jordan Augé: Communicate about meeting and find… Volunteers…
+
+297
+00:30:11.590 --> 00:30:18.699
+Jordan Augé: So, I think we should put some notes about the different efforts. There is a draft of a liaison document, so…
+
+298
+00:30:19.200 --> 00:30:25.029
+Jordan Augé: That's a way also to log the different exchange that we have in these meetings, or IDs we have.
+
+299
+00:30:25.170 --> 00:30:28.020
+Jordan Augé: In what could be… In the exchange.
+
+300
+00:30:33.000 --> 00:30:37.070
+Jordan Augé: Big question, so… Are some of you feeling…
+
+301
+00:30:37.320 --> 00:30:44.190
+Jordan Augé: Not actively interested by the different deliverables who are in progress, and willing to start tackling overwork.
+
+302
+00:30:51.390 --> 00:30:59.119
+Jordan Augé: So, so far, we have two tracks in progress, the one on, taxonomy terminology, which is D1, the second one on the gap.
+
+303
+00:31:02.750 --> 00:31:06.210
+Jordan Augé: I think the first one needs a lot of feedback at this stage.
+
+304
+00:31:08.120 --> 00:31:11.090
+Jordan Augé: Second is, huff.
+
+305
+00:31:11.190 --> 00:31:14.790
+Jordan Augé: Feedback, half bootstrapping new sections, and we'll survey.
+
+306
+00:31:15.510 --> 00:31:16.579
+Jordan Augé: Yes, my tum?
+
+307
+00:31:16.930 --> 00:31:21.859
+Matthew Khouzam | Lunch: So there is, an issue or opportunity within the taxonomy Working Group.
+
+308
+00:31:22.200 --> 00:31:27.140
+Matthew Khouzam | Lunch: There's someone that's not part of it, who has been very generous and contributing a lot of…
+
+309
+00:31:27.290 --> 00:31:35.160
+Matthew Khouzam | Lunch: code that… I suspect English is not their first language, And they basically auto-generated it?
+
+310
+00:31:35.980 --> 00:31:46.169
+Matthew Khouzam | Lunch: But then, in the comments and everything, their responses are very clearly made with ChatGPT, In my opinion, Luna?
+
+311
+00:31:47.220 --> 00:31:51.009
+Matthew Khouzam | Lunch: So, it's a… it's very hard to review this, right?
+
+312
+00:31:51.140 --> 00:32:00.919
+Matthew Khouzam | Lunch: If people want to come in and review it, that would be doing the taxonomy group a major solid, if they find things that are in their domain, in their wheelhouse.
+
+313
+00:32:07.010 --> 00:32:12.410
+Matthew Khouzam | Lunch: The person that did these contributions has, in my opinion, good intents, yes?
+
+314
+00:32:12.410 --> 00:32:19.190
+Sanjeev Suresh: Do you mean that it's hard to review because the, I mean, the language slash PR is bad, in the sense of it's hard to read?
+
+315
+00:32:19.900 --> 00:32:21.890
+Matthew Khouzam | Lunch: But remember that these are recorded, right?
+
+316
+00:32:22.020 --> 00:32:22.590
+Sanjeev Suresh: Yeah.
+
+317
+00:32:22.900 --> 00:32:27.340
+Matthew Khouzam | Lunch: The language is technically correct.
+
+318
+00:32:28.980 --> 00:32:35.920
+Matthew Khouzam | Lunch: But I… I strongly suspect that the person vibed everything, and didn't read it. Because sometimes the…
+
+319
+00:32:36.500 --> 00:32:39.240
+Matthew Khouzam | Lunch: Sometimes the sentences are self-referential.
+
+320
+00:32:40.010 --> 00:32:44.450
+Matthew Khouzam | Lunch: And so… It's, it's just… It's just very taxing.
+
+321
+00:32:44.740 --> 00:32:45.980
+Matthew Khouzam | Lunch: To review these.
+
+322
+00:32:47.260 --> 00:32:50.680
+Matthew Khouzam | Lunch: And I'm trying to reach out to the person who seems to be in the Australian time zone.
+
+323
+00:32:51.090 --> 00:32:59.069
+Sanjeev Suresh: I mean, so I think, I mean, this is a problem I've heard just in general across, like, open source projects, right? Like, I mean…
+
+324
+00:32:59.070 --> 00:33:03.540
+Matthew Khouzam | Lunch: No, no, we're getting slot bombed, if you want to say it bluntly.
+
+325
+00:33:04.090 --> 00:33:08.800
+Matthew Khouzam | Lunch: And… The person has contributed to pretty much every working group so far.
+
+326
+00:33:11.040 --> 00:33:12.920
+Matthew Khouzam | Lunch: And I think it's good intentions again.
+
+327
+00:33:23.210 --> 00:33:26.180
+Jordan Augé: So you've added that to action points for this meeting.
+
+328
+00:33:27.450 --> 00:33:31.609
+Jordan Augé: So, general ask is everyone to review the different content of deliverables.
+
+329
+00:33:32.400 --> 00:33:41.619
+Jordan Augé: Let's use the circleback meeting as a way to start establishing communication with the different working groups, and it would be nice to better understand the interface.
+
+330
+00:33:41.880 --> 00:33:43.660
+Jordan Augé: And we have the document.
+
+331
+00:33:43.950 --> 00:33:46.820
+Jordan Augé: I won internal liaison document.
+
+332
+00:33:47.880 --> 00:34:06.739
+Sanjeev Suresh: I mean, we can also try to, like, put out some… I mean, like, there's no clear way to police that, but some sort of guidelines, like, if you are using AI to generate your text, make sure, I mean, you have read it clearly, or, like, some general guidelines of what we expect a contribution bar to be.
+
+333
+00:34:07.390 --> 00:34:12.639
+Matthew Khouzam | Lunch: we should have this policy, and I think that it is coming, isn't it? Like, I heard in other working groups that it's coming.
+
+334
+00:34:16.960 --> 00:34:21.389
+Matthew Khouzam | Lunch: And it would be completely hypocritical if we refuse AI code.
+
+335
+00:34:21.510 --> 00:34:23.350
+Matthew Khouzam | Lunch: for AI contributions.
+
+336
+00:34:27.479 --> 00:34:35.259
+Brian Malone: this might be a little bit of a divergence, but Matthew, do you think it's somebody writing in their native language, and then using the translator, and then it ends up being slop?
+
+337
+00:34:36.940 --> 00:34:41.459
+Matthew Khouzam | Lunch: That is the theory I am omitting, because it's the one where that person comes out as a hero.
+
+338
+00:34:41.670 --> 00:34:42.270
+Brian Malone: Okay.
+
+339
+00:34:43.889 --> 00:34:44.690
+Brian Malone: Got it.
+
+340
+00:34:54.179 --> 00:35:00.839
+Jordan Augé: So I think we covered the different points I had in the agenda, so I don't know if you see any other track worth discussing, so…
+
+341
+00:35:01.079 --> 00:35:03.409
+Jordan Augé: I'll put open points, indirection points.
+
+342
+00:35:04.979 --> 00:35:07.259
+Jordan Augé: We can use a flying time for that.
+
+343
+00:35:07.489 --> 00:35:09.499
+Jordan Augé: Do you see anything we want to discuss?
+
+344
+00:35:19.940 --> 00:35:25.380
+Matthew Khouzam | Lunch: There is one thing that… There's another working group…
+
+345
+00:35:25.600 --> 00:35:30.210
+Matthew Khouzam | Lunch: First off, there's a couple pieces of technology that I think would be very interesting for the working group.
+
+346
+00:35:30.840 --> 00:35:35.080
+Matthew Khouzam | Lunch: One of them is… and it's because I also work with the Eclipse people.
+
+347
+00:35:35.390 --> 00:35:37.830
+Matthew Khouzam | Lunch: Have you heard of, Eclipse Enclave?
+
+348
+00:35:40.430 --> 00:35:47.490
+Matthew Khouzam | Lunch: So, I just want to advertise it because it's like nono.sh, but instead of being in Dockers, it's in full-on VMs.
+
+349
+00:35:47.990 --> 00:35:51.459
+Matthew Khouzam | Lunch: Which means that it's much more isolated.
+
+350
+00:35:52.050 --> 00:35:55.400
+Matthew Khouzam | Lunch: This could be interesting if you guys… it's more security?
+
+351
+00:35:56.110 --> 00:35:58.220
+Matthew Khouzam | Lunch: But, at the same time, I think that…
+
+352
+00:35:58.440 --> 00:36:01.679
+Matthew Khouzam | Lunch: You know, our practice day-to-day goes everywhere.
+
+353
+00:36:02.710 --> 00:36:09.179
+Matthew Khouzam | Lunch: The other one is, Eclipse Thea AI, which is that they have an ID with an Agentic harness built in.
+
+354
+00:36:09.330 --> 00:36:14.040
+Matthew Khouzam | Lunch: That's, that's actually moderately novel, surprisingly. I thought it would be everywhere.
+
+355
+00:36:21.120 --> 00:36:21.960
+Matthew Khouzam | Lunch: Yes.
+
+356
+00:36:22.980 --> 00:36:28.219
+Matthew Khouzam | Lunch: Eclipse Enclave… to Sandbox Agents.
+
+357
+00:36:29.650 --> 00:36:31.260
+Matthew Khouzam | Lunch: Eclipse Thea.
+
+358
+00:36:32.060 --> 00:36:37.680
+Matthew Khouzam | Lunch: ID with… Agent… At… It's core.
+
+359
+00:36:42.250 --> 00:36:46.270
+Matthew Khouzam | Lunch: Or you could… I could have done an even better, like… Brian there, but…
+
+360
+00:36:47.470 --> 00:36:49.340
+Matthew Khouzam | Lunch: That sentence I will say very often.
+
+361
+00:36:51.760 --> 00:36:57.099
+Sanjeev Suresh: It's been a long time since I used Eclipse or heard of it mentioned in this.
+
+362
+00:36:59.690 --> 00:37:00.240
+Matthew Khouzam | Lunch: Oh!
+
+363
+00:37:00.600 --> 00:37:04.019
+Matthew Khouzam | Lunch: I… I tented to the wrong place, I'll send it right now.
+
+364
+00:37:07.280 --> 00:37:07.939
+Matthew Khouzam | Lunch: There we go.
+
+365
+00:37:09.760 --> 00:37:13.280
+Matthew Khouzam | Lunch: So, Eclipse is not just Eclipse. They do a lot of things, but
+
+366
+00:37:13.390 --> 00:37:19.239
+Matthew Khouzam | Lunch: I do know that they stuck to that name. It's just like we're part of Linux Foundation, but we're not doing Linux AI.
+
+367
+00:37:30.410 --> 00:37:42.519
+Jordan Augé: Okay, so… Over the next two weeks, so… I suggest we do this effort to contribute on terminology. I'll try to highlight the names of the terms we want to focus.
+
+368
+00:37:42.760 --> 00:37:47.100
+Jordan Augé: But feel free to suggest what you believe is interesting, of course.
+
+369
+00:37:48.500 --> 00:37:51.329
+Jordan Augé: I'll ask them to have reviews.
+
+370
+00:37:51.330 --> 00:37:59.869
+Sanjeev Suresh: I'll make a slide, with the survey link or something, so that, I mean, can we possibly put in, like, some sort of materials.
+
+371
+00:38:00.060 --> 00:38:09.999
+Sanjeev Suresh: Yeah, is there some sort of, like, template or style guidelines of, the foundation or anything to follow so that it fits with, typically…
+
+372
+00:38:11.440 --> 00:38:15.810
+Jordan Augé: I've not seen anything so far, but that's something clearly I can check.
+
+373
+00:38:15.810 --> 00:38:16.500
+Sanjeev Suresh: Yeah.
+
+374
+00:38:21.600 --> 00:38:23.510
+Jordan Augé: Alright, in the minutes or so…
+
+375
+00:38:29.150 --> 00:38:29.830
+Jordan Augé: Complete.
+
+376
+00:38:36.090 --> 00:38:40.449
+Jordan Augé: And some material… Produced one slide.
+
+377
+00:38:41.140 --> 00:38:46.850
+Jordan Augé: Plus, email, draft… Father, sorry.
+
+378
+00:38:53.300 --> 00:38:58.370
+Jordan Augé: Okay, so next meeting, I guess we'll, maybe we could,
+
+379
+00:38:58.520 --> 00:39:04.609
+Jordan Augé: Make a status check on the state of the two deliverables that we have, partial or not, integrate
+
+380
+00:39:04.810 --> 00:39:09.019
+Jordan Augé: Feedback, and encourage people to submit feedback, and maybe,
+
+381
+00:39:09.680 --> 00:39:16.930
+Jordan Augé: Start this process of iterating over versions, like merging current state and iterating from there, so…
+
+382
+00:39:17.350 --> 00:39:21.370
+Jordan Augé: Not that we have too many comments to… to sort of, but
+
+383
+00:39:22.040 --> 00:39:25.500
+Jordan Augé: I expect that we can resume activity on those two things.
+
+384
+00:39:25.500 --> 00:39:32.100
+Sanjeev Suresh: Yeah, and maybe with AgentCon and, like, just highlighting, like, our working group in some capacity, we might get more people also.
+
+385
+00:39:32.460 --> 00:39:33.120
+Sanjeev Suresh: Coming up.
+
+386
+00:39:34.550 --> 00:39:35.200
+Jordan Augé: Let's see.
+
+387
+00:39:36.820 --> 00:39:46.369
+Jordan Augé: No, and feel free to suggest content for next topics you want to work on if you feel you would like to work on something which is not currently the work.
+
+388
+00:39:49.270 --> 00:39:50.920
+Jordan Augé: Thank you, everyone, for your time.
+
+389
+00:39:53.250 --> 00:39:54.069
+Jordan Augé: Do you?
+
+390
+00:39:54.410 --> 00:39:55.450
+Matthew Khouzam | Lunch: Thanks, everyone!
+
